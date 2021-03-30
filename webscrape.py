@@ -21,7 +21,7 @@ from difflib import SequenceMatcher
 options = Options()
 options.add_argument("--window-size=1920,1200")
 
-driver_p = r'C:\Users\Simon\Downloads\chromedriver'
+driver_p = r'C:\Users\NAME\Downloads\chromedriver'
 driver = webdriver.Chrome(executable_path = driver_p)
 
 
@@ -389,90 +389,90 @@ edge_list = edge_list_final
 
 
 # save the edge_list LCS
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LCS.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LCS.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 
 # save the edge_list LEC
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LEC.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LEC.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 
 # save the edge_list LCK
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LCK.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LCK.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 
 # save the edge_list LPL
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LPL.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LPL.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list brazilian leagues
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\BRL.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\BRL.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list OPL
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\OPL.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\OPL.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list PCL
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\PCL.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\PCL.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list TCL
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\TCL.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\TCL.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list VCS
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\VCS.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\VCS.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list LCL
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LCL.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LCL.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list LJL
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LJL.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LJL.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list LL
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LL.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\LL.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list Worlds
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\worlds.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\worlds.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list MSI
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\MSI.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\MSI.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 # save the edge_list IEM
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\IEM.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\IEM.pckl', 'wb')
 #pickle.dump([edge_list, teams_df, meta_data], filehandler)
 #filehandler.close
 
 
-file = pd.read_csv('C:/Users/Simon/OneDrive/Documents/GitHub/LeagueTeamsNetwork/final_edge_list.csv')
+file = pd.read_csv('C:/Users/NAME/OneDrive/Documents/GitHub/LeagueTeamsNetwork/final_edge_list.csv')
 long_edge_list = file.values.tolist()
 
 
 # concatenating all edge lists
-path = 'C:/Users/Simon/OneDrive/Documents/GitHub/LeagueTeamsNetwork/'
+path = 'C:/Users/NAME/OneDrive/Documents/GitHub/LeagueTeamsNetwork/'
 all_pickles = os.listdir(path)
 long_edge_list = []
 long_teams_df = pd.DataFrame()
@@ -495,7 +495,7 @@ edge_list_df = pd.DataFrame(edge_list_final, columns = list(['From', 'To']))
 edge_list_df.to_csv(path_or_buf = path + 'final_edge_list.csv', index = False)
 
 ############################## Worlds MSI and IEM were added later, separate code for that
-path = 'C:/Users/Simon/OneDrive/Documents/GitHub/LeagueTeamsNetwork/'
+path = 'C:/Users/NAME/OneDrive/Documents/GitHub/LeagueTeamsNetwork/'
 long_edge_list = []
 long_teams_df = pd.DataFrame()
 long_meta_data = pd.DataFrame(columns = list(['gamer_tag', 'full_name', 'role', 'residency', 'country', 'team']))
@@ -511,7 +511,7 @@ edge_list_final = evaluateDuplicates(long_edge_list)
 long_edge_list = edge_list_final
 
 # save the edge_list international tournaments
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\IEM_WORLDS_MSI.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\IEM_WORLDS_MSI.pckl', 'wb')
 #pickle.dump([long_edge_list, long_teams_df, long_meta_data], filehandler)
 #filehandler.close
 
@@ -552,11 +552,11 @@ edge_list = evaluateDuplicates(long_edge_list, check_gamer_tag = True)
 long_edge_list = edge_list
 
 # save for use later
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\final_edge_list.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\final_edge_list.pckl', 'wb')
 #pickle.dump([edge_list], filehandler)
 #filehandler.close
 #
-#filehandler = open(r'C:\Users\Simon\OneDrive\Documents\GitHub\LeagueTeamsNetwork\names_seen_list.pckl', 'wb')
+#filehandler = open(r'C:\Users\NAME\OneDrive\Documents\GitHub\LeagueTeamsNetwork\names_seen_list.pckl', 'wb')
 #pickle.dump([seen_list], filehandler)
 #filehandler.close
 
@@ -633,7 +633,7 @@ removeRedundancies(long_meta_data, 'country', country_coll, lower = True)
 long_meta_data = long_meta_data.drop_duplicates()
 
 # save as csv
-path = 'C:/Users/Simon/OneDrive/Documents/GitHub/LeagueTeamsNetwork/'
+path = 'C:/Users/NAME/OneDrive/Documents/GitHub/LeagueTeamsNetwork/'
 long_meta_data.to_csv(path_or_buf = path + 'meta_data.csv', index = False)
 long_teams_df.to_csv(path_or_buf = path + 'teams_data.csv', index = False)
 edge_list_df = pd.DataFrame(edge_list_final, columns = list(['From', 'To']))
@@ -641,7 +641,7 @@ edge_list_df.to_csv(path_or_buf = path + 'final_edge_list.csv', index = False)
 
 
 # create sub_edge_lists from the pckl files
-path = 'C:/Users/Simon/OneDrive/Documents/GitHub/LeagueTeamsNetwork/'
+path = 'C:/Users/NAME/OneDrive/Documents/GitHub/LeagueTeamsNetwork/'
 all_pickles = os.listdir(path)
 for i in ['final_edge_list.csv', 'final_edge_list.pckl', 'league_2012_2021_edge_list.csv', 'meta_data.csv', 'names_seen_list.pckl', 'sub_edge_lists', 'teams_data.csv', 'webscrape.py']:
     all_pickles.remove(i)
