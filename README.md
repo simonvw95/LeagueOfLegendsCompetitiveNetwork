@@ -12,7 +12,7 @@ The overarching goal of this project was to acquire data regarding professional 
 4. teams_data.csv
 5. webscrape.py
 6. sub_edge_lists
-   1. BRL.csv
+   1. CBLOL.csv
    2. IEM.csv
    3. IEM_WORLDS_MSI.csv
    4. LCK.csv
@@ -24,7 +24,7 @@ The overarching goal of this project was to acquire data regarding professional 
    10. LPL.csv
    11. MSI.csv
    12. OPL.csv
-   13. PCL.csv
+   13. PCS.csv
    14. TCL.csv
    15. VCS.csv
    16. worlds.csv
@@ -63,10 +63,32 @@ player_5 | - [x] | - [x] | - [ ] |
 coach_1 | - [x] | - [x] | - [x] |
 sub_1 | - [ ] | - [ ] | - [x] |
 
-The webscraping process was performed for every major league and tournament. Within every major league, the separate sub tournaments (e.g. play-ins, play-offs etc.) was then found, and subsequently every participating team and their match data was then found. After the extraction of all the edges, team data, and meta data; the tags, last names and gamer tags + last names were compared in the edge list in order to detect if there were duplicate names for the same person. This process was performed for all the individual edge lists, the joined edge list named 'league_2012_2021_edge_list.csv' went through this cleaning process multiple times. In cases where players had multiple gamer tags (e.g. incarnati0n (Nicolaj Jensen) and Jensen (Nicolaj Jensen)) one of the two was overwritten. However, due to inconsistent data entries some players would then receive their old gamer tag rather than their newest gamer tag. 
+The webscraping process was performed for every major league and tournament, they are denoted in the 'sub_edge_lists' paragraph. Within every major league, the separate sub tournaments (e.g. play-ins, play-offs etc.) was then found, and subsequently every participating team and their match data was then found. After the extraction of all the edges, team data, and meta data; the tags, last names and gamer tags + last names were compared in the edge list in order to detect if there were duplicate names for the same person. This process was performed for all the individual edge lists, the joined edge list named 'league_2012_2021_edge_list.csv' went through this cleaning process multiple times. In cases where players had multiple gamer tags (e.g. incarnati0n (Nicolaj Jensen) and Jensen (Nicolaj Jensen)) one of the two was overwritten. However, due to inconsistent data entries some players would then receive their old gamer tag rather than their newest gamer tag. 
 
 Again, due to inconsistent data entries, some columns in the meta data csv file had to be standardized. In the 'role' column, entries that were meant to be 'Top Lane' for example, could be denoted by 'T', 't', 'top' and others. This standardization process was repeated for every role. The 'country' column went through a similar process. Lastly, cleaning the 'residency' column proved to be a bit more tricky as some regions were later abandoned and residents from one no longer existing region were then assigned to a larger existing region. For example, the 'residency' column contained data entries such as 'OCE' and 'Oceania' which in October 2020 was dissolved and all players with residency in Oceania would acquire North American residency. This [page](https://lol.fandom.com/wiki/Residency_Requirements) was consulted in order to find such outliers.
 
+
 ## sub_edge_lists
 
-This folder contains all the separate edge lists from each major league and major internation tournament. These files are particularly handy if one wishes to view one specific tournament or league. If they are joined, however, the data will not be clean as players may appear under different names. For instance, Jo "CoreJJ" Yong-in (Hangul: 조용인) appears in the LCS and thus in the LCS.csv file, yet Jo "Core" Yong-in (Hangul: 조용인) will appear in the LCK.csv file as that player played in the LCK under a slightly different gamer tag. The large edge list 'league_2012_2021_edge_list.csv' has been cleaned so that these mistakes won't appear.
+This folder contains all the separate edge lists from each major league and major internation tournament. These files are particularly handy if one wishes to view one specific tournament or league.
+
+The table below depicts the ranges of each league/tournament. Ongoing indicates that the particular league is currently still active. Mix indicates that the csv file contains a mix of multiple tournaments. The % Collected column indicates the amount of data that could be collected using a reliable method, in most cases all of the data could be collected **except** for the Qualifiers tournaments which were apart of nearly all leagues. In very few cases, data was simply not available in the table format as presented in the beginning of the previous paragraph. For example, the OPL has listed 24 Main Events and 8 Qualifiers of which 24 and and 7 could be webscraped, respectively, giving us a % Collected of 31/32 * 100 = 96.9%. 
+
+League/Tournament | Start | End | Start Data Collection | End Data Collection | % Collected
+------------ | ------------- | ------------- | -------------
+CBLOL | 26-04-2014 | Ongoing | 26-4-2014 | 31-3-2021 | 100%
+IEM | 04-03-2011 | 26-02-2017 | 23-11-2013 | 26-02-2017 | 51.7%
+IEM_WORLDS_MSI | Mix | Mix | Mix | 31-3-2021 | 
+LCK | 21-03-2012 | Ongoing | 03-07-2013 | 31-3-2021 | 78.8%
+LCL | 16-01-2016 | Ongoing | 16-01-2016 | 31-3-2021 | 100%
+LCS | 13-01-2013 | Ongoing | 07-02-2013 | 31-3-2021 | 98.0% 
+LEC | 12-12-2012 | Ongoing | 07-02-2013 | 31-3-2021 | 81.8% 
+LJL | 09-02-2014 | Ongoing | 24-01-2015 | 31-3-2021 | 86.1%
+LL | 19-01-2019 | Ongoing | 19-01-2019 | 31-3-2021 | 100% 
+LPL | 29-01-2013 | Ongoing | 16-03-2013 | 31-3-2021 | 93.0%
+MSI | 07-05-2015 | Ongoing | 07-05-2015 | 31-3-2021 | 100%
+OPL | 10-1-2015 | 28-08-2020 | 05-02-2015 | 28-08-2020 | 96.9%
+PCS | 29-02-2020 | Ongoing | 29-02-2020 | 31-3-2021 | 100% 
+TCL | 01-12-2013 | Ongoing | 24-01-2015 | 31-3-2021 | 80.5%
+VCS | 02-11-2013 | Ongoing | 30-07-2016 | 31-3-2021 | 65.1%
+WORLDS | 18-06-2011 | Ongoing | 04-10-2012 | 31-3-2021 | 90%
