@@ -49,7 +49,13 @@ LEP | Pedro Luiz Marcari | Top | Brazil | brazil |  KaBuM! Orange
 The teams_data csv file is in a wide format, it contains all of the named teams as columns. The rows are the members of that team that **actively** played together, as mentioned in the 2nd paragraph. As a result of the wide variety of teams, including teams that have simply renamed, the number of teams is very large. The resulting dataframe/table that can be created from this file contains 1691 teams with a maximum of 62 players per team.
 
 CNB | KaBuM | kStars | 
------------- | ------------- | ------------- 
+------------ | ------------- | -------------
+Alocs (Leonardo Belo) | Espeon (Martin Gonçalves) | SuNo (An Sun-ho (안순호))
+Leko (Whesley Holler) | LEP (Pedro Luiz Marcari) | Winged (Park Tae Jin (박태진))
+manajj (André Rocha) | Danagorn (Daniel Drummond) | Mylon (Matheus Borges)
+Revolta (Gabriel Henud) | TinOwns (Thiago Sartori) | brTT (Felipe Gonçalves)
+takeshi (Murilo Alves) | bit1 (Bruno Lima) | Loop (Caio Almeida)
+Aoshi (Franklin Coutinho) | nan | Winged (Park Tae-jin (박태진))
 
 
 ## webscrape.py
@@ -76,7 +82,7 @@ Again, due to inconsistent data entries, some columns in the meta data csv file 
 
 This folder contains all the separate edge lists from each major league and major internation tournament. These files are particularly handy if one wishes to view one specific tournament or league.
 
-The table below depicts the ranges of each league/tournament. Ongoing indicates that the particular league is currently still active. Mix indicates that the csv file contains a mix of multiple tournaments. The % Collected column indicates the amount of data that could be collected using a reliable method, in most cases all of the data could be collected **except** for the Qualifiers tournaments which were apart of nearly all leagues. In very few cases, data was simply not available in the table format as presented in the beginning of the previous paragraph. For example, the OPL has listed 24 Main Events and 8 Qualifiers of which 24 and and 7 could be webscraped, respectively, giving us a % Collected of 31/32 * 100 = 96.9%. 
+The table below depicts the ranges of each league/tournament. Ongoing indicates that the particular league is currently still active. Mix indicates that the csv file contains a mix of multiple tournaments. The % Collected column indicates the amount of data that could be collected using a reliable method. In most cases all of the data could be collected **except** for the Qualifiers tournaments which were apart of nearly all leagues. In very few cases, data was simply not available in the table format as presented in the beginning of the previous paragraph. For example, the OPL has listed 24 Main Events and 8 Qualifiers of which 24 and and 7 could be webscraped, respectively, giving us a % Collected of 31/32 * 100 = 96.9%. 
 
 League/Tournament | Start | End | Start Data Collection | End Data Collection | % Collected
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
@@ -91,7 +97,7 @@ LJL | 09-02-2014 | Ongoing | 24-01-2015 | 31-3-2021 | 86.1%
 LL | 19-01-2019 | Ongoing | 19-01-2019 | 31-3-2021 | 100% 
 LPL | 29-01-2013 | Ongoing | 16-03-2013 | 31-3-2021 | 93.0%
 MSI | 07-05-2015 | Ongoing | 07-05-2015 | 31-3-2021 | 100%
-OPL | 10-1-2015 | 28-08-2020 | 05-02-2015 | 28-08-2020 | 96.9%
+OPL | 10-01-2015 | 28-08-2020 | 05-02-2015 | 28-08-2020 | 96.9%
 PCS | 29-02-2020 | Ongoing | 29-02-2020 | 31-3-2021 | 100% 
 TCL | 01-12-2013 | Ongoing | 24-01-2015 | 31-3-2021 | 80.5%
 VCS | 02-11-2013 | Ongoing | 30-07-2016 | 31-3-2021 | 65.1%
