@@ -48,6 +48,10 @@ LEP | Pedro Luiz Marcari | Top | Brazil | brazil |  KaBuM! Orange
 ## teams_data.csv
 The teams_data csv file is in a wide format, it contains all of the named teams as columns. The rows are the members of that team that **actively** played together, as mentioned in the 2nd paragraph. As a result of the wide variety of teams, including teams that have simply renamed, the number of teams is very large. The resulting dataframe/table that can be created from this file contains 1691 teams with a maximum of 62 players per team.
 
+CNB | KaBuM | kStars | 
+------------ | ------------- | ------------- 
+
+
 ## webscrape.py
 The [lolfandom](https://lol.fandom.com/wiki/League_of_Legends_Esports_Wiki) website was used in order to webscrape the information of every tournament and league. Whether a player actively played a competitive match with another teammate could easily be extracted from pages such as [this](https://lol.fandom.com/wiki/LEC/2019_Season/Spring_Season/Team_Rosters) or more accurately [this](https://lol.fandom.com/wiki/LEC/2019_Season/Spring_Season/Team_Rosters?action=edit&section=1).
 
@@ -75,7 +79,7 @@ This folder contains all the separate edge lists from each major league and majo
 The table below depicts the ranges of each league/tournament. Ongoing indicates that the particular league is currently still active. Mix indicates that the csv file contains a mix of multiple tournaments. The % Collected column indicates the amount of data that could be collected using a reliable method, in most cases all of the data could be collected **except** for the Qualifiers tournaments which were apart of nearly all leagues. In very few cases, data was simply not available in the table format as presented in the beginning of the previous paragraph. For example, the OPL has listed 24 Main Events and 8 Qualifiers of which 24 and and 7 could be webscraped, respectively, giving us a % Collected of 31/32 * 100 = 96.9%. 
 
 League/Tournament | Start | End | Start Data Collection | End Data Collection | % Collected
------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
 CBLOL | 26-04-2014 | Ongoing | 26-4-2014 | 31-3-2021 | 100%
 IEM | 04-03-2011 | 26-02-2017 | 23-11-2013 | 26-02-2017 | 51.7%
 IEM_WORLDS_MSI | Mix | Mix | Mix | 31-3-2021 | 
