@@ -1,7 +1,5 @@
 # LeagueOfLegendsCompetitiveNetwork
 
-# Under construction, webscraping process is being repeated in order to weed out mistakes and add additional data to the edge list.
-
 ## This repository contains multiple CSV files where each contains information about competitive League of Legends players.
 
 The overarching goal of this project was to acquire data regarding professional LoL, short for League of Legends, players and see how they are connected to one another. The method of acquiring said data will be explained and shared via a python file (see List of contents).
