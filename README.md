@@ -61,7 +61,7 @@ brTT | Felipe Gonçalves | Ad Carry | Brazil | brazil | paiN Gaming
 LEP | Pedro Luiz Marcari | Top | Brazil | brazil |  KaBuM! Orange
 
 ## final_teams_data.csv
-The final_teams_data csv file is in a wide format, it contains all of the named teams as columns. The rows are the members of that team that **actively** played together, as mentioned in the 2nd paragraph. As a result of the wide variety of teams, including teams that have simply renamed, the number of teams is very large. The resulting dataframe/table that can be created from this file contains 1529 teams with a maximum of 51 players per team.
+The final_teams_data csv file is in a wide format, it contains all of the named teams as columns. The rows are the members of that team that **actively** played together, as mentioned in the 2nd paragraph. As a result of the wide variety of teams, including teams that have simply renamed, the number of teams is very large. The resulting dataframe/table that can be created from this file contains 1529 teams with a maximum of 50 players per team.
 
 CNB | KaBuM | kStars | etc.
 ------------ | ------------- | ------------- | -------------
