@@ -1,10 +1,4 @@
 From,To,n_played,Region
-Badgamelol (),Chelby (Bradley Williams),4,OPL/Oceania
-Badgamelol (),Jaykey (Jayke Paulsen),7,OPL/Oceania
-Badgamelol (),Junnie (James An),5,OPL/Oceania
-Badgamelol (),Kenste (Samuel Richards),4,OPL/Oceania
-Badgamelol (),Maz (Ramsey Aoude),5,OPL/Oceania
-Badgamelol (),Porky (Nikolo Tayag) (Nikolo Tayag),4,OPL/Oceania
 Chelby (Bradley Williams),Jaykey (Jayke Paulsen),48,OPL/Oceania
 Chelby (Bradley Williams),Junnie (James An),11,OPL/Oceania
 Chelby (Bradley Williams),Kenste (Samuel Richards),26,OPL/Oceania
@@ -44,11 +38,6 @@ Rosey (Andrew Rose),Swip3rR (Brandon Holland),19,OPL/Oceania
 Spookz (Samuel Broadley),Swiffer (Simon Papamarkos),259,OPL/Oceania
 Spookz (Samuel Broadley),Swip3rR (Brandon Holland),161,OPL/Oceania
 Swiffer (Simon Papamarkos),Swip3rR (Brandon Holland),139,OPL/Oceania
-Badgamelol (),ChuffeR (Trevor Lao),2,OPL/Oceania
-Badgamelol (),Phantiks (Richard Su),2,OPL/Oceania
-Badgamelol (),Sharp (Curtis Morgan) (Curtis Morgan),2,OPL/Oceania
-Badgamelol (),Soulstrikes (Luchio Park (박희근)),2,OPL/Oceania
-Badgamelol (),K1ng (Calvin Truong),2,OPL/Oceania
 ChuffeR (Trevor Lao),Phantiks (Richard Su),24,OPL/Oceania
 ChuffeR (Trevor Lao),Sharp (Curtis Morgan) (Curtis Morgan),27,OPL/Oceania
 ChuffeR (Trevor Lao),Soulstrikes (Luchio Park (박희근)),19,OPL/Oceania
@@ -59,10 +48,6 @@ Phantiks (Richard Su),K1ng (Calvin Truong),108,OPL/Oceania
 Sharp (Curtis Morgan) (Curtis Morgan),Soulstrikes (Luchio Park (박희근)),19,OPL/Oceania
 Sharp (Curtis Morgan) (Curtis Morgan),K1ng (Calvin Truong),34,OPL/Oceania
 Soulstrikes (Luchio Park (박희근)),K1ng (Calvin Truong),19,OPL/Oceania
-Badgamelol (),Cheese (Daniel Brown),1,OPL/Oceania
-Badgamelol (),JKSmithy (Justin Smith),1,OPL/Oceania
-Badgamelol (),Zahe (Michael Dunn),1,OPL/Oceania
-Badgamelol (),tgun (Bradley Seymour),1,OPL/Oceania
 Cheese (Daniel Brown),JKSmithy (Justin Smith),8,OPL/Oceania
 Cheese (Daniel Brown),Ryoo (Ryoo Tae-hyung (류태형)),19,OPL/Oceania
 Cheese (Daniel Brown),UberBro (David Uebergang),16,OPL/Oceania
@@ -105,10 +90,6 @@ Energizer (Steffan Jordanidis),ayy paps (Adam Papadopoulos),4,OPL/Oceania
 MforMoon (Pang Mak),apink bomi2 (Kim Min-seop (김민섭)),14,OPL/Oceania
 MforMoon (Pang Mak),ayy paps (Adam Papadopoulos),9,OPL/Oceania
 apink bomi2 (Kim Min-seop (김민섭)),ayy paps (Adam Papadopoulos),16,OPL/Oceania
-Badgamelol (),Destiny (Mitchell Shaw) (Mitchell Shaw),1,OPL/Oceania
-Badgamelol (),Huey (Eddie Jiang),1,OPL/Oceania
-Badgamelol (),Rich Homie (Andre Brandle),1,OPL/Oceania
-Badgamelol (),chenyboy (James Chen),1,OPL/Oceania
 Destiny (Mitchell Shaw) (Mitchell Shaw),Huey (Eddie Jiang),7,OPL/Oceania
 Destiny (Mitchell Shaw) (Mitchell Shaw),Rich Homie (Andre Brandle),5,OPL/Oceania
 Destiny (Mitchell Shaw) (Mitchell Shaw),Skwiggle (Elliot Charters),4,OPL/Oceania
@@ -124,8 +105,6 @@ Rich Homie (Andre Brandle),dayshifted (Brendon Wong),4,OPL/Oceania
 Skwiggle (Elliot Charters),chenyboy (James Chen),4,OPL/Oceania
 Skwiggle (Elliot Charters),dayshifted (Brendon Wong),4,OPL/Oceania
 chenyboy (James Chen),dayshifted (Brendon Wong),6,OPL/Oceania
-Badgamelol (),Chippys (Ryan Short),5,OPL/Oceania
-Badgamelol (),Looch (Carlo La Civita),7,OPL/Oceania
 Chippys (Ryan Short),Jaykey (Jayke Paulsen),5,OPL/Oceania
 Chippys (Ryan Short),Looch (Carlo La Civita),5,OPL/Oceania
 Jaykey (Jayke Paulsen),Looch (Carlo La Civita),5,OPL/Oceania
@@ -1309,9 +1288,6 @@ ry0ma (Tommy Le),Skwiggle (Elliot Charters),2,OPL/Oceania
 ry0ma (Tommy Le),Spoil (Justin Tu),2,OPL/Oceania
 Skwiggle (Elliot Charters),Zammi (Jayem Buckley),5,OPL/Oceania
 Spoil (Justin Tu),Zammi (Jayem Buckley),5,OPL/Oceania
-Badgamelol (),Hulk (Huy Hunh),2,OPL/Oceania
-Badgamelol (),Kanade (CK Wong),2,OPL/Oceania
-Badgamelol (),Visionary (Nathan Everingham),2,OPL/Oceania
 Gagaters (Edward Stanjo),Skeltal (Lochlan Whitton),1,OPL/Oceania
 Gagaters (Edward Stanjo),Squidgy (Alex Trott),7,OPL/Oceania
 Gagaters (Edward Stanjo),Y x (Ben Pope),1,OPL/Oceania
@@ -1355,9 +1331,6 @@ Apple (Yohan Kim) (Yohan Kim),Fesh (Josh Necovski),2,OPL/Oceania
 Apple (Yohan Kim) (Yohan Kim),Mathew (Lau Kwan Ho (劉君豪)),1,OPL/Oceania
 Apple (Yohan Kim) (Yohan Kim),Virne (Dean McLeod),2,OPL/Oceania
 Apple (Yohan Kim) (Yohan Kim),Wilaris (Michael Matthai),2,OPL/Oceania
-Badgamelol (),Fesh (Josh Necovski),3,OPL/Oceania
-Badgamelol (),Mathew (Lau Kwan Ho (劉君豪)),3,OPL/Oceania
-Badgamelol (),Virne (Dean McLeod),3,OPL/Oceania
 Elsa (Lachlan Veld),Fesh (Josh Necovski),1,OPL/Oceania
 Elsa (Lachlan Veld),Virne (Dean McLeod),1,OPL/Oceania
 Elsa (Lachlan Veld),Wilaris (Michael Matthai),1,OPL/Oceania
@@ -1377,16 +1350,11 @@ Virne (Dean McLeod),Wilaris (Michael Matthai),4,OPL/Oceania
 Gagaters (Edward Stanjo),General (Nick McKenzie),3,OPL/Oceania
 Gagaters (Edward Stanjo),Looch (Carlo La Civita),3,OPL/Oceania
 Gagaters (Edward Stanjo),Pabu (Jackson Pavone),3,OPL/Oceania
-Ace (Liam Foley) (Liam Foley),Badgamelol (),4,OPL/Oceania
 Ace (Liam Foley) (Liam Foley),Frogadog (Michael Cornish),2,OPL/Oceania
 Ace (Liam Foley) (Liam Foley),Harri (Harrison Nguyen),3,OPL/Oceania
 Ace (Liam Foley) (Liam Foley),Mooboo (Chris Moody),7,OPL/Oceania
 Ace (Liam Foley) (Liam Foley),Remon (Lee Hornby),7,OPL/Oceania
 Ace (Liam Foley) (Liam Foley),Senex (Matthew Johnston),5,OPL/Oceania
-Badgamelol (),Frogadog (Michael Cornish),9,OPL/Oceania
-Badgamelol (),Mooboo (Chris Moody),11,OPL/Oceania
-Badgamelol (),Remon (Lee Hornby),11,OPL/Oceania
-Badgamelol (),Senex (Matthew Johnston),2,OPL/Oceania
 Frogadog (Michael Cornish),Mooboo (Chris Moody),9,OPL/Oceania
 Frogadog (Michael Cornish),Remon (Lee Hornby),9,OPL/Oceania
 Harri (Harrison Nguyen),Mooboo (Chris Moody),3,OPL/Oceania
@@ -1411,10 +1379,6 @@ Only (Jordan Middleton),Spoil (Justin Tu),13,OPL/Oceania
 Only (Jordan Middleton),Stealthix (Nicholas Tian),9,OPL/Oceania
 Spoil (Justin Tu),Squidgy (Alex Trott),4,OPL/Oceania
 Spoil (Justin Tu),Stealthix (Nicholas Tian),9,OPL/Oceania
-Badgamelol (),ChrisMisTrees (Christopher Trease),4,OPL/Oceania
-Badgamelol (),Masimo (Max Robberts-Cobb),2,OPL/Oceania
-Badgamelol (),Monkey (Corey Ehmer) (Corey Ehmer),2,OPL/Oceania
-Badgamelol (),Mr Belasta (Bryce Faherty),2,OPL/Oceania
 ChrisMisTrees (Christopher Trease),Masimo (Max Robberts-Cobb),7,OPL/Oceania
 ChrisMisTrees (Christopher Trease),Monkey (Corey Ehmer) (Corey Ehmer),6,OPL/Oceania
 ChrisMisTrees (Christopher Trease),Mr Belasta (Bryce Faherty),7,OPL/Oceania
@@ -1437,13 +1401,10 @@ DanDayn (Daniel Yow),Glup (Andy Liu),9,OPL/Oceania
 DanDayn (Daniel Yow),Manlala (Kai Man Leung),9,OPL/Oceania
 FivetoEight (Daniel Hicks),Manlala (Kai Man Leung),9,OPL/Oceania
 Glup (Andy Liu),Manlala (Kai Man Leung),9,OPL/Oceania
-Backsoo (Kwon Oh-seong (권오성)),Badgamelol (),1,OPL/Oceania
 Backsoo (Kwon Oh-seong (권오성)),Haeri (Harry Kang),3,OPL/Oceania
 Backsoo (Kwon Oh-seong (권오성)),Kanade (CK Wong),4,OPL/Oceania
 Backsoo (Kwon Oh-seong (권오성)),Swathe (Ryan Gibbons),4,OPL/Oceania
 Backsoo (Kwon Oh-seong (권오성)),Wilaris (Michael Matthai),4,OPL/Oceania
-Badgamelol (),Swathe (Ryan Gibbons),2,OPL/Oceania
-Badgamelol (),Wilaris (Michael Matthai),3,OPL/Oceania
 Haeri (Harry Kang),Kanade (CK Wong),5,OPL/Oceania
 Haeri (Harry Kang),Newto (Joshua Newton),2,OPL/Oceania
 Haeri (Harry Kang),Swathe (Ryan Gibbons),5,OPL/Oceania
@@ -1466,11 +1427,6 @@ Fesh (Josh Necovski),Praelus (Jordan Fernandes),4,OPL/Oceania
 Grisha (Gregory Epov),Praelus (Jordan Fernandes),1,OPL/Oceania
 Grisha (Gregory Epov),Regalia (Damian Tu),1,OPL/Oceania
 Praelus (Jordan Fernandes),Regalia (Damian Tu),7,OPL/Oceania
-Badgamelol (),General (Nick McKenzie),2,OPL/Oceania
-Badgamelol (),Kayo (Aaron Maharjan),1,OPL/Oceania
-Badgamelol (),Pabu (Jackson Pavone),2,OPL/Oceania
-Badgamelol (),Wzrd (Joshua Russell),2,OPL/Oceania
-Badgamelol (),Y x (Ben Pope),1,OPL/Oceania
 General (Nick McKenzie),Grisha (Gregory Epov),8,OPL/Oceania
 General (Nick McKenzie),Kayo (Aaron Maharjan),9,OPL/Oceania
 General (Nick McKenzie),Wzrd (Joshua Russell),10,OPL/Oceania
@@ -1482,7 +1438,6 @@ Kayo (Aaron Maharjan),Wzrd (Joshua Russell),9,OPL/Oceania
 Pabu (Jackson Pavone),Wzrd (Joshua Russell),10,OPL/Oceania
 Pabu (Jackson Pavone),Y x (Ben Pope),2,OPL/Oceania
 Wzrd (Joshua Russell),Y x (Ben Pope),1,OPL/Oceania
-Badgamelol (),Chazz (Jesse Mahoney),7,OPL/Oceania
 Chazz (Jesse Mahoney),Frogadog (Michael Cornish),7,OPL/Oceania
 Chazz (Jesse Mahoney),Mooboo (Chris Moody),10,OPL/Oceania
 Chazz (Jesse Mahoney),Remon (Lee Hornby),7,OPL/Oceania
@@ -1531,10 +1486,6 @@ Plug (Ryan Hogan),Soulstrikes (Luchio Park (박희근)),1,OPL/Oceania
 Plug (Ryan Hogan),YungCat (Jason John),1,OPL/Oceania
 Plug (Ryan Hogan),iSupervise (Cameron Douglas),1,OPL/Oceania
 Rumbie (Johnson Chen),YungCat (Jason John),1,OPL/Oceania
-Badgamelol (),Little Kop (Mickey Khanthisuwan),2,OPL/Oceania
-Badgamelol (),Rhysand (Alister Firmstone),1,OPL/Oceania
-Badgamelol (),Skamdiggidy (Todd Barnsley),2,OPL/Oceania
-Badgamelol (),rain (Marvin Wang) (Marvin Wang),2,OPL/Oceania
 Little Kop (Mickey Khanthisuwan),Rhysand (Alister Firmstone),6,OPL/Oceania
 Little Kop (Mickey Khanthisuwan),Vans (Morgan Khuu),1,OPL/Oceania
 Rhysand (Alister Firmstone),Skamdiggidy (Todd Barnsley),6,OPL/Oceania
@@ -1544,17 +1495,9 @@ Rhysand (Alister Firmstone),rain (Marvin Wang) (Marvin Wang),6,OPL/Oceania
 Skamdiggidy (Todd Barnsley),Vans (Morgan Khuu),16,OPL/Oceania
 Vans (Morgan Khuu),Wilaris (Michael Matthai),16,OPL/Oceania
 Vans (Morgan Khuu),rain (Marvin Wang) (Marvin Wang),16,OPL/Oceania
-Ark (Andrew Chun) (Andrew Chun),Badgamelol (),2,OPL/Oceania
 Ark (Andrew Chun) (Andrew Chun),Raven (Kosikan Kulasingham) (Kosikan Kulasingham),5,OPL/Oceania
 Ark (Andrew Chun) (Andrew Chun),Sprenstama (Keenan Baker),1,OPL/Oceania
 Ark (Andrew Chun) (Andrew Chun),Squidgy (Alex Trott),1,OPL/Oceania
-Badgamelol (),Decoy (Daniel Ealam),1,OPL/Oceania
-Badgamelol (),Praelus (Jordan Fernandes),4,OPL/Oceania
-Badgamelol (),Raven (Kosikan Kulasingham) (Kosikan Kulasingham),7,OPL/Oceania
-Badgamelol (),Shok (Ari Greene-Young),1,OPL/Oceania
-Badgamelol (),Sprenstama (Keenan Baker),7,OPL/Oceania
-Badgamelol (),Squidgy (Alex Trott),2,OPL/Oceania
-Badgamelol (),Tilting (Isaac Bellamy),2,OPL/Oceania
 Decoy (Daniel Ealam),Raven (Kosikan Kulasingham) (Kosikan Kulasingham),1,OPL/Oceania
 Decoy (Daniel Ealam),Squidgy (Alex Trott),1,OPL/Oceania
 Decoy (Daniel Ealam),Swathe (Ryan Gibbons),1,OPL/Oceania
@@ -1571,8 +1514,6 @@ Regalia (Damian Tu),Sprenstama (Keenan Baker),1,OPL/Oceania
 Shok (Ari Greene-Young),Squidgy (Alex Trott),1,OPL/Oceania
 Sprenstama (Keenan Baker),Tilting (Isaac Bellamy),2,OPL/Oceania
 Squidgy (Alex Trott),Swathe (Ryan Gibbons),1,OPL/Oceania
-Badgamelol (),Bluz0r (Jonothan Cannon),1,OPL/Oceania
-Badgamelol (),Low (Omar Aboulkheir) (Omar Aboulkheir),2,OPL/Oceania
 Bluz0r (Jonothan Cannon),Harri (Harrison Nguyen),1,OPL/Oceania
 Bluz0r (Jonothan Cannon),Low (Omar Aboulkheir) (Omar Aboulkheir),3,OPL/Oceania
 Bluz0r (Jonothan Cannon),Pabu (Jackson Pavone),1,OPL/Oceania
@@ -1582,14 +1523,10 @@ Harri (Harrison Nguyen),Pabu (Jackson Pavone),1,OPL/Oceania
 Harri (Harrison Nguyen),Y x (Ben Pope),1,OPL/Oceania
 Low (Omar Aboulkheir) (Omar Aboulkheir),Pabu (Jackson Pavone),1,OPL/Oceania
 Low (Omar Aboulkheir) (Omar Aboulkheir),Y x (Ben Pope),1,OPL/Oceania
-Artaphernes (Clinton Muldoon),Badgamelol (),6,OPL/Oceania
 Artaphernes (Clinton Muldoon),Bdoink (Dmitry Botov),7,OPL/Oceania
 Artaphernes (Clinton Muldoon),ChrisMisTrees (Christopher Trease),2,OPL/Oceania
 Artaphernes (Clinton Muldoon),DanDayn (Daniel Yow),9,OPL/Oceania
 Artaphernes (Clinton Muldoon),Sombre (Justin Carew),9,OPL/Oceania
-Badgamelol (),Bdoink (Dmitry Botov),4,OPL/Oceania
-Badgamelol (),DanDayn (Daniel Yow),6,OPL/Oceania
-Badgamelol (),Sombre (Justin Carew),6,OPL/Oceania
 Bdoink (Dmitry Botov),Sombre (Justin Carew),7,OPL/Oceania
 ChrisMisTrees (Christopher Trease),DanDayn (Daniel Yow),2,OPL/Oceania
 ChrisMisTrees (Christopher Trease),Sombre (Justin Carew),2,OPL/Oceania
@@ -1655,9 +1592,6 @@ Haeri (Harry Kang),draqon (Jeremy Souki),10,OPL/Oceania
 Plug (Ryan Hogan),Tilting (Isaac Bellamy),2,OPL/Oceania
 Plug (Ryan Hogan),draqon (Jeremy Souki),2,OPL/Oceania
 Tilting (Isaac Bellamy),draqon (Jeremy Souki),10,OPL/Oceania
-Badgamelol (),Harri (Harrison Nguyen),7,OPL/Oceania
-Badgamelol (),Jopan (Jonah Skordos),1,OPL/Oceania
-Badgamelol (),amitle (Amit Levin),1,OPL/Oceania
 Chenxuan (Wu Zheng-Hang (吴征航)),Nana (Alex Kang) (Alex Kang),1,OPL/Oceania
 Chenxuan (Wu Zheng-Hang (吴征航)),Panda (Adem Tontu) (Adem Tontu),2,OPL/Oceania
 Chenxuan (Wu Zheng-Hang (吴征航)),Souli (Paris Sitzoukis),2,OPL/Oceania
@@ -1963,11 +1897,6 @@ Mine (Chad Biddle) (Chad Biddle),Visionary (Nathan Everingham),4,OPL/Oceania
 Mine (Chad Biddle) (Chad Biddle),Zippo (Liam Folley),4,OPL/Oceania
 Visionary (Nathan Everingham),Zippo (Liam Folley),12,OPL/Oceania
 Guts (Eldin Skenderovic),Phantiks (Richard Su),6,OPL/Oceania
-Badgamelol (),Eloh (Jackson De Jonge),2,OPL/Oceania
-Badgamelol (),Falkner (Nathan Mills),2,OPL/Oceania
-Badgamelol (),Reelople (Peter Bui),2,OPL/Oceania
-Badgamelol (),Tekker (William Marinic),2,OPL/Oceania
-Badgamelol (),ianno (Ian Lin),2,OPL/Oceania
 Eloh (Jackson De Jonge),Falkner (Nathan Mills),4,OPL/Oceania
 Eloh (Jackson De Jonge),Reelople (Peter Bui),4,OPL/Oceania
 Eloh (Jackson De Jonge),Tekker (William Marinic),4,OPL/Oceania
@@ -1987,9 +1916,6 @@ Tekker (William Marinic),Zippo (Liam Folley),2,OPL/Oceania
 Tekker (William Marinic),ianno (Ian Lin),2,OPL/Oceania
 Tekker (William Marinic),styled (Gian Leon),5,OPL/Oceania
 Zippo (Liam Folley),styled (Gian Leon),2,OPL/Oceania
-Badgamelol (),Bushybooboo (Huy Huynh),2,OPL/Oceania
-Badgamelol (),Shore (Matthew Grover),2,OPL/Oceania
-Badgamelol (),"Zenk (William ""Billy"" Hunter)",2,OPL/Oceania
 Bushybooboo (Huy Huynh),Looch (Carlo La Civita),3,OPL/Oceania
 Bushybooboo (Huy Huynh),Shore (Matthew Grover),3,OPL/Oceania
 Bushybooboo (Huy Huynh),Sprenstama (Keenan Baker),3,OPL/Oceania
@@ -2003,15 +1929,10 @@ Seb (Sebastian de Ceglie) (Sebastian de Ceglie),"Zenk (William ""Billy"" Hunter)
 Shore (Matthew Grover),Sprenstama (Keenan Baker),3,OPL/Oceania
 Shore (Matthew Grover),"Zenk (William ""Billy"" Hunter)",14,OPL/Oceania
 Sprenstama (Keenan Baker),"Zenk (William ""Billy"" Hunter)",3,OPL/Oceania
-Alani (Aaron Brown),Badgamelol (),4,OPL/Oceania
 Alani (Aaron Brown),Beats (David Nguyen-Dang),6,OPL/Oceania
 Alani (Aaron Brown),Nausicaa (Cameron Maine),11,OPL/Oceania
 Alani (Aaron Brown),Pope (Sean Weier),4,OPL/Oceania
 Alani (Aaron Brown),Thien (Romeo Tran),6,OPL/Oceania
-Badgamelol (),Beats (David Nguyen-Dang),7,OPL/Oceania
-Badgamelol (),Nausicaa (Cameron Maine),7,OPL/Oceania
-Badgamelol (),Pope (Sean Weier),5,OPL/Oceania
-Badgamelol (),Thien (Romeo Tran),6,OPL/Oceania
 Beats (David Nguyen-Dang),Nausicaa (Cameron Maine),9,OPL/Oceania
 Beats (David Nguyen-Dang),Pope (Sean Weier),7,OPL/Oceania
 Beats (David Nguyen-Dang),Thien (Romeo Tran),8,OPL/Oceania
@@ -2040,11 +1961,6 @@ Berserker (Mark Mikha) (Mark Mikha),Mboma (Matthew Lionel Desa),14,OPL/Oceania
 Berserker (Mark Mikha) (Mark Mikha),Paladin (Joshua Metzger) (Joshua Metzger),15,OPL/Oceania
 Lived (Tristan Fulcher),Paladin (Joshua Metzger) (Joshua Metzger),14,OPL/Oceania
 Mboma (Matthew Lionel Desa),Paladin (Joshua Metzger) (Joshua Metzger),14,OPL/Oceania
-Badgamelol (),Emelg (Andy Chen),4,OPL/Oceania
-Badgamelol (),GuaPi (Brian Yu),3,OPL/Oceania
-Badgamelol (),Hotchelli (Bailey McDonald),3,OPL/Oceania
-Badgamelol (),Whynot (Raaz Alfassi Berman),15,OPL/Oceania
-Badgamelol (),retribution (Yanshun Chi),2,OPL/Oceania
 Emelg (Andy Chen),GuaPi (Brian Yu),16,OPL/Oceania
 Emelg (Andy Chen),Hotchelli (Bailey McDonald),16,OPL/Oceania
 Emelg (Andy Chen),Not Juves (Brandon Defina),4,OPL/Oceania
@@ -2093,11 +2009,6 @@ Kevy (Shane Allen),Rhysand (Alister Firmstone),4,OPL/Oceania
 Miazma (Joel Sawyer),Redempts (Francesco Marando),15,OPL/Oceania
 Miazma (Joel Sawyer),Rhysand (Alister Firmstone),4,OPL/Oceania
 Redempts (Francesco Marando),Rhysand (Alister Firmstone),4,OPL/Oceania
-Badgamelol (),Ceres (Evan Mascarenhas),1,OPL/Oceania
-Badgamelol (),JLKC (Jacob Low Kin Cheong),10,OPL/Oceania
-Badgamelol (),MOG (Almog Leyzerman),8,OPL/Oceania
-Badgamelol (),Vans (Morgan Khuu),11,OPL/Oceania
-Badgamelol (),Yueni (Benjamin Nguy),13,OPL/Oceania
 Ceres (Evan Mascarenhas),Harri (Harrison Nguyen),3,OPL/Oceania
 Ceres (Evan Mascarenhas),JLKC (Jacob Low Kin Cheong),3,OPL/Oceania
 Ceres (Evan Mascarenhas),MOG (Almog Leyzerman),3,OPL/Oceania
@@ -2123,10 +2034,6 @@ Higoodbye (Jason Nguyen),Spoil (Justin Tu),5,OPL/Oceania
 Higoodbye (Jason Nguyen),Unspecialize (Zihong Li),11,OPL/Oceania
 SanaKyul (Kevin Nguyen),Spoil (Justin Tu),2,OPL/Oceania
 Spoil (Justin Tu),Unspecialize (Zihong Li),5,OPL/Oceania
-Badgamelol (),Farmer (George Normore) (George Normore),2,OPL/Oceania
-Badgamelol (),Kimchiii (John Jang),3,OPL/Oceania
-Badgamelol (),Nightfaller (Lachlan Pham),2,OPL/Oceania
-Badgamelol (),Ryot (Roam),2,OPL/Oceania
 Cappy (Jarrod Cann),Farmer (George Normore) (George Normore),7,OPL/Oceania
 Cappy (Jarrod Cann),Kimchiii (John Jang),3,OPL/Oceania
 Cappy (Jarrod Cann),Nightfaller (Lachlan Pham),7,OPL/Oceania
@@ -2141,11 +2048,6 @@ Kimchiii (John Jang),Ryot (Roam),5,OPL/Oceania
 Lansen (Luka Andersen),Nightfaller (Lachlan Pham),1,OPL/Oceania
 Lansen (Luka Andersen),Ryot (Roam),1,OPL/Oceania
 Nightfaller (Lachlan Pham),Ryot (Roam),10,OPL/Oceania
-Badgamelol (),Buggy (Deane Xie),4,OPL/Oceania
-Badgamelol (),Cadence (Hugo Chang),4,OPL/Oceania
-Badgamelol (),Frolloc (Shane Gunawan),4,OPL/Oceania
-Badgamelol (),Hyper (Joshua O'Mara-Jackson) (Joshua O'Mara-Jackson),4,OPL/Oceania
-Badgamelol (),Midas (Nathaniel Shearer) (Nathaniel Shearer),4,OPL/Oceania
 Buggy (Deane Xie),Cadence (Hugo Chang),6,OPL/Oceania
 Buggy (Deane Xie),Frolloc (Shane Gunawan),6,OPL/Oceania
 Buggy (Deane Xie),Hyper (Joshua O'Mara-Jackson) (Joshua O'Mara-Jackson),6,OPL/Oceania
@@ -2187,10 +2089,6 @@ MUGI (Albert Cho),Winterer (Kim Dong-geun),2,OPL/Oceania
 Minhcam (Michael Minh Cam),Shinki (Brendan Ngo),1,OPL/Oceania
 Minhcam (Michael Minh Cam),Winterer (Kim Dong-geun),6,OPL/Oceania
 Shinki (Brendan Ngo),Winterer (Kim Dong-geun),2,OPL/Oceania
-Badgamelol (),Cupcake (Andy van der Vyver),12,OPL/Oceania
-Badgamelol (),Kalroc (Kalvik Raajendran),15,OPL/Oceania
-Badgamelol (),UDYSOF (Toby Horne),2,OPL/Oceania
-Badgamelol (),Wayy (Ryan Nicholls),15,OPL/Oceania
 Cupcake (Andy van der Vyver),Kalroc (Kalvik Raajendran),12,OPL/Oceania
 Cupcake (Andy van der Vyver),Wayy (Ryan Nicholls),12,OPL/Oceania
 Cupcake (Andy van der Vyver),Whynot (Raaz Alfassi Berman),11,OPL/Oceania
@@ -2205,11 +2103,6 @@ Kimchiii (John Jang),Wayy (Ryan Nicholls),2,OPL/Oceania
 Kimchiii (John Jang),Whynot (Raaz Alfassi Berman),1,OPL/Oceania
 UDYSOF (Toby Horne),Wayy (Ryan Nicholls),2,OPL/Oceania
 Wayy (Ryan Nicholls),Whynot (Raaz Alfassi Berman),13,OPL/Oceania
-Badgamelol (),Bambi (Liam Jowitt) (Liam Jowitt),10,OPL/Oceania
-Badgamelol (),JinXv (Salah),10,OPL/Oceania
-Badgamelol (),Kweku (Sam Eyeson-Annan),4,OPL/Oceania
-Badgamelol (),N0body (Lachlan Keene-O'Keefe),6,OPL/Oceania
-Badgamelol (),TrAshley (Ashley White),10,OPL/Oceania
 Bambi (Liam Jowitt) (Liam Jowitt),JinXv (Salah),10,OPL/Oceania
 Bambi (Liam Jowitt) (Liam Jowitt),Kweku (Sam Eyeson-Annan),4,OPL/Oceania
 Bambi (Liam Jowitt) (Liam Jowitt),TrAshley (Ashley White),10,OPL/Oceania
@@ -2233,11 +2126,6 @@ Kedu (Vinson Feng),Vans (Morgan Khuu),2,OPL/Oceania
 Nausicaa (Cameron Maine),Vans (Morgan Khuu),2,OPL/Oceania
 Nausicaa (Cameron Maine),sa11y (Jake Everson),10,OPL/Oceania
 sa11y (Jake Everson),styled (Gian Leon),10,OPL/Oceania
-Badgamelol (),Exeden (James Ryan),2,OPL/Oceania
-Badgamelol (),Fruitcake (Ben Moore),2,OPL/Oceania
-Badgamelol (),Maximize (Maximus Yaremenko),2,OPL/Oceania
-Badgamelol (),Vengeance (William Blackmore) (William Blackmore),2,OPL/Oceania
-Badgamelol (),Zytah (Jaden Clow),2,OPL/Oceania
 Exeden (James Ryan),Fruitcake (Ben Moore),15,OPL/Oceania
 Exeden (James Ryan),GDX (Wang Xiaogang),1,OPL/Oceania
 Exeden (James Ryan),Maximize (Maximus Yaremenko),15,OPL/Oceania
@@ -2250,9 +2138,6 @@ Fruitcake (Ben Moore),Zytah (Jaden Clow),8,OPL/Oceania
 GDX (Wang Xiaogang),Maximize (Maximus Yaremenko),1,OPL/Oceania
 Maximize (Maximus Yaremenko),Zytah (Jaden Clow),8,OPL/Oceania
 Vengeance (William Blackmore) (William Blackmore),Zytah (Jaden Clow),8,OPL/Oceania
-Badgamelol (),Clovus (Alan Nguyen),10,OPL/Oceania
-Badgamelol (),Eva (Jefferson),2,OPL/Oceania
-Badgamelol (),Framer (Timothy Bunnage),10,OPL/Oceania
 Clovus (Alan Nguyen),Eva (Jefferson),2,OPL/Oceania
 Clovus (Alan Nguyen),Framer (Timothy Bunnage),10,OPL/Oceania
 Clovus (Alan Nguyen),MOG (Almog Leyzerman),2,OPL/Oceania
@@ -2322,7 +2207,6 @@ Rivenge (Anas Emerizal),UNSHACKLED (Scott Lee),14,OPL/Oceania
 Rivenge (Anas Emerizal),amitle (Amit Levin),16,OPL/Oceania
 Sybol (Lachlan Civil),amitle (Amit Levin),2,OPL/Oceania
 UNSHACKLED (Scott Lee),amitle (Amit Levin),14,OPL/Oceania
-Azus (Blake Schlage),Badgamelol (),5,OPL/Oceania
 Azus (Blake Schlage),Cadence (Hugo Chang),2,OPL/Oceania
 Azus (Blake Schlage),Lansen (Luka Andersen),2,OPL/Oceania
 Azus (Blake Schlage),Sprenstama (Keenan Baker),2,OPL/Oceania
