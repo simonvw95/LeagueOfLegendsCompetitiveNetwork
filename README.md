@@ -50,6 +50,8 @@ Leko (Whesley Holler) | takeshi (Murilo Alves) | 37 | CBLOL/Brazil
 
 The edge list was meant for undirected networks, the existence of a connection such as (Alocs (Leonardo Belo), Leko (Whesley Holler)) implies the existence of the reverse connection (Leko (Whesley Holler), Alocs (Leonardo Belo)). The 'n_played' column denotes the number of matches a pair of players played together. The 'Region' column indicates in which region these two players played together. A duplicate edge **is possible** if the two players played together in a different region or at MSI/Worlds. Furthermore, the region entries indicate the main league plus the region as there are amateur leagues a grade lower than the main league: e.g. LCS/North America would also include the NA Challenger Series and LCS Academy League.
 
+Of the 42,000 edges, only a handful of players in that edge didn't have a gamer tag, this affected 107 edges to be exact. Though their first and last names are still usable.
+
 ## final_meta_data.csv
 The final_meta_data csv file contains roughly 18,000 lines and six columns. The meta data of every league and tournament was gathered and joined in to a single csv file. The entries in some columns were standardized in order to remove duplicate entries (e.g. adc/ADC/carry/bot were rewritten to Ad Carry). Duplicate entries may still appear due to missing data, inconsistent team naming or multiple roles/teams per player. The format of the meta_data.csv file is as follows, including a few example rows:
 
