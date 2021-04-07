@@ -63,14 +63,14 @@ LEP | Pedro Luiz Marcari | Top | Brazil | brazil |  KaBuM! Orange
 ## final_teams_data.csv
 The final_teams_data csv file is in a wide format, it contains all of the named teams as columns. The rows are the members of that team that **actively** played together, as mentioned in the 2nd paragraph. As a result of the wide variety of teams, including teams that have simply renamed, the number of teams is very large. The resulting dataframe/table that can be created from this file contains 1529 teams with a maximum of 51 players per team.
 
-CNB | KaBuM | kStars | .....
------------- | ------------- | ------------- | .....
-Alocs (Leonardo Belo) | Espeon (Martin Gonçalves) | SuNo (An Sun-ho (안순호)) | .....
-Leko (Whesley Holler) | LEP (Pedro Luiz Marcari) | Winged (Park Tae Jin (박태진)) | .....
-manajj (André Rocha) | Danagorn (Daniel Drummond) | Mylon (Matheus Borges) | .....
-Revolta (Gabriel Henud) | TinOwns (Thiago Sartori) | brTT (Felipe Gonçalves) | .....
-takeshi (Murilo Alves) | bit1 (Bruno Lima) | Loop (Caio Almeida) | .....
-Aoshi (Franklin Coutinho) | nan | Winged (Park Tae-jin (박태진)) | .....
+CNB | KaBuM | kStars | etc.
+------------ | ------------- | ------------- | -------------
+Alocs (Leonardo Belo) | Espeon (Martin Gonçalves) | SuNo (An Sun-ho (안순호)) | etc.
+Leko (Whesley Holler) | LEP (Pedro Luiz Marcari) | Winged (Park Tae Jin (박태진)) | etc.
+manajj (André Rocha) | Danagorn (Daniel Drummond) | Mylon (Matheus Borges) | etc.
+Revolta (Gabriel Henud) | TinOwns (Thiago Sartori) | brTT (Felipe Gonçalves) | etc.
+takeshi (Murilo Alves) | bit1 (Bruno Lima) | Loop (Caio Almeida) | etc.
+Aoshi (Franklin Coutinho) | nan | Winged (Park Tae-jin (박태진)) | etc.
 
 
 ## webscrape.py
@@ -93,10 +93,15 @@ The webscraping process was performed for every major league and tournament, the
 Due to inconsistent data entries (missing middle names/last names/nicknames/foreign translation), legal name changes, and gamer tag changes the players had to be compared to each other. Every single player was compared to every other player and their name similarity was sorted. This was done semi-manually, if the last names were the same and the gamer tag was the same except for capitalization, then the first occurrence of the name would overwrite the other occurrences. In the manual process, a script automatically opened two web pages each with a gamer tag, the two pages were then visually inspected to see if they were the same player. The players' full names (minus the gamer tags), their gamer tags, and their gamer tags plus the full names were compared in order to weed out duplicate mentions of the same player. Some examples of inconsistent entries:
 
 Comparison of gamer tags exposed this:
+
 **Nyjacky (Chenglong "Jacky" Wang) - Nyjacky (Chenglong Wang) - 1.0**
+
 Comparison of full names exposed this:
+
 **Jensen (Nicolaj Jensen) - Incarnati0n (Nicolaj Jensen) - 1.0**
+
 Comparison of gamer tags and full names exposed this:
+
 **catjug (Chen Yi-Jie (陈艺杰)) - catjungle (Chen Yi-Jie) - 0.82**
 
 A value of 1.0 meant that the string comparison was a 1 to 1 result, a perfect match. This cleaning process was repeated until no duplicates could be found. However, there may still be duplicates that could not be spotted. In most cases the most recent and accurate name was chosen to replace the older names.
