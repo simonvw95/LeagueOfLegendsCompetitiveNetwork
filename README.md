@@ -24,11 +24,12 @@ The overarching goal of this project was to acquire data regarding professional 
    9. LPL_China.csv
    10. LST_Southeast Asia.csv
    11. MSI.csv
-   12. OPL_OCeania.csv
+   12. OPL_Oceania.csv
    13. PCL_PCS.csv
    14. TCL_Turkey.csv
    15. VCS_Vietnam.csv
    16. WORLDS.csv
+7. Analysis
 
 ## Background information
 [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends) is a 2009 multiplayer online battle arena video game developed and published by Riot Games. Two teams battle and attempt to destroy each other's Nexus, the team that succeeds in doing so, wins. Teams are made up of five players though one or more coaches can be present for some phases of the beginning of the game (draft phase). 
@@ -133,3 +134,7 @@ PCL_PCS | 29-02-2020 | Ongoing | 29-02-2020 | 31-3-2021 | 100%
 TCL_Turkey | 01-12-2013 | Ongoing | 24-01-2015 | 31-3-2021 | 80.5%
 VCS_Vietnam | 02-11-2013 | Ongoing | 30-07-2016 | 31-3-2021 | 65.1%
 WORLDS | 18-06-2011 | Ongoing | 04-10-2012 | 31-3-2021 | 90%
+
+
+## Analysis
+Click on the 'analysis.md' file for preliminary results and analysis.
