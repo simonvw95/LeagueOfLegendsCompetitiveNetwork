@@ -116,24 +116,24 @@ This folder contains all the separate edge lists from each major league and majo
 
 The table below depicts the ranges of each league/tournament. Ongoing indicates that the particular league is currently still active. Mix indicates that the csv file contains a mix of multiple tournaments. The % Collected column indicates the amount of data that could be collected using a reliable method. In most cases all of the data could be collected **except** for the Qualifiers tournaments which were apart of nearly all leagues. In very few cases, data was simply not available in the table format as presented in the beginning of the previous paragraph. For example, the OPL has listed 24 Main Events and 8 Qualifiers of which 24 and and 7 could be webscraped, respectively, giving us a % Collected of 31/32 * 100 = 96.9%. 
 
-League/Tournament | Start | End | Start Data Collection | End Data Collection | % Collected
+League/Tournament | Start | End | Start Data Collection | End Data Collection | % Collected | Total Active Days Collected | 
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
-CBLOL_Brazil | 26-04-2014 | Ongoing | 26-4-2014 | 31-3-2021 | 100%
-LCK_South Korea | 21-03-2012 | Ongoing | 03-07-2013 | 31-3-2021 | 78.8%
-LCL_Russia | 16-01-2016 | Ongoing | 16-01-2016 | 31-3-2021 | 100%
-LCS_North America | 13-01-2013 | Ongoing | 07-02-2013 | 31-3-2021 | 98.0% 
-LEC_Europe | 12-12-2012 | Ongoing | 07-02-2013 | 31-3-2021 | 81.8% 
-LJL_Japan | 09-02-2014 | Ongoing | 24-01-2015 | 31-3-2021 | 86.1%
-LL_Latin America | 19-01-2019 | Ongoing | 19-01-2019 | 31-3-2021 | 100% 
-LMS_Taiwan + Hong Kong + Macao | 18-12-2014 | 23-08-2019 | 18-12-2014 | 23-08-2019 | 100%
-LPL_China | 29-01-2013 | Ongoing | 16-03-2013 | 31-3-2021 | 93.0%
-LST_Southeast Asia | 31-05-2018| 07-09-2019 | 13-08-2018 | 07-09-2019 | 14.8% (100% excluding qualifiers)
-MSI | 07-05-2015 | Ongoing | 07-05-2015 | 31-3-2021 | 100%
-OPL_Oceania | 10-01-2015 | 28-08-2020 | 05-02-2015 | 28-08-2020 | 96.9%
-PCL_PCS | 29-02-2020 | Ongoing | 29-02-2020 | 31-3-2021 | 100% 
-TCL_Turkey | 01-12-2013 | Ongoing | 24-01-2015 | 31-3-2021 | 80.5%
-VCS_Vietnam | 02-11-2013 | Ongoing | 30-07-2016 | 31-3-2021 | 65.1%
-WORLDS | 18-06-2011 | Ongoing | 04-10-2012 | 31-3-2021 | 90%
+[CBLOL_Brazil](https://lol.fandom.com/wiki/Circuit_Brazilian_League_of_Legends) | 26-04-2014 | Ongoing | 26-4-2014 | 31-3-2021 | 100% | 2532
+[LCK_South Korea](https://lol.fandom.com/wiki/League_of_Legends_Champions_Korea) | 13-01-2012 | Ongoing | 03-07-2013 | 31-3-2021 | 78.8% | 2829 
+[LCL_Russia](https://lol.fandom.com/wiki/League_of_Legends_Continental_League) | 16-01-2016 | Ongoing | 16-01-2016 | 31-3-2021 | 100% | 1902 
+[LCS_North America](https://lol.fandom.com/wiki/League_Championship_Series) | 11-01-2013 | Ongoing | 07-02-2013 | 31-3-2021 | 98.0% | 2975 
+[LEC_Europe](https://lol.fandom.com/wiki/LoL_European_Championship) | 10-12-2012 | Ongoing | 09-02-2013 | 31-3-2021 | 81.8% | 2973 
+[LJL_Japan](https://lol.fandom.com/wiki/League_of_Legends_Japan_League) | 09-02-2014 | Ongoing | 24-01-2015 | 31-3-2021 | 86.1% | 2259 
+[LL_Latin America](https://lol.fandom.com/wiki/Liga_Latinoam%C3%A9rica) | 19-01-2019 | Ongoing | 19-01-2019 | 31-3-2021 | 100% | 803 
+[LMS_Taiwan + Hong Kong + Macao](https://lol.fandom.com/wiki/League_of_Legends_Master_Series) | 18-12-2014 | 31-08-2019 | 18-12-2014 | 31-08-2019 | 100% | 1718 
+[LPL_China](https://lol.fandom.com/wiki/LoL_Pro_League) | 29-01-2013 | Ongoing | 16-03-2013 | 31-3-2021 | 93.0% | 2984 
+[LST_Southeast Asia](https://lol.fandom.com/wiki/League_of_Legends_SEA_Tour) | 31-05-2018| 15-09-2019 | 13-08-2018 | 15-09-2019 | 14.8% (100% excluding qualifiers) | 399 
+[MSI](https://lol.fandom.com/wiki/Mid-Season_Invitational) | 07-05-2015 | Ongoing | 07-05-2015 | 31-3-2021 | 100% | NA
+[OPL_Oceania](https://lol.fandom.com/wiki/Oceanic_Pro_League) | 10-01-2015 | 28-08-2020 | 05-02-2015 | 28-08-2020 | 96.9% | 2032 
+[PCL_PCS](https://lol.fandom.com/wiki/Pacific_Championship_Series) | 29-02-2020 | Ongoing | 29-02-2020 | 31-3-2021 | 100% | 397 
+[TCL_Turkey](https://lol.fandom.com/wiki/Turkish_Championship_League) | 01-12-2013 | Ongoing | 24-01-2015 | 31-3-2021 | 80.5% | 2259 
+[VCS_Vietnam](https://lol.fandom.com/wiki/Vietnam_Championship_Series) | 02-11-2013 | Ongoing | 30-07-2016 | 31-3-2021 | 65.1% | 1706 
+WORLDS | 18-06-2011 | Ongoing | 04-10-2012 | 31-3-2021 | 90% | NA
 
 
 ## Analysis
