@@ -6,7 +6,7 @@ Descriptive statistics of the graph
 Region | Nodes | Edges | Density | 
 ------------ | ------------- | ------------- | -------------
 LJL/Japan |211 | 1155 | 0.0521
-LL/Latin America |138 | 643 | 0.068
+LL/Latin America |138 | 643 | 0.0680
 LPL/China |1073 | 8109 | 0.0141
 OPL/Oceania |382 | 2223 | 0.0305
 LCS/North America |568 | 4642 | 0.0288
