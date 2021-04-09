@@ -25,6 +25,8 @@ All |4966 | 39620 | 0.0032 | NA
 
 ## Network properties
 
+### Density
+
 ### Degree
 
 ### Components
