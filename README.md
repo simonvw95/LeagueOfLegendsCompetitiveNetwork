@@ -117,7 +117,7 @@ This folder contains all the separate edge lists from each major league and majo
 The table below depicts the ranges of each league/tournament. Ongoing indicates that the particular league is currently still active. Mix indicates that the csv file contains a mix of multiple tournaments. The % Collected column indicates the amount of data that could be collected using a reliable method. In most cases all of the data could be collected **except** for the Qualifiers tournaments which were apart of nearly all leagues. In very few cases, data was simply not available in the table format as presented in the beginning of the previous paragraph. For example, the OPL has listed 24 Main Events and 8 Qualifiers of which 24 and and 7 could be webscraped, respectively, giving us a % Collected of 31/32 * 100 = 96.9%. 
 
 League/Tournament | Start | End | Start Data Collection | End Data Collection | % Collected | Total Active Days Collected | 
------------- | ------------- | ------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [CBLOL_Brazil](https://lol.fandom.com/wiki/Circuit_Brazilian_League_of_Legends) | 26-04-2014 | Ongoing | 26-4-2014 | 31-3-2021 | 100% | 2532
 [LCK_South Korea](https://lol.fandom.com/wiki/League_of_Legends_Champions_Korea) | 13-01-2012 | Ongoing | 03-07-2013 | 31-3-2021 | 78.8% | 2829 
 [LCL_Russia](https://lol.fandom.com/wiki/League_of_Legends_Continental_League) | 16-01-2016 | Ongoing | 16-01-2016 | 31-3-2021 | 100% | 1902 
