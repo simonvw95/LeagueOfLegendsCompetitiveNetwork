@@ -23,6 +23,10 @@ VCS/Vietnam |182 | 1441 | 0.0875 | 1706
 LCL/Russia |198 | 1010 | 0.0518 | 1902
 All |4966 | 39620 | 0.0032 | NA
 
+## Visual Inspection
+
+![](https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/LCK_LPL_LEC_LCS_legend.png =250x250)
+
 ## Network properties
 
 ### Density
