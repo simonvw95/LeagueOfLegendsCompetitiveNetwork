@@ -25,7 +25,7 @@ All |4966 | 39620 | 0.0032 | NA
 
 ## Visual Inspection
 
-<img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/LCK_LPL_LEC_LCS_legend.png" alt="Test" width="512" height="512">
+<img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/LCK_LPL_LEC_LCS_legend.png" alt="Test" width="1024" height="1024">
 
 ## Network properties
 
