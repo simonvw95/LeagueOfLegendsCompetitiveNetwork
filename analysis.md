@@ -25,7 +25,17 @@ All |4966 | 39620 | 0.0032 | NA
 
 ## Visual Inspection
 
+### LCK & LPL & LEC & LCS
 <img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/LCK_LPL_LEC_LCS_legend.png" alt="Test" width="1024" height="1024">
+
+### TCL & CBLOL & LMS & OPL
+<img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/TCL_CBLOL_LMS_OPL_legend.png" alt="Test" width="1024" height="1024">
+
+### LL & PCL & LST
+<img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/LL_PCL_LST_legend.png" alt="Test" width="1024" height="1024">
+
+### VCS & LJL & LCL
+<img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/VCS_LJL_LCL_legend.png" alt="Test" width="1024" height="1024">
 
 ## Network properties
 
