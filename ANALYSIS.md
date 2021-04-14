@@ -1,5 +1,15 @@
 # Analysis
 
+Questions to answer:
+
+1. Which region is the most interconnected?
+2. Which region is the most intraconnected?
+3. Which players are the most interconnected?
+4. Which players are the most intraconnected?
+5. Who is the 'Kevin Bacon' of the League of Legends community?
+6. Which coach is the most connected?
+
+
 ## Descriptive statistics
 Descriptive statistics of the graph
 
