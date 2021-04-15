@@ -1,6 +1,7 @@
 # Analysis
 
 Questions to answer:
+Considering an undirected Graph G:
 
 1. Which region is the most interconnected?
 2. Which region is the most intraconnected?
@@ -55,7 +56,16 @@ All |4966 | 39620 | 0.0032 | NA
 ### Components
 
 ### Distance
+Not factoring in weights.
 
+Measurement | Value | Node 1 | Node 2
+------------ | ------------- | ------------- 
+Average Distance | 4.39  | NA | NA
+Diameter (Longest Distance) | 11  | HellMa (Anastasiya Pleyko) \*| CYH (Chen Yi-Hui (陈艺辉)) \*
+Shortest Average Distance |  GBM (Lee Chang-seok (이창석)) | 3.15 | NA
+Longest Average Distance | Azure (Noel Christopher Cuadra) (Noel Christopher Cuadra)  | 7.27 | NA
+
+\* There were 30 total paths with a length of 11, the edge chosen is one of them.
 ### Clustering coefficient
 
 ### Triangles
