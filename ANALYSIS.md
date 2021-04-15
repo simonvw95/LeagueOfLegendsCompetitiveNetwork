@@ -5,8 +5,8 @@ Considering an undirected Graph G:
 
 1. Which region is the most interconnected?
 2. Which region is the most intraconnected?
-3. Which players are the most interconnected?
-4. Which players are the most intraconnected?
+3. Which players are the most connected between regions?
+4. Which players are the most connected within regions?
 5. Who is the 'Kevin Bacon' of the League of Legends community?
 6. Which coach is the most connected?
 
