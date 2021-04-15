@@ -51,7 +51,7 @@ All |4966 | 39620 | 0.0032 | NA
 
 ### Degree
 
-<img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/degree_distribution.png" alt="Test" width="1024" height="1024">
+<img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/degree_distribution.png" alt="Test" width="512" height="512">
 ### Components
 
 ### Distance
