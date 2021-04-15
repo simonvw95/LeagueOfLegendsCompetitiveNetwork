@@ -56,7 +56,7 @@ All |4966 | 39620 | 0.0032 | NA
 ### Components
 
 ### Distance
-Not factoring in weights.
+Not factoring in weights, applied to the largest connected component.
 
 Measurement | Value | Node 1 | Node 2
 ------------ | ------------- | ------------- | ------------- 
@@ -65,7 +65,7 @@ Diameter (Longest Distance) | 11  | HellMa (Anastasiya Pleyko) \*| CYH (Chen Yi-
 Shortest Average Distance |  GBM (Lee Chang-seok (이창석)) | 3.15 | NA
 Longest Average Distance | Azure (Noel Christopher Cuadra) (Noel Christopher Cuadra)  | 7.27 | NA
 
-\* There were 30 total paths with a length of 11, the edge chosen is one of them.
+\* There were 30 total paths with a length of 11, the path depicted in the Diameter row is one of them.
 ### Clustering coefficient
 
 ### Triangles
