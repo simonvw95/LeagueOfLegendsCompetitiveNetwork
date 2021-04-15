@@ -59,7 +59,7 @@ All |4966 | 39620 | 0.0032 | NA
 Not factoring in weights.
 
 Measurement | Value | Node 1 | Node 2
------------- | ------------- | ------------- 
+------------ | ------------- | ------------- | ------------- 
 Average Distance | 4.39  | NA | NA
 Diameter (Longest Distance) | 11  | HellMa (Anastasiya Pleyko) \*| CYH (Chen Yi-Hui (陈艺辉)) \*
 Shortest Average Distance |  GBM (Lee Chang-seok (이창석)) | 3.15 | NA
