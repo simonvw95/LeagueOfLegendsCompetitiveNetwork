@@ -898,35 +898,45 @@ for i in edge_list.values.tolist():
     nx.add_path(G, (i[0], i[1]))
     
 node_list = list(G.nodes())
+names = []
 
 sorted(G.degree, key = lambda x: x[1], reverse = True)[0:20]
-
 # two players without a last name have a very high degree, after inspecting their webpages
 # it seems like the webscraping progress made an error here, the best thing to do is to remove any mention
 # of these two players
+names.append('Badgamelol ()')
+names.append('西西 ()')
+
+lowest_degree_list = sorted(G.degree, key = lambda x: x[1], reverse = False)[0:20]
+# inspect nodes with the lowest degree, theoretically there should not be any nodes with
+# a degree less than 4
+# there are a few, not a lot of occurrences, mostly because of faulty webscraping after
+# inspecting players' pages.
+for i in lowest_degree_list:
+    if i[1] < 4:
+        names.append(i[0])
+
 
 # clean the edge list
 indices = []
 for i in range(len(edge_list)):
-    if edge_list['From'][i] == 'Badgamelol ()' or edge_list['To'][i] == 'Badgamelol ()':
-        indices.append(i)
-        
-    if edge_list['From'][i] == '西西 ()' or edge_list['To'][i] == '西西 ()':
-        indices.append(i)
-       
+    for j in names:
+        if edge_list['From'][i] == j or edge_list['To'][i] == j:
+            indices.append(i)
+
 edge_list = edge_list.drop(indices)
 edge_list = edge_list.reset_index(drop = True)
-#edge_list.to_csv(path_or_buf = path + '/final_main_files/' + 'league_2012_2021_edge_list.csv', index = False)
+edge_list.to_csv(path_or_buf = path + '/final_main_files/' + 'league_2012_2021_edge_list.csv', index = False)
    
     
 # clean the meta data
 indices_meta = []
 for i in range(len(meta_data)):
-    if meta_data['gamer_tag'][i] == 'Badgamelol': # 14730
-        indices_meta.append(i)
+    for j in names:
+        if meta_data['gamer_tag'][i] == j:
+            indices_meta.append(i)
         
-    if meta_data['gamer_tag'][i] == '西西':
-        indices_meta.append(i)
+
 
 meta_data = meta_data.drop(indices_meta)
 meta_data = meta_data.reset_index(drop = True)
@@ -937,11 +947,10 @@ meta_data.to_csv(path_or_buf = path + '/final_main_files/' + 'final_meta_data.cs
 new_teams_data = pd.DataFrame(columns = teams_data.columns)
 for i in teams_data.columns:
     for j in range(len(teams_data[i])):
-        if teams_data[i][j] == 'Badgamelol ()':
-            teams_data.loc[j, i] = numpy.nan
-        
-        if teams_data[i][j] == '西西 ()':
-            teams_data.loc[j, i] = numpy.nan
+        for name in names:
+            if teams_data[i][j] == j:
+                teams_data.loc[j, i] = numpy.nan
+
             
     new_teams_data[i] = pd.Series(teams_data[i].dropna().reset_index(drop = True))
     
@@ -949,6 +958,17 @@ new_teams_data = new_teams_data.reset_index(drop = True)
 
 
 new_teams_data.to_csv(path_or_buf = path + '/final_main_files/' + 'final_teams_data.csv', index = False)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -992,6 +1012,9 @@ for i in range(len(edge_list)):
         cnt += 1
     if edge_list['To'][i].split('(')[0] == '' or edge_list['To'][i].split('(')[0] == ' ':
         cnt += 1
+        
+
+# 
         
 
 
