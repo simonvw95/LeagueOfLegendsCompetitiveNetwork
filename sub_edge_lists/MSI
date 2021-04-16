@@ -1,0 +1,758 @@
+From,To,n_played,Region
+AN (Chou Chun-An (周俊諳)),Albis (Kang Chia-Wei (康家維)),8,MSI
+AN (Chou Chun-An (周俊諳)),Backstairs (Chen Yan-Fu (陳彥甫)),8,MSI
+AN (Chou Chun-An (周俊諳)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),8,MSI
+AN (Chou Chun-An (周俊諳)),Ziv (Chen Yi) (Chen Yi (陳奕)),8,MSI
+AN (Chou Chun-An (周俊諳)),westdoor (Liu Shu-Wei (劉書瑋)),8,MSI
+Albis (Kang Chia-Wei (康家維)),Backstairs (Chen Yan-Fu (陳彥甫)),8,MSI
+Albis (Kang Chia-Wei (康家維)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),8,MSI
+Albis (Kang Chia-Wei (康家維)),Ziv (Chen Yi) (Chen Yi (陳奕)),8,MSI
+Albis (Kang Chia-Wei (康家維)),westdoor (Liu Shu-Wei (劉書瑋)),8,MSI
+Backstairs (Chen Yan-Fu (陳彥甫)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),8,MSI
+Backstairs (Chen Yan-Fu (陳彥甫)),Ziv (Chen Yi) (Chen Yi (陳奕)),8,MSI
+Backstairs (Chen Yan-Fu (陳彥甫)),westdoor (Liu Shu-Wei (劉書瑋)),8,MSI
+Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),Ziv (Chen Yi) (Chen Yi (陳奕)),8,MSI
+Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),westdoor (Liu Shu-Wei (劉書瑋)),8,MSI
+Ziv (Chen Yi) (Chen Yi (陳奕)),westdoor (Liu Shu-Wei (劉書瑋)),8,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Energy (Isak Pettersen Fjell),5,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Lethilion (İbrahim Onur Aksu),5,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Nardeus (Tomáš Maršálek),5,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Thaldrin (Berke Demir),10,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Theokoles (Muhammed Işık),5,MSI
+Energy (Isak Pettersen Fjell),Lethilion (İbrahim Onur Aksu),5,MSI
+Energy (Isak Pettersen Fjell),Nardeus (Tomáš Maršálek),5,MSI
+Energy (Isak Pettersen Fjell),Thaldrin (Berke Demir),5,MSI
+Energy (Isak Pettersen Fjell),Theokoles (Muhammed Işık),5,MSI
+Lethilion (İbrahim Onur Aksu),Nardeus (Tomáš Maršálek),5,MSI
+Lethilion (İbrahim Onur Aksu),Thaldrin (Berke Demir),5,MSI
+Lethilion (İbrahim Onur Aksu),Theokoles (Muhammed Işık),5,MSI
+Nardeus (Tomáš Maršálek),Thaldrin (Berke Demir),5,MSI
+Nardeus (Tomáš Maršálek),Theokoles (Muhammed Işık),5,MSI
+Thaldrin (Berke Demir),Theokoles (Muhammed Işık),5,MSI
+Aaron (Ji Xing) (Ji Xing (姬星)),Clearlove (Ming Kai (明凯)),13,MSI
+Aaron (Ji Xing) (Ji Xing (姬星)),Deft (Kim Hyuk-kyu (김혁규)),13,MSI
+Aaron (Ji Xing) (Ji Xing (姬星)),Koro1 (Tong Yang (童扬)),13,MSI
+Aaron (Ji Xing) (Ji Xing (姬星)),meiko (Tian Ye (田野)),13,MSI
+Aaron (Ji Xing) (Ji Xing (姬星)),PawN (Heo Won-seok (허원석)),13,MSI
+Clearlove (Ming Kai (明凯)),Deft (Kim Hyuk-kyu (김혁규)),13,MSI
+Clearlove (Ming Kai (明凯)),Koro1 (Tong Yang (童扬)),13,MSI
+Clearlove (Ming Kai (明凯)),meiko (Tian Ye (田野)),13,MSI
+Clearlove (Ming Kai (明凯)),PawN (Heo Won-seok (허원석)),13,MSI
+Deft (Kim Hyuk-kyu (김혁규)),Koro1 (Tong Yang (童扬)),13,MSI
+Deft (Kim Hyuk-kyu (김혁규)),meiko (Tian Ye (田野)),13,MSI
+Deft (Kim Hyuk-kyu (김혁규)),PawN (Heo Won-seok (허원석)),13,MSI
+Koro1 (Tong Yang (童扬)),meiko (Tian Ye (田野)),13,MSI
+Koro1 (Tong Yang (童扬)),PawN (Heo Won-seok (허원석)),13,MSI
+meiko (Tian Ye (田野)),PawN (Heo Won-seok (허원석)),13,MSI
+Deilor (Luis Sevilla Petit),Febiven (Fabian Diepstraten),10,MSI
+Deilor (Luis Sevilla Petit),Huni (Heo Seung-hoon (허승훈)),10,MSI
+Deilor (Luis Sevilla Petit),Reignover (Kim Yeu-jin (김의진)),10,MSI
+Deilor (Luis Sevilla Petit),Steeelback (Pierre Medjaldi),10,MSI
+Deilor (Luis Sevilla Petit),Yellowstar (Bora Kim),10,MSI
+Febiven (Fabian Diepstraten),Huni (Heo Seung-hoon (허승훈)),10,MSI
+Febiven (Fabian Diepstraten),Reignover (Kim Yeu-jin (김의진)),10,MSI
+Febiven (Fabian Diepstraten),Steeelback (Pierre Medjaldi),10,MSI
+Febiven (Fabian Diepstraten),Yellowstar (Bora Kim),10,MSI
+Huni (Heo Seung-hoon (허승훈)),Reignover (Kim Yeu-jin (김의진)),10,MSI
+Huni (Heo Seung-hoon (허승훈)),Steeelback (Pierre Medjaldi),10,MSI
+Huni (Heo Seung-hoon (허승훈)),Yellowstar (Bora Kim),10,MSI
+Reignover (Kim Yeu-jin (김의진)),Steeelback (Pierre Medjaldi),10,MSI
+Reignover (Kim Yeu-jin (김의진)),Yellowstar (Bora Kim),10,MSI
+Steeelback (Pierre Medjaldi),Yellowstar (Bora Kim),10,MSI
+Bang (Bae Jun-sik (배준식)),Bengi (Bae Seong-woong (배성웅)),15,MSI
+Bang (Bae Jun-sik (배준식)),Easyhoon (Lee Ji-hoon (이지훈)),5,MSI
+Bang (Bae Jun-sik (배준식)),Faker (Lee Sang-hyeok (이상혁)),44,MSI
+Bang (Bae Jun-sik (배준식)),MaRin (Jang Gyeong-hwan (장경환)),15,MSI
+Bang (Bae Jun-sik (배준식)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),49,MSI
+Bang (Bae Jun-sik (배준식)),kkOma (Kim Jeong-gyun (김정균)),49,MSI
+Bengi (Bae Seong-woong (배성웅)),Easyhoon (Lee Ji-hoon (이지훈)),5,MSI
+Bengi (Bae Seong-woong (배성웅)),Faker (Lee Sang-hyeok (이상혁)),10,MSI
+Bengi (Bae Seong-woong (배성웅)),MaRin (Jang Gyeong-hwan (장경환)),15,MSI
+Bengi (Bae Seong-woong (배성웅)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),15,MSI
+Bengi (Bae Seong-woong (배성웅)),kkOma (Kim Jeong-gyun (김정균)),15,MSI
+Easyhoon (Lee Ji-hoon (이지훈)),MaRin (Jang Gyeong-hwan (장경환)),5,MSI
+Easyhoon (Lee Ji-hoon (이지훈)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),5,MSI
+Easyhoon (Lee Ji-hoon (이지훈)),kkOma (Kim Jeong-gyun (김정균)),5,MSI
+Faker (Lee Sang-hyeok (이상혁)),MaRin (Jang Gyeong-hwan (장경환)),10,MSI
+Faker (Lee Sang-hyeok (이상혁)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),44,MSI
+Faker (Lee Sang-hyeok (이상혁)),kkOma (Kim Jeong-gyun (김정균)),44,MSI
+MaRin (Jang Gyeong-hwan (장경환)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),15,MSI
+MaRin (Jang Gyeong-hwan (장경환)),kkOma (Kim Jeong-gyun (김정균)),15,MSI
+Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),kkOma (Kim Jeong-gyun (김정균)),49,MSI
+Bjergsen (Søren Bjerg),Dyrus (Marcus Hill),5,MSI
+Bjergsen (Søren Bjerg),Locodoco (Choi Yoon-seop (최윤섭)),5,MSI
+Bjergsen (Søren Bjerg),Lustboy (Ham Jang-sik (함장식)),5,MSI
+Bjergsen (Søren Bjerg),Santorin (Lucas Tao Kilmer Larsen),5,MSI
+Bjergsen (Søren Bjerg),WildTurtle (Jason Tran),21,MSI
+Dyrus (Marcus Hill),Locodoco (Choi Yoon-seop (최윤섭)),5,MSI
+Dyrus (Marcus Hill),Lustboy (Ham Jang-sik (함장식)),5,MSI
+Dyrus (Marcus Hill),Santorin (Lucas Tao Kilmer Larsen),5,MSI
+Dyrus (Marcus Hill),WildTurtle (Jason Tran),5,MSI
+Locodoco (Choi Yoon-seop (최윤섭)),Lustboy (Ham Jang-sik (함장식)),5,MSI
+Locodoco (Choi Yoon-seop (최윤섭)),Santorin (Lucas Tao Kilmer Larsen),5,MSI
+Locodoco (Choi Yoon-seop (최윤섭)),WildTurtle (Jason Tran),5,MSI
+Lustboy (Ham Jang-sik (함장식)),Santorin (Lucas Tao Kilmer Larsen),5,MSI
+Lustboy (Ham Jang-sik (함장식)),WildTurtle (Jason Tran),5,MSI
+Santorin (Lucas Tao Kilmer Larsen),WildTurtle (Jason Tran),5,MSI
+ZionSpartan (Darshan Upadhyaya),huhi (Choi Jae-Hyun (최재현)),17,MSI
+ZionSpartan (Darshan Upadhyaya),Stixxay (Trevor Hayes),17,MSI
+ZionSpartan (Darshan Upadhyaya),Xmithie (Jake Kevin Puchero),17,MSI
+ZionSpartan (Darshan Upadhyaya),Zikz (Anthony Gray),17,MSI
+ZionSpartan (Darshan Upadhyaya),Aphromoo (Zaqueri Black),17,MSI
+huhi (Choi Jae-Hyun (최재현)),Stixxay (Trevor Hayes),17,MSI
+huhi (Choi Jae-Hyun (최재현)),Xmithie (Jake Kevin Puchero),17,MSI
+huhi (Choi Jae-Hyun (최재현)),Zikz (Anthony Gray),17,MSI
+huhi (Choi Jae-Hyun (최재현)),Aphromoo (Zaqueri Black),17,MSI
+Stixxay (Trevor Hayes),Xmithie (Jake Kevin Puchero),17,MSI
+Stixxay (Trevor Hayes),Zikz (Anthony Gray),17,MSI
+Stixxay (Trevor Hayes),Aphromoo (Zaqueri Black),17,MSI
+Xmithie (Jake Kevin Puchero),Zikz (Anthony Gray),17,MSI
+Xmithie (Jake Kevin Puchero),Aphromoo (Zaqueri Black),17,MSI
+Zikz (Anthony Gray),Aphromoo (Zaqueri Black),17,MSI
+Fluidwind (Shih Yi-Hao (史益豪)),Karsa (Hung Hao-Hsuan (洪浩軒)),14,MSI
+Fluidwind (Shih Yi-Hao (史益豪)),MMD (Yu Li-Hung (游立宏)),14,MSI
+Fluidwind (Shih Yi-Hao (史益豪)),Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),14,MSI
+Fluidwind (Shih Yi-Hao (史益豪)),NL (Hsiung Wen-An (熊汶銨)),14,MSI
+Fluidwind (Shih Yi-Hao (史益豪)),SwordArt (Hu Shuo-Chieh (胡碩傑)),14,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),MMD (Yu Li-Hung (游立宏)),31,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),31,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),NL (Hsiung Wen-An (熊汶銨)),14,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),SwordArt (Hu Shuo-Chieh (胡碩傑)),31,MSI
+MMD (Yu Li-Hung (游立宏)),Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),31,MSI
+MMD (Yu Li-Hung (游立宏)),NL (Hsiung Wen-An (熊汶銨)),14,MSI
+MMD (Yu Li-Hung (游立宏)),SwordArt (Hu Shuo-Chieh (胡碩傑)),31,MSI
+Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),NL (Hsiung Wen-An (熊汶銨)),14,MSI
+Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),SwordArt (Hu Shuo-Chieh (胡碩傑)),49,MSI
+NL (Hsiung Wen-An (熊汶銨)),SwordArt (Hu Shuo-Chieh (胡碩傑)),14,MSI
+Emperor (Kim Jin-hyun) (Kim Jin-hyun (김진현)),Hybrid (Glenn Doornenbal) (Glenn Doornenbal),10,MSI
+Emperor (Kim Jin-hyun) (Kim Jin-hyun (김진현)),Kikis (Mateusz Szkudlarek),10,MSI
+Emperor (Kim Jin-hyun) (Kim Jin-hyun (김진현)),Perkz (Luka Perković),10,MSI
+Emperor (Kim Jin-hyun) (Kim Jin-hyun (김진현)),Trick (Kim Gang-yun (김강윤)),10,MSI
+Emperor (Kim Jin-hyun) (Kim Jin-hyun (김진현)),YoungBuck (Joey Steltenpool),10,MSI
+Hybrid (Glenn Doornenbal) (Glenn Doornenbal),Kikis (Mateusz Szkudlarek),10,MSI
+Hybrid (Glenn Doornenbal) (Glenn Doornenbal),Perkz (Luka Perković),10,MSI
+Hybrid (Glenn Doornenbal) (Glenn Doornenbal),Trick (Kim Gang-yun (김강윤)),10,MSI
+Hybrid (Glenn Doornenbal) (Glenn Doornenbal),YoungBuck (Joey Steltenpool),10,MSI
+Kikis (Mateusz Szkudlarek),Perkz (Luka Perković),10,MSI
+Kikis (Mateusz Szkudlarek),Trick (Kim Gang-yun (김강윤)),10,MSI
+Kikis (Mateusz Szkudlarek),YoungBuck (Joey Steltenpool),10,MSI
+Perkz (Luka Perković),Trick (Kim Gang-yun (김강윤)),28,MSI
+Perkz (Luka Perković),YoungBuck (Joey Steltenpool),28,MSI
+Trick (Kim Gang-yun (김강윤)),YoungBuck (Joey Steltenpool),28,MSI
+Fly (Kim Sang-chul) (Kim Sang-chul (김상철)),Looper (Jang Hyeong-seok (장형석)),14,MSI
+Fly (Kim Sang-chul) (Kim Sang-chul (김상철)),Mata (Cho Se-hyeong (조세형)),14,MSI
+Fly (Kim Sang-chul) (Kim Sang-chul (김상철)),Wuxx (Wang Cheng (王城)),14,MSI
+Fly (Kim Sang-chul) (Kim Sang-chul (김상철)),Mlxg (Liu Shi-Yu (刘世宇)),14,MSI
+Fly (Kim Sang-chul) (Kim Sang-chul (김상철)),xiaohu (Li Yuan-Hao (李元浩)),14,MSI
+Looper (Jang Hyeong-seok (장형석)),Mata (Cho Se-hyeong (조세형)),14,MSI
+Looper (Jang Hyeong-seok (장형석)),Wuxx (Wang Cheng (王城)),14,MSI
+Looper (Jang Hyeong-seok (장형석)),Mlxg (Liu Shi-Yu (刘世宇)),14,MSI
+Looper (Jang Hyeong-seok (장형석)),xiaohu (Li Yuan-Hao (李元浩)),14,MSI
+Mata (Cho Se-hyeong (조세형)),Wuxx (Wang Cheng (王城)),14,MSI
+Mata (Cho Se-hyeong (조세형)),Mlxg (Liu Shi-Yu (刘世宇)),14,MSI
+Mata (Cho Se-hyeong (조세형)),xiaohu (Li Yuan-Hao (李元浩)),14,MSI
+Wuxx (Wang Cheng (王城)),Mlxg (Liu Shi-Yu (刘世宇)),14,MSI
+Wuxx (Wang Cheng (王城)),xiaohu (Li Yuan-Hao (李元浩)),14,MSI
+Mlxg (Liu Shi-Yu (刘世宇)),xiaohu (Li Yuan-Hao (李元浩)),25,MSI
+Bang (Bae Jun-sik (배준식)),Blank (Kang Sun-gu (강선구)),17,MSI
+Bang (Bae Jun-sik (배준식)),Duke (Lee Ho-seong) (Lee Ho-seong (이호성)),17,MSI
+Blank (Kang Sun-gu (강선구)),Duke (Lee Ho-seong) (Lee Ho-seong (이호성)),17,MSI
+Blank (Kang Sun-gu (강선구)),Faker (Lee Sang-hyeok (이상혁)),17,MSI
+Blank (Kang Sun-gu (강선구)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),17,MSI
+Blank (Kang Sun-gu (강선구)),kkOma (Kim Jeong-gyun (김정균)),17,MSI
+Duke (Lee Ho-seong) (Lee Ho-seong (이호성)),Faker (Lee Sang-hyeok (이상혁)),17,MSI
+Duke (Lee Ho-seong) (Lee Ho-seong (이호성)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),17,MSI
+Duke (Lee Ho-seong) (Lee Ho-seong (이호성)),kkOma (Kim Jeong-gyun (김정균)),17,MSI
+Achuu (Nicolaj Ellesgaard),Dumbledoge (Mustafa Kemal Gökseloğlu),10,MSI
+Achuu (Nicolaj Ellesgaard),Naru (Koray Bıçak),10,MSI
+Achuu (Nicolaj Ellesgaard),Stomaged (İlyas Furkan Güngör),10,MSI
+Achuu (Nicolaj Ellesgaard),Thaldrin (Berke Demir),5,MSI
+Achuu (Nicolaj Ellesgaard),fabFabulous (Asım Cihat Karakaya),5,MSI
+Achuu (Nicolaj Ellesgaard),Hatchy (Adrian Widera),10,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Naru (Koray Bıçak),23,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Stomaged (İlyas Furkan Güngör),23,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),fabFabulous (Asım Cihat Karakaya),18,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Hatchy (Adrian Widera),10,MSI
+Naru (Koray Bıçak),Stomaged (İlyas Furkan Güngör),23,MSI
+Naru (Koray Bıçak),Thaldrin (Berke Demir),5,MSI
+Naru (Koray Bıçak),fabFabulous (Asım Cihat Karakaya),18,MSI
+Naru (Koray Bıçak),Hatchy (Adrian Widera),10,MSI
+Stomaged (İlyas Furkan Güngör),Thaldrin (Berke Demir),5,MSI
+Stomaged (İlyas Furkan Güngör),fabFabulous (Asım Cihat Karakaya),28,MSI
+Stomaged (İlyas Furkan Güngör),Hatchy (Adrian Widera),10,MSI
+Thaldrin (Berke Demir),Hatchy (Adrian Widera),5,MSI
+fabFabulous (Asım Cihat Karakaya),Hatchy (Adrian Widera),5,MSI
+Chippys (Ryan Short),Destiny (Mitchell Shaw) (Mitchell Shaw),6,MSI
+Chippys (Ryan Short),Phantiks (Richard Su),6,MSI
+Chippys (Ryan Short),Sharp (Curtis Morgan) (Curtis Morgan),12,MSI
+Chippys (Ryan Short),Shernfire (Shern Tai),12,MSI
+Chippys (Ryan Short),K1ng (Calvin Truong),12,MSI
+Destiny (Mitchell Shaw) (Mitchell Shaw),Phantiks (Richard Su),6,MSI
+Destiny (Mitchell Shaw) (Mitchell Shaw),Sharp (Curtis Morgan) (Curtis Morgan),6,MSI
+Destiny (Mitchell Shaw) (Mitchell Shaw),Shernfire (Shern Tai),6,MSI
+Destiny (Mitchell Shaw) (Mitchell Shaw),K1ng (Calvin Truong),6,MSI
+Phantiks (Richard Su),Sharp (Curtis Morgan) (Curtis Morgan),6,MSI
+Phantiks (Richard Su),Shernfire (Shern Tai),6,MSI
+Phantiks (Richard Su),K1ng (Calvin Truong),6,MSI
+Sharp (Curtis Morgan) (Curtis Morgan),Shernfire (Shern Tai),12,MSI
+Sharp (Curtis Morgan) (Curtis Morgan),K1ng (Calvin Truong),12,MSI
+Shernfire (Shern Tai),K1ng (Calvin Truong),12,MSI
+betty (Lu Yu-Hung (盧禹宏)),Karsa (Hung Hao-Hsuan (洪浩軒)),17,MSI
+betty (Lu Yu-Hung (盧禹宏)),MMD (Yu Li-Hung (游立宏)),17,MSI
+betty (Lu Yu-Hung (盧禹宏)),Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),35,MSI
+betty (Lu Yu-Hung (盧禹宏)),Steak (Chou Lu-Hsi (周律希)),17,MSI
+betty (Lu Yu-Hung (盧禹宏)),SwordArt (Hu Shuo-Chieh (胡碩傑)),35,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),Steak (Chou Lu-Hsi (周律希)),17,MSI
+MMD (Yu Li-Hung (游立宏)),Steak (Chou Lu-Hsi (周律希)),17,MSI
+Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),Steak (Chou Lu-Hsi (周律希)),17,MSI
+Steak (Chou Lu-Hsi (周律希)),SwordArt (Hu Shuo-Chieh (胡碩傑)),17,MSI
+Archie (Trần Minh Nhựt) (Trần Minh Nhựt),Levi (Đỗ Duy Khánh),25,MSI
+Archie (Trần Minh Nhựt) (Trần Minh Nhựt),Optimus (Trần Văn Cường),25,MSI
+Archie (Trần Minh Nhựt) (Trần Minh Nhựt),Slay (Nguyễn Ngọc Hùng),25,MSI
+Archie (Trần Minh Nhựt) (Trần Minh Nhựt),Stark (Phan Công Minh) (Phan Công Minh),25,MSI
+Archie (Trần Minh Nhựt) (Trần Minh Nhựt),Tinikun (Dương Nguyễn Duy Thanh),25,MSI
+Levi (Đỗ Duy Khánh),Optimus (Trần Văn Cường),25,MSI
+Levi (Đỗ Duy Khánh),Slay (Nguyễn Ngọc Hùng),25,MSI
+Levi (Đỗ Duy Khánh),Stark (Phan Công Minh) (Phan Công Minh),25,MSI
+Levi (Đỗ Duy Khánh),Tinikun (Dương Nguyễn Duy Thanh),25,MSI
+Optimus (Trần Văn Cường),Slay (Nguyễn Ngọc Hùng),25,MSI
+Optimus (Trần Văn Cường),Stark (Phan Công Minh) (Phan Công Minh),25,MSI
+Optimus (Trần Văn Cường),Tinikun (Dương Nguyễn Duy Thanh),25,MSI
+Slay (Nguyễn Ngọc Hùng),Stark (Phan Công Minh) (Phan Công Minh),39,MSI
+Slay (Nguyễn Ngọc Hùng),Tinikun (Dương Nguyễn Duy Thanh),25,MSI
+Stark (Phan Công Minh) (Phan Công Minh),Tinikun (Dương Nguyễn Duy Thanh),25,MSI
+Emp (Benjamín Ramírez),Kindless (Benjamin Fuenzalida),6,MSI
+Emp (Benjamín Ramírez),Newbie (Leandro Marcos),6,MSI
+Emp (Benjamín Ramírez),Pride (Franco Sanzana) (Franco Sanzana),6,MSI
+Emp (Benjamín Ramírez),QQmore (Diego Apablaza),6,MSI
+Emp (Benjamín Ramírez),Ukkyr (Markus Leuemberger),6,MSI
+Kindless (Benjamin Fuenzalida),Newbie (Leandro Marcos),6,MSI
+Kindless (Benjamin Fuenzalida),Pride (Franco Sanzana) (Franco Sanzana),6,MSI
+Kindless (Benjamin Fuenzalida),QQmore (Diego Apablaza),6,MSI
+Kindless (Benjamin Fuenzalida),Ukkyr (Markus Leuemberger),6,MSI
+Newbie (Leandro Marcos),Pride (Franco Sanzana) (Franco Sanzana),6,MSI
+Newbie (Leandro Marcos),QQmore (Diego Apablaza),6,MSI
+Newbie (Leandro Marcos),Ukkyr (Markus Leuemberger),6,MSI
+Pride (Franco Sanzana) (Franco Sanzana),QQmore (Diego Apablaza),6,MSI
+Pride (Franco Sanzana) (Franco Sanzana),Ukkyr (Markus Leuemberger),6,MSI
+QQmore (Diego Apablaza),Ukkyr (Markus Leuemberger),6,MSI
+Genthix (Mariano Polonsky),Jirall (Daniel del Castillo),12,MSI
+Genthix (Mariano Polonsky),Oddie (Sebastián Niño),12,MSI
+Genthix (Mariano Polonsky),Seiya (Édgar Bracamontes),12,MSI
+Genthix (Mariano Polonsky),WHITELOTUS (Matías Musso),12,MSI
+Genthix (Mariano Polonsky),Yeti (Rodrigo del Castillo),12,MSI
+Jirall (Daniel del Castillo),Oddie (Sebastián Niño),12,MSI
+Jirall (Daniel del Castillo),Seiya (Édgar Bracamontes),12,MSI
+Jirall (Daniel del Castillo),WHITELOTUS (Matías Musso),12,MSI
+Jirall (Daniel del Castillo),Yeti (Rodrigo del Castillo),12,MSI
+Oddie (Sebastián Niño),Seiya (Édgar Bracamontes),18,MSI
+Oddie (Sebastián Niño),WHITELOTUS (Matías Musso),12,MSI
+Oddie (Sebastián Niño),Yeti (Rodrigo del Castillo),12,MSI
+Seiya (Édgar Bracamontes),WHITELOTUS (Matías Musso),12,MSI
+Seiya (Édgar Bracamontes),Yeti (Rodrigo del Castillo),12,MSI
+WHITELOTUS (Matías Musso),Yeti (Rodrigo del Castillo),12,MSI
+34 (Kim Dong-hun (김동훈)),Dara (Jeon Jeong-hoon (전정훈)),6,MSI
+34 (Kim Dong-hun (김동훈)),Evi (Shunsuke Murase (村瀬 俊介)),6,MSI
+34 (Kim Dong-hun (김동훈)),Ramune (Osamu Ozawa (小澤 統)),12,MSI
+34 (Kim Dong-hun (김동훈)),Tussle (Lee Moon-yong (이문용)),6,MSI
+34 (Kim Dong-hun (김동훈)),Yutorimoyashi (Yuta Noguchi (野口 悠太)),12,MSI
+Dara (Jeon Jeong-hoon (전정훈)),Evi (Shunsuke Murase (村瀬 俊介)),6,MSI
+Dara (Jeon Jeong-hoon (전정훈)),Ramune (Osamu Ozawa (小澤 統)),6,MSI
+Dara (Jeon Jeong-hoon (전정훈)),Tussle (Lee Moon-yong (이문용)),6,MSI
+Dara (Jeon Jeong-hoon (전정훈)),Yutorimoyashi (Yuta Noguchi (野口 悠太)),6,MSI
+Evi (Shunsuke Murase (村瀬 俊介)),Ramune (Osamu Ozawa (小澤 統)),6,MSI
+Evi (Shunsuke Murase (村瀬 俊介)),Tussle (Lee Moon-yong (이문용)),6,MSI
+Evi (Shunsuke Murase (村瀬 俊介)),Yutorimoyashi (Yuta Noguchi (野口 悠太)),6,MSI
+Ramune (Osamu Ozawa (小澤 統)),Tussle (Lee Moon-yong (이문용)),6,MSI
+Ramune (Osamu Ozawa (小澤 統)),Yutorimoyashi (Yuta Noguchi (野口 悠太)),12,MSI
+Tussle (Lee Moon-yong (이문용)),Yutorimoyashi (Yuta Noguchi (野口 悠太)),6,MSI
+Brokenshard (Ram Djemal),Dioud (Hugo Padioleau),6,MSI
+Brokenshard (Ram Djemal),Nappon (Carlos Rücker),6,MSI
+Brokenshard (Ram Djemal),Robo (Leonardo Souza),6,MSI
+Brokenshard (Ram Djemal),YoDa (Felipe Noronha) (Felipe Noronha),1,MSI
+Brokenshard (Ram Djemal),brTT (Felipe Gonçalves),6,MSI
+Brokenshard (Ram Djemal),tockers (Gabriel Claumann),5,MSI
+Dioud (Hugo Padioleau),Nappon (Carlos Rücker),6,MSI
+Dioud (Hugo Padioleau),Robo (Leonardo Souza),6,MSI
+Dioud (Hugo Padioleau),YoDa (Felipe Noronha) (Felipe Noronha),1,MSI
+Dioud (Hugo Padioleau),brTT (Felipe Gonçalves),6,MSI
+Dioud (Hugo Padioleau),tockers (Gabriel Claumann),5,MSI
+Nappon (Carlos Rücker),Robo (Leonardo Souza),6,MSI
+Nappon (Carlos Rücker),YoDa (Felipe Noronha) (Felipe Noronha),1,MSI
+Nappon (Carlos Rücker),brTT (Felipe Gonçalves),6,MSI
+Nappon (Carlos Rücker),tockers (Gabriel Claumann),5,MSI
+Robo (Leonardo Souza),YoDa (Felipe Noronha) (Felipe Noronha),1,MSI
+Robo (Leonardo Souza),brTT (Felipe Gonçalves),6,MSI
+Robo (Leonardo Souza),tockers (Gabriel Claumann),5,MSI
+YoDa (Felipe Noronha) (Felipe Noronha),brTT (Felipe Gonçalves),1,MSI
+brTT (Felipe Gonçalves),tockers (Gabriel Claumann),5,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Exorant (Daniel Hume Podosu),13,MSI
+Dumbledoge (Mustafa Kemal Gökseloğlu),Zeitnot (Berkay Aşıkuzun),13,MSI
+Exorant (Daniel Hume Podosu),Naru (Koray Bıçak),13,MSI
+Exorant (Daniel Hume Podosu),Stomaged (İlyas Furkan Güngör),13,MSI
+Exorant (Daniel Hume Podosu),Zeitnot (Berkay Aşıkuzun),13,MSI
+Exorant (Daniel Hume Podosu),fabFabulous (Asım Cihat Karakaya),13,MSI
+Naru (Koray Bıçak),Zeitnot (Berkay Aşıkuzun),13,MSI
+Stomaged (İlyas Furkan Güngör),Zeitnot (Berkay Aşıkuzun),23,MSI
+Zeitnot (Berkay Aşıkuzun),fabFabulous (Asım Cihat Karakaya),23,MSI
+Biofrost (Vincent Wang),Bjergsen (Søren Bjerg),16,MSI
+Biofrost (Vincent Wang),Hauntzer (Kevin Yarnell),16,MSI
+Biofrost (Vincent Wang),Parth (Parth Naidu),16,MSI
+Biofrost (Vincent Wang),Svenskeren (Dennis Johnsen),16,MSI
+Biofrost (Vincent Wang),WildTurtle (Jason Tran),16,MSI
+Bjergsen (Søren Bjerg),Hauntzer (Kevin Yarnell),16,MSI
+Bjergsen (Søren Bjerg),Parth (Parth Naidu),16,MSI
+Bjergsen (Søren Bjerg),Svenskeren (Dennis Johnsen),16,MSI
+Hauntzer (Kevin Yarnell),Parth (Parth Naidu),16,MSI
+Hauntzer (Kevin Yarnell),Svenskeren (Dennis Johnsen),16,MSI
+Hauntzer (Kevin Yarnell),WildTurtle (Jason Tran),16,MSI
+Parth (Parth Naidu),Svenskeren (Dennis Johnsen),16,MSI
+Parth (Parth Naidu),WildTurtle (Jason Tran),16,MSI
+Svenskeren (Dennis Johnsen),WildTurtle (Jason Tran),16,MSI
+Blasting (Daniel Kudrin),Doxy (Rafael Adl Zarabi),6,MSI
+Blasting (Daniel Kudrin),Kreox (Ilya Grom),6,MSI
+Blasting (Daniel Kudrin),Moo (Dmitry Sukhanov) (Dmitry Sukhanov),6,MSI
+Blasting (Daniel Kudrin),Paranoia (Ivan Tipuhov),6,MSI
+Blasting (Daniel Kudrin),SaNTaS (Aleksandr Lifashin),6,MSI
+Doxy (Rafael Adl Zarabi),Kreox (Ilya Grom),6,MSI
+Doxy (Rafael Adl Zarabi),Moo (Dmitry Sukhanov) (Dmitry Sukhanov),6,MSI
+Doxy (Rafael Adl Zarabi),Paranoia (Ivan Tipuhov),6,MSI
+Doxy (Rafael Adl Zarabi),SaNTaS (Aleksandr Lifashin),6,MSI
+Kreox (Ilya Grom),Moo (Dmitry Sukhanov) (Dmitry Sukhanov),6,MSI
+Kreox (Ilya Grom),Paranoia (Ivan Tipuhov),6,MSI
+Kreox (Ilya Grom),SaNTaS (Aleksandr Lifashin),6,MSI
+Moo (Dmitry Sukhanov) (Dmitry Sukhanov),Paranoia (Ivan Tipuhov),6,MSI
+Moo (Dmitry Sukhanov) (Dmitry Sukhanov),SaNTaS (Aleksandr Lifashin),6,MSI
+Paranoia (Ivan Tipuhov),SaNTaS (Aleksandr Lifashin),6,MSI
+Expect (Ki Dae-han (기대한)),Perkz (Luka Perković),18,MSI
+Expect (Ki Dae-han (기대한)),Trick (Kim Gang-yun (김강윤)),18,MSI
+Expect (Ki Dae-han (기대한)),YoungBuck (Joey Steltenpool),18,MSI
+Expect (Ki Dae-han (기대한)),Zven (Jesper Svenningsen),18,MSI
+Expect (Ki Dae-han (기대한)),Mithy (Alfonso Aguirre Rodríguez),18,MSI
+Perkz (Luka Perković),Zven (Jesper Svenningsen),18,MSI
+Perkz (Luka Perković),Mithy (Alfonso Aguirre Rodríguez),18,MSI
+Trick (Kim Gang-yun (김강윤)),Zven (Jesper Svenningsen),18,MSI
+Trick (Kim Gang-yun (김강윤)),Mithy (Alfonso Aguirre Rodríguez),18,MSI
+YoungBuck (Joey Steltenpool),Zven (Jesper Svenningsen),18,MSI
+YoungBuck (Joey Steltenpool),Mithy (Alfonso Aguirre Rodríguez),18,MSI
+Zven (Jesper Svenningsen),Mithy (Alfonso Aguirre Rodríguez),18,MSI
+Bang (Bae Jun-sik (배준식)),Huni (Heo Seung-hoon (허승훈)),17,MSI
+Bang (Bae Jun-sik (배준식)),Peanut (Han Wang-ho (한왕호)),17,MSI
+Faker (Lee Sang-hyeok (이상혁)),Huni (Heo Seung-hoon (허승훈)),17,MSI
+Faker (Lee Sang-hyeok (이상혁)),Peanut (Han Wang-ho (한왕호)),17,MSI
+Huni (Heo Seung-hoon (허승훈)),Peanut (Han Wang-ho (한왕호)),17,MSI
+Huni (Heo Seung-hoon (허승훈)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),17,MSI
+Huni (Heo Seung-hoon (허승훈)),kkOma (Kim Jeong-gyun (김정균)),17,MSI
+Peanut (Han Wang-ho (한왕호)),Wolf (Lee Jae-wan) (Lee Jae-wan (이재완)),17,MSI
+Peanut (Han Wang-ho (한왕호)),kkOma (Kim Jeong-gyun (김정균)),17,MSI
+957 (Ke Chang-Yu (柯昌宇)),Ben (Nam Dong-hyun (남동현)),11,MSI
+957 (Ke Chang-Yu (柯昌宇)),Condi (Xiang Ren-Jie (向人杰)),14,MSI
+957 (Ke Chang-Yu (柯昌宇)),Homme (Yoon Sung-young (윤성영)),14,MSI
+957 (Ke Chang-Yu (柯昌宇)),Mystic (Jin Seong-jun (진성준)),14,MSI
+957 (Ke Chang-Yu (柯昌宇)),Zero (Yoon Kyung-sup) (Yoon Kyung-sup (윤경섭)),3,MSI
+957 (Ke Chang-Yu (柯昌宇)),xiye (Su Han-Wei (苏汉伟)),14,MSI
+Ben (Nam Dong-hyun (남동현)),Condi (Xiang Ren-Jie (向人杰)),11,MSI
+Ben (Nam Dong-hyun (남동현)),Homme (Yoon Sung-young (윤성영)),11,MSI
+Ben (Nam Dong-hyun (남동현)),Mystic (Jin Seong-jun (진성준)),11,MSI
+Ben (Nam Dong-hyun (남동현)),xiye (Su Han-Wei (苏汉伟)),11,MSI
+Condi (Xiang Ren-Jie (向人杰)),Homme (Yoon Sung-young (윤성영)),14,MSI
+Condi (Xiang Ren-Jie (向人杰)),Mystic (Jin Seong-jun (진성준)),14,MSI
+Condi (Xiang Ren-Jie (向人杰)),Zero (Yoon Kyung-sup) (Yoon Kyung-sup (윤경섭)),3,MSI
+Condi (Xiang Ren-Jie (向人杰)),xiye (Su Han-Wei (苏汉伟)),14,MSI
+Homme (Yoon Sung-young (윤성영)),Mystic (Jin Seong-jun (진성준)),14,MSI
+Homme (Yoon Sung-young (윤성영)),Zero (Yoon Kyung-sup) (Yoon Kyung-sup (윤경섭)),3,MSI
+Homme (Yoon Sung-young (윤성영)),xiye (Su Han-Wei (苏汉伟)),14,MSI
+Mystic (Jin Seong-jun (진성준)),Zero (Yoon Kyung-sup) (Yoon Kyung-sup (윤경섭)),3,MSI
+Mystic (Jin Seong-jun (진성준)),xiye (Su Han-Wei (苏汉伟)),14,MSI
+Zero (Yoon Kyung-sup) (Yoon Kyung-sup (윤경섭)),xiye (Su Han-Wei (苏汉伟)),3,MSI
+Cabbage (Akarawat Wangsawat),G4 (Nuttapong Menkasikan),6,MSI
+Cabbage (Akarawat Wangsawat),Intreso (Sanpett Marat),6,MSI
+Cabbage (Akarawat Wangsawat),Lloyd (Juckkirsts Kongubon),6,MSI
+Cabbage (Akarawat Wangsawat),Rich (Warich Kittiwattanawong) (Warich Kittiwattanawong),6,MSI
+Cabbage (Akarawat Wangsawat),Rockky (Atit Phaomuang),6,MSI
+G4 (Nuttapong Menkasikan),Intreso (Sanpett Marat),6,MSI
+G4 (Nuttapong Menkasikan),Lloyd (Juckkirsts Kongubon),12,MSI
+G4 (Nuttapong Menkasikan),Rich (Warich Kittiwattanawong) (Warich Kittiwattanawong),6,MSI
+G4 (Nuttapong Menkasikan),Rockky (Atit Phaomuang),12,MSI
+Intreso (Sanpett Marat),Lloyd (Juckkirsts Kongubon),6,MSI
+Intreso (Sanpett Marat),Rich (Warich Kittiwattanawong) (Warich Kittiwattanawong),6,MSI
+Intreso (Sanpett Marat),Rockky (Atit Phaomuang),6,MSI
+Lloyd (Juckkirsts Kongubon),Rich (Warich Kittiwattanawong) (Warich Kittiwattanawong),6,MSI
+Lloyd (Juckkirsts Kongubon),Rockky (Atit Phaomuang),12,MSI
+Rich (Warich Kittiwattanawong) (Warich Kittiwattanawong),Rockky (Atit Phaomuang),6,MSI
+Chippys (Ryan Short),Cupcake (Andy van der Vyver),6,MSI
+Chippys (Ryan Short),Triple (Stephen Li),6,MSI
+Cupcake (Andy van der Vyver),Sharp (Curtis Morgan) (Curtis Morgan),6,MSI
+Cupcake (Andy van der Vyver),Shernfire (Shern Tai),6,MSI
+Cupcake (Andy van der Vyver),Triple (Stephen Li),6,MSI
+Cupcake (Andy van der Vyver),K1ng (Calvin Truong),6,MSI
+Sharp (Curtis Morgan) (Curtis Morgan),Triple (Stephen Li),6,MSI
+Shernfire (Shern Tai),Triple (Stephen Li),6,MSI
+Triple (Stephen Li),K1ng (Calvin Truong),6,MSI
+RonOP (Lê Thiên Hàn),Slay (Nguyễn Ngọc Hùng),14,MSI
+RonOP (Lê Thiên Hàn),Stark (Phan Công Minh) (Phan Công Minh),14,MSI
+RonOP (Lê Thiên Hàn),Violet (Ngô Mạnh Quyền) (Ngô Mạnh Quyền),14,MSI
+RonOP (Lê Thiên Hàn),Warzone (Đoàn Văn Ngọc Sơn),14,MSI
+RonOP (Lê Thiên Hàn),YiJin (Nguyễn Lê Hải Đăng),14,MSI
+Slay (Nguyễn Ngọc Hùng),Violet (Ngô Mạnh Quyền) (Ngô Mạnh Quyền),14,MSI
+Slay (Nguyễn Ngọc Hùng),Warzone (Đoàn Văn Ngọc Sơn),14,MSI
+Slay (Nguyễn Ngọc Hùng),YiJin (Nguyễn Lê Hải Đăng),14,MSI
+Stark (Phan Công Minh) (Phan Công Minh),Violet (Ngô Mạnh Quyền) (Ngô Mạnh Quyền),14,MSI
+Stark (Phan Công Minh) (Phan Công Minh),Warzone (Đoàn Văn Ngọc Sơn),14,MSI
+Stark (Phan Công Minh) (Phan Công Minh),YiJin (Nguyễn Lê Hải Đăng),14,MSI
+Violet (Ngô Mạnh Quyền) (Ngô Mạnh Quyền),Warzone (Đoàn Văn Ngọc Sơn),14,MSI
+Violet (Ngô Mạnh Quyền) (Ngô Mạnh Quyền),YiJin (Nguyễn Lê Hải Đăng),14,MSI
+Warzone (Đoàn Văn Ngọc Sơn),YiJin (Nguyễn Lê Hải Đăng),14,MSI
+betty (Lu Yu-Hung (盧禹宏)),Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),32,MSI
+betty (Lu Yu-Hung (盧禹宏)),Moojin (Kim Moo-jin (김무진)),18,MSI
+betty (Lu Yu-Hung (盧禹宏)),WarHorse (Chen Ju-Chih (陳如治)),18,MSI
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),18,MSI
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),Moojin (Kim Moo-jin (김무진)),18,MSI
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),SwordArt (Hu Shuo-Chieh (胡碩傑)),18,MSI
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),WarHorse (Chen Ju-Chih (陳如治)),18,MSI
+Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),Moojin (Kim Moo-jin (김무진)),18,MSI
+Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),WarHorse (Chen Ju-Chih (陳如治)),18,MSI
+Moojin (Kim Moo-jin (김무진)),SwordArt (Hu Shuo-Chieh (胡碩傑)),18,MSI
+Moojin (Kim Moo-jin (김무진)),WarHorse (Chen Ju-Chih (陳如治)),18,MSI
+SwordArt (Hu Shuo-Chieh (胡碩傑)),WarHorse (Chen Ju-Chih (陳如治)),18,MSI
+ATRemains (Igors Radkevič),Diamondprox (Danil Reshetnikov),9,MSI
+ATRemains (Igors Radkevič),Edward (Edward Abgaryan),9,MSI
+ATRemains (Igors Radkevič),Kira (Mykhailo Harmash),9,MSI
+ATRemains (Igors Radkevič),Lodik (Stanislav Kornelyuk),9,MSI
+ATRemains (Igors Radkevič),PvPStejos (Alexander Glazkov),9,MSI
+Diamondprox (Danil Reshetnikov),Edward (Edward Abgaryan),9,MSI
+Diamondprox (Danil Reshetnikov),Kira (Mykhailo Harmash),9,MSI
+Diamondprox (Danil Reshetnikov),Lodik (Stanislav Kornelyuk),9,MSI
+Diamondprox (Danil Reshetnikov),PvPStejos (Alexander Glazkov),9,MSI
+Edward (Edward Abgaryan),Kira (Mykhailo Harmash),9,MSI
+Edward (Edward Abgaryan),Lodik (Stanislav Kornelyuk),9,MSI
+Edward (Edward Abgaryan),PvPStejos (Alexander Glazkov),9,MSI
+Kira (Mykhailo Harmash),Lodik (Stanislav Kornelyuk),9,MSI
+Kira (Mykhailo Harmash),PvPStejos (Alexander Glazkov),9,MSI
+Lodik (Stanislav Kornelyuk),PvPStejos (Alexander Glazkov),9,MSI
+Nuddle (Jean-François Caron),Ranger (Filipe Brombilla),6,MSI
+Nuddle (Jean-François Caron),Riyev (Marcelo Carrara),6,MSI
+Nuddle (Jean-François Caron),TitaN (Alexandre Lima),6,MSI
+Nuddle (Jean-François Caron),Zantins (Luccas Zanqueta),6,MSI
+Nuddle (Jean-François Caron),Dynquedo (Matheus Rossini),6,MSI
+Ranger (Filipe Brombilla),Riyev (Marcelo Carrara),6,MSI
+Ranger (Filipe Brombilla),TitaN (Alexandre Lima),6,MSI
+Ranger (Filipe Brombilla),Zantins (Luccas Zanqueta),6,MSI
+Ranger (Filipe Brombilla),Dynquedo (Matheus Rossini),6,MSI
+Riyev (Marcelo Carrara),TitaN (Alexandre Lima),6,MSI
+Riyev (Marcelo Carrara),Zantins (Luccas Zanqueta),6,MSI
+Riyev (Marcelo Carrara),Dynquedo (Matheus Rossini),6,MSI
+TitaN (Alexandre Lima),Zantins (Luccas Zanqueta),6,MSI
+TitaN (Alexandre Lima),Dynquedo (Matheus Rossini),6,MSI
+Zantins (Luccas Zanqueta),Dynquedo (Matheus Rossini),6,MSI
+Fix (Nicolás Sayago),Nate (Damian Rea),6,MSI
+Fix (Nicolás Sayago),Pierre (Misael Di Ciancia),6,MSI
+Fix (Nicolás Sayago),Plugo (Joaquín Pérez),6,MSI
+Fix (Nicolás Sayago),Slow (Eduardo Garcés),6,MSI
+Fix (Nicolás Sayago),Tierwulf (Sebastián Mateluna),6,MSI
+Nate (Damian Rea),Pierre (Misael Di Ciancia),6,MSI
+Nate (Damian Rea),Plugo (Joaquín Pérez),6,MSI
+Nate (Damian Rea),Slow (Eduardo Garcés),6,MSI
+Nate (Damian Rea),Tierwulf (Sebastián Mateluna),6,MSI
+Pierre (Misael Di Ciancia),Plugo (Joaquín Pérez),6,MSI
+Pierre (Misael Di Ciancia),Slow (Eduardo Garcés),12,MSI
+Pierre (Misael Di Ciancia),Tierwulf (Sebastián Mateluna),6,MSI
+Plugo (Joaquín Pérez),Slow (Eduardo Garcés),6,MSI
+Plugo (Joaquín Pérez),Tierwulf (Sebastián Mateluna),6,MSI
+Slow (Eduardo Garcés),Tierwulf (Sebastián Mateluna),6,MSI
+34 (Kim Dong-hun (김동훈)),Gaeng (Yang Gwang-woo (양광우)),6,MSI
+34 (Kim Dong-hun (김동훈)),Once (Jang Se-yeong (장세영)),6,MSI
+34 (Kim Dong-hun (김동훈)),Paz (Shirou Sasaki (佐々木 志郎)),6,MSI
+Gaeng (Yang Gwang-woo (양광우)),Once (Jang Se-yeong (장세영)),6,MSI
+Gaeng (Yang Gwang-woo (양광우)),Paz (Shirou Sasaki (佐々木 志郎)),6,MSI
+Gaeng (Yang Gwang-woo (양광우)),Ramune (Osamu Ozawa (小澤 統)),6,MSI
+Gaeng (Yang Gwang-woo (양광우)),Yutorimoyashi (Yuta Noguchi (野口 悠太)),6,MSI
+Once (Jang Se-yeong (장세영)),Paz (Shirou Sasaki (佐々木 志郎)),6,MSI
+Once (Jang Se-yeong (장세영)),Ramune (Osamu Ozawa (小澤 統)),6,MSI
+Once (Jang Se-yeong (장세영)),Yutorimoyashi (Yuta Noguchi (野口 悠太)),6,MSI
+Paz (Shirou Sasaki (佐々木 志郎)),Ramune (Osamu Ozawa (小澤 統)),6,MSI
+Paz (Shirou Sasaki (佐々木 志郎)),Yutorimoyashi (Yuta Noguchi (野口 悠太)),6,MSI
+GBM (Lee Chang-seok (이창석)),Irean (Heo Yeong-cheol (허영철)),10,MSI
+GBM (Lee Chang-seok (이창석)),SnowFlower (No Hoi-jong (노회종)),10,MSI
+GBM (Lee Chang-seok (이창석)),Stomaged (İlyas Furkan Güngör),10,MSI
+GBM (Lee Chang-seok (이창석)),Zeitnot (Berkay Aşıkuzun),10,MSI
+GBM (Lee Chang-seok (이창석)),fabFabulous (Asım Cihat Karakaya),10,MSI
+Irean (Heo Yeong-cheol (허영철)),SnowFlower (No Hoi-jong (노회종)),10,MSI
+Irean (Heo Yeong-cheol (허영철)),Stomaged (İlyas Furkan Güngör),10,MSI
+Irean (Heo Yeong-cheol (허영철)),Zeitnot (Berkay Aşıkuzun),10,MSI
+Irean (Heo Yeong-cheol (허영철)),fabFabulous (Asım Cihat Karakaya),10,MSI
+SnowFlower (No Hoi-jong (노회종)),Stomaged (İlyas Furkan Güngör),10,MSI
+SnowFlower (No Hoi-jong (노회종)),Zeitnot (Berkay Aşıkuzun),10,MSI
+SnowFlower (No Hoi-jong (노회종)),fabFabulous (Asım Cihat Karakaya),10,MSI
+Broxah (Mads Brock-Pedersen),Bwipo (Gabriël Rau),13,MSI
+Broxah (Mads Brock-Pedersen),Caps (Rasmus Winther),14,MSI
+Broxah (Mads Brock-Pedersen),Dylan Falco (Dylan Falco),14,MSI
+Broxah (Mads Brock-Pedersen),Hylissang (Zdravets Iliev Galabov),14,MSI
+Broxah (Mads Brock-Pedersen),Rekkles (Martin Larsson),14,MSI
+Broxah (Mads Brock-Pedersen),sOAZ (Paul Boyer),1,MSI
+Bwipo (Gabriël Rau),Caps (Rasmus Winther),13,MSI
+Bwipo (Gabriël Rau),Dylan Falco (Dylan Falco),13,MSI
+Bwipo (Gabriël Rau),Hylissang (Zdravets Iliev Galabov),13,MSI
+Bwipo (Gabriël Rau),Rekkles (Martin Larsson),13,MSI
+Caps (Rasmus Winther),Dylan Falco (Dylan Falco),14,MSI
+Caps (Rasmus Winther),Hylissang (Zdravets Iliev Galabov),14,MSI
+Caps (Rasmus Winther),Rekkles (Martin Larsson),14,MSI
+Caps (Rasmus Winther),sOAZ (Paul Boyer),1,MSI
+Dylan Falco (Dylan Falco),Hylissang (Zdravets Iliev Galabov),14,MSI
+Dylan Falco (Dylan Falco),Rekkles (Martin Larsson),14,MSI
+Dylan Falco (Dylan Falco),sOAZ (Paul Boyer),1,MSI
+Hylissang (Zdravets Iliev Galabov),Rekkles (Martin Larsson),14,MSI
+Hylissang (Zdravets Iliev Galabov),sOAZ (Paul Boyer),1,MSI
+Rekkles (Martin Larsson),sOAZ (Paul Boyer),1,MSI
+ActScene (Yeon Hyeong-mo (연형모)),Bdd (Gwak Bo-seong (곽보성)),18,MSI
+ActScene (Yeon Hyeong-mo (연형모)),Cuzz (Moon Woo-chan (문우찬)),3,MSI
+ActScene (Yeon Hyeong-mo (연형모)),GorillA (Kang Beom-hyun (강범현)),18,MSI
+ActScene (Yeon Hyeong-mo (연형모)),Khan (Kim Dong-ha (김동하)),18,MSI
+ActScene (Yeon Hyeong-mo (연형모)),Peanut (Han Wang-ho (한왕호)),15,MSI
+ActScene (Yeon Hyeong-mo (연형모)),PraY (Kim Jong-in (김종인)),18,MSI
+Bdd (Gwak Bo-seong (곽보성)),Cuzz (Moon Woo-chan (문우찬)),3,MSI
+Bdd (Gwak Bo-seong (곽보성)),GorillA (Kang Beom-hyun (강범현)),18,MSI
+Bdd (Gwak Bo-seong (곽보성)),Khan (Kim Dong-ha (김동하)),18,MSI
+Bdd (Gwak Bo-seong (곽보성)),Peanut (Han Wang-ho (한왕호)),15,MSI
+Bdd (Gwak Bo-seong (곽보성)),PraY (Kim Jong-in (김종인)),18,MSI
+Cuzz (Moon Woo-chan (문우찬)),GorillA (Kang Beom-hyun (강범현)),3,MSI
+Cuzz (Moon Woo-chan (문우찬)),Khan (Kim Dong-ha (김동하)),3,MSI
+Cuzz (Moon Woo-chan (문우찬)),PraY (Kim Jong-in (김종인)),3,MSI
+GorillA (Kang Beom-hyun (강범현)),Khan (Kim Dong-ha (김동하)),18,MSI
+GorillA (Kang Beom-hyun (강범현)),Peanut (Han Wang-ho (한왕호)),15,MSI
+GorillA (Kang Beom-hyun (강범현)),PraY (Kim Jong-in (김종인)),18,MSI
+Khan (Kim Dong-ha (김동하)),Peanut (Han Wang-ho (한왕호)),15,MSI
+Khan (Kim Dong-ha (김동하)),PraY (Kim Jong-in (김종인)),18,MSI
+Peanut (Han Wang-ho (한왕호)),PraY (Kim Jong-in (김종인)),15,MSI
+Heart (Lee Gwan-hyung (이관형)),Karsa (Hung Hao-Hsuan (洪浩軒)),7,MSI
+Heart (Lee Gwan-hyung (이관형)),letme (Yan Jun-Ze (严君泽)),18,MSI
+Heart (Lee Gwan-hyung (이관형)),Ming (Shi Sen-Ming) (Shi Sen-Ming (史森明)),18,MSI
+Heart (Lee Gwan-hyung (이관형)),Uzi (Jian Zi-Hao) (Jian Zi-Hao (简自豪)),18,MSI
+Heart (Lee Gwan-hyung (이관형)),Mlxg (Liu Shi-Yu (刘世宇)),11,MSI
+Heart (Lee Gwan-hyung (이관형)),xiaohu (Li Yuan-Hao (李元浩)),18,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),letme (Yan Jun-Ze (严君泽)),7,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),Ming (Shi Sen-Ming) (Shi Sen-Ming (史森明)),7,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),Uzi (Jian Zi-Hao) (Jian Zi-Hao (简自豪)),7,MSI
+Karsa (Hung Hao-Hsuan (洪浩軒)),xiaohu (Li Yuan-Hao (李元浩)),7,MSI
+letme (Yan Jun-Ze (严君泽)),Ming (Shi Sen-Ming) (Shi Sen-Ming (史森明)),18,MSI
+letme (Yan Jun-Ze (严君泽)),Uzi (Jian Zi-Hao) (Jian Zi-Hao (简自豪)),18,MSI
+letme (Yan Jun-Ze (严君泽)),Mlxg (Liu Shi-Yu (刘世宇)),11,MSI
+letme (Yan Jun-Ze (严君泽)),xiaohu (Li Yuan-Hao (李元浩)),18,MSI
+Ming (Shi Sen-Ming) (Shi Sen-Ming (史森明)),Uzi (Jian Zi-Hao) (Jian Zi-Hao (简自豪)),18,MSI
+Ming (Shi Sen-Ming) (Shi Sen-Ming (史森明)),Mlxg (Liu Shi-Yu (刘世宇)),11,MSI
+Ming (Shi Sen-Ming) (Shi Sen-Ming (史森明)),xiaohu (Li Yuan-Hao (李元浩)),18,MSI
+Uzi (Jian Zi-Hao) (Jian Zi-Hao (简自豪)),Mlxg (Liu Shi-Yu (刘世宇)),11,MSI
+Uzi (Jian Zi-Hao) (Jian Zi-Hao (简自豪)),xiaohu (Li Yuan-Hao (李元浩)),18,MSI
+Cain (Jang Nu-ri (장누리)),"Doublelift (Yiliang ""Peter"" Peng)",31,MSI
+Cain (Jang Nu-ri (장누리)),Impact (Jeong Eon-young (정언영)),31,MSI
+Cain (Jang Nu-ri (장누리)),Joey (Joseph Haslemann),1,MSI
+Cain (Jang Nu-ri (장누리)),Olleh (Kim Joo-sung (김주성)),10,MSI
+Cain (Jang Nu-ri (장누리)),Pobelter (Eugene Park),11,MSI
+Cain (Jang Nu-ri (장누리)),Xmithie (Jake Kevin Puchero),31,MSI
+"Doublelift (Yiliang ""Peter"" Peng)",Impact (Jeong Eon-young (정언영)),31,MSI
+"Doublelift (Yiliang ""Peter"" Peng)",Joey (Joseph Haslemann),1,MSI
+"Doublelift (Yiliang ""Peter"" Peng)",Olleh (Kim Joo-sung (김주성)),10,MSI
+"Doublelift (Yiliang ""Peter"" Peng)",Pobelter (Eugene Park),11,MSI
+"Doublelift (Yiliang ""Peter"" Peng)",Xmithie (Jake Kevin Puchero),31,MSI
+Impact (Jeong Eon-young (정언영)),Joey (Joseph Haslemann),1,MSI
+Impact (Jeong Eon-young (정언영)),Olleh (Kim Joo-sung (김주성)),10,MSI
+Impact (Jeong Eon-young (정언영)),Pobelter (Eugene Park),11,MSI
+Impact (Jeong Eon-young (정언영)),Xmithie (Jake Kevin Puchero),31,MSI
+Joey (Joseph Haslemann),Pobelter (Eugene Park),1,MSI
+Joey (Joseph Haslemann),Xmithie (Jake Kevin Puchero),1,MSI
+Olleh (Kim Joo-sung (김주성)),Pobelter (Eugene Park),10,MSI
+Olleh (Kim Joo-sung (김주성)),Xmithie (Jake Kevin Puchero),10,MSI
+Pobelter (Eugene Park),Xmithie (Jake Kevin Puchero),11,MSI
+Bolulu (Onur Can Demirol),Hades (Volkan Dinçer) (Volkan Dinçer),7,MSI
+Bolulu (Onur Can Demirol),Japone (Bahadır Çolak),5,MSI
+Bolulu (Onur Can Demirol),Kirei (Thomas Yuen),7,MSI
+Bolulu (Onur Can Demirol),Only35 (Mehmet Emin Aydın),2,MSI
+Bolulu (Onur Can Demirol),Ruin (Kim Hyeong-min (김형민)),7,MSI
+Bolulu (Onur Can Demirol),Turkinator (Aykut Emre Başkal),7,MSI
+Hades (Volkan Dinçer) (Volkan Dinçer),Japone (Bahadır Çolak),5,MSI
+Hades (Volkan Dinçer) (Volkan Dinçer),Kirei (Thomas Yuen),7,MSI
+Hades (Volkan Dinçer) (Volkan Dinçer),Only35 (Mehmet Emin Aydın),2,MSI
+Hades (Volkan Dinçer) (Volkan Dinçer),Ruin (Kim Hyeong-min (김형민)),7,MSI
+Hades (Volkan Dinçer) (Volkan Dinçer),Turkinator (Aykut Emre Başkal),7,MSI
+Japone (Bahadır Çolak),Kirei (Thomas Yuen),5,MSI
+Japone (Bahadır Çolak),Ruin (Kim Hyeong-min (김형민)),5,MSI
+Japone (Bahadır Çolak),Turkinator (Aykut Emre Başkal),5,MSI
+Kirei (Thomas Yuen),Only35 (Mehmet Emin Aydın),2,MSI
+Kirei (Thomas Yuen),Ruin (Kim Hyeong-min (김형민)),7,MSI
+Kirei (Thomas Yuen),Turkinator (Aykut Emre Başkal),7,MSI
+Only35 (Mehmet Emin Aydın),Ruin (Kim Hyeong-min (김형민)),2,MSI
+Only35 (Mehmet Emin Aydın),Turkinator (Aykut Emre Başkal),2,MSI
+Ruin (Kim Hyeong-min (김형민)),Turkinator (Aykut Emre Başkal),7,MSI
+BalKhan (Choi Hyun-jin (최현진)),FBI (Victor Huang),6,MSI
+BalKhan (Choi Hyun-jin (최현진)),Mimic (Min Ju-seong) (Min Ju-seong (민주성)),6,MSI
+BalKhan (Choi Hyun-jin (최현진)),Rogue (Jake Sharwood) (Jake Sharwood),6,MSI
+BalKhan (Choi Hyun-jin (최현진)),Westonway (Scott Farmer),6,MSI
+BalKhan (Choi Hyun-jin (최현진)),ry0ma (Tommy Le),6,MSI
+FBI (Victor Huang),Mimic (Min Ju-seong) (Min Ju-seong (민주성)),6,MSI
+FBI (Victor Huang),Rogue (Jake Sharwood) (Jake Sharwood),6,MSI
+FBI (Victor Huang),Westonway (Scott Farmer),6,MSI
+FBI (Victor Huang),ry0ma (Tommy Le),6,MSI
+Mimic (Min Ju-seong) (Min Ju-seong (민주성)),Rogue (Jake Sharwood) (Jake Sharwood),6,MSI
+Mimic (Min Ju-seong) (Min Ju-seong (민주성)),Westonway (Scott Farmer),6,MSI
+Mimic (Min Ju-seong) (Min Ju-seong (민주성)),ry0ma (Tommy Le),6,MSI
+Rogue (Jake Sharwood) (Jake Sharwood),Westonway (Scott Farmer),6,MSI
+Rogue (Jake Sharwood) (Jake Sharwood),ry0ma (Tommy Le),6,MSI
+Westonway (Scott Farmer),ry0ma (Tommy Le),6,MSI
+Ceros (Kyohei Yoshida (吉田 恭平)),Evi (Shunsuke Murase (村瀬 俊介)),6,MSI
+Ceros (Kyohei Yoshida (吉田 恭平)),Gaeng (Yang Gwang-woo (양광우)),6,MSI
+Ceros (Kyohei Yoshida (吉田 恭平)),Kazu (Kazuta Suzuki (鈴木 和太)),6,MSI
+Ceros (Kyohei Yoshida (吉田 恭平)),Steal (Mun Geon-yeong) (Mun Geon-yeong (문건영)),6,MSI
+Ceros (Kyohei Yoshida (吉田 恭平)),Yutapon (Yuta Sugiura (杉浦 悠太)),6,MSI
+Evi (Shunsuke Murase (村瀬 俊介)),Gaeng (Yang Gwang-woo (양광우)),6,MSI
+Evi (Shunsuke Murase (村瀬 俊介)),Kazu (Kazuta Suzuki (鈴木 和太)),6,MSI
+Evi (Shunsuke Murase (村瀬 俊介)),Steal (Mun Geon-yeong) (Mun Geon-yeong (문건영)),6,MSI
+Evi (Shunsuke Murase (村瀬 俊介)),Yutapon (Yuta Sugiura (杉浦 悠太)),6,MSI
+Gaeng (Yang Gwang-woo (양광우)),Kazu (Kazuta Suzuki (鈴木 和太)),6,MSI
+Gaeng (Yang Gwang-woo (양광우)),Steal (Mun Geon-yeong) (Mun Geon-yeong (문건영)),6,MSI
+Gaeng (Yang Gwang-woo (양광우)),Yutapon (Yuta Sugiura (杉浦 悠太)),6,MSI
+Kazu (Kazuta Suzuki (鈴木 和太)),Steal (Mun Geon-yeong) (Mun Geon-yeong (문건영)),6,MSI
+Kazu (Kazuta Suzuki (鈴木 和太)),Yutapon (Yuta Sugiura (杉浦 悠太)),6,MSI
+Steal (Mun Geon-yeong) (Mun Geon-yeong (문건영)),Yutapon (Yuta Sugiura (杉浦 悠太)),6,MSI
+betty (Lu Yu-Hung (盧禹宏)),Bugi (Lee Seong-yeop (이성엽)),14,MSI
+betty (Lu Yu-Hung (盧禹宏)),Rather (Shin Hyeong-seop (신형섭)),14,MSI
+betty (Lu Yu-Hung (盧禹宏)),ShiauC (Liu Chia-Hao (劉家豪)),14,MSI
+betty (Lu Yu-Hung (盧禹宏)),Sweet (Chun Jung-hee) (Chun Jung-hee (천정희)),14,MSI
+Bugi (Lee Seong-yeop (이성엽)),Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),14,MSI
+Bugi (Lee Seong-yeop (이성엽)),Rather (Shin Hyeong-seop (신형섭)),14,MSI
+Bugi (Lee Seong-yeop (이성엽)),ShiauC (Liu Chia-Hao (劉家豪)),14,MSI
+Bugi (Lee Seong-yeop (이성엽)),Sweet (Chun Jung-hee) (Chun Jung-hee (천정희)),14,MSI
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),Rather (Shin Hyeong-seop (신형섭)),14,MSI
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),ShiauC (Liu Chia-Hao (劉家豪)),14,MSI
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),Sweet (Chun Jung-hee) (Chun Jung-hee (천정희)),14,MSI
+Rather (Shin Hyeong-seop (신형섭)),ShiauC (Liu Chia-Hao (劉家豪)),14,MSI
+Rather (Shin Hyeong-seop (신형섭)),Sweet (Chun Jung-hee) (Chun Jung-hee (천정희)),14,MSI
+ShiauC (Liu Chia-Hao (劉家豪)),Sweet (Chun Jung-hee) (Chun Jung-hee (천정희)),14,MSI
+Envy (Bruno Farias) (Bruno Farias),Maestro (Lucas Pierre) (Lucas Pierre),6,MSI
+Envy (Bruno Farias) (Bruno Farias),Mills (Guilherme Uessler Conti),6,MSI
+Envy (Bruno Farias) (Bruno Farias),RedBert (Ygor Freitas),6,MSI
+Envy (Bruno Farias) (Bruno Farias),Shini (Diogo Rogê),6,MSI
+Envy (Bruno Farias) (Bruno Farias),Tay (Rodrigo Panisa),6,MSI
+Maestro (Lucas Pierre) (Lucas Pierre),Mills (Guilherme Uessler Conti),6,MSI
+Maestro (Lucas Pierre) (Lucas Pierre),RedBert (Ygor Freitas),6,MSI
+Maestro (Lucas Pierre) (Lucas Pierre),Shini (Diogo Rogê),6,MSI
+Maestro (Lucas Pierre) (Lucas Pierre),Tay (Rodrigo Panisa),6,MSI
+Mills (Guilherme Uessler Conti),RedBert (Ygor Freitas),6,MSI
+Mills (Guilherme Uessler Conti),Shini (Diogo Rogê),6,MSI
+Mills (Guilherme Uessler Conti),Tay (Rodrigo Panisa),6,MSI
+RedBert (Ygor Freitas),Shini (Diogo Rogê),6,MSI
+RedBert (Ygor Freitas),Tay (Rodrigo Panisa),6,MSI
+Shini (Diogo Rogê),Tay (Rodrigo Panisa),6,MSI
+Buggax (Mateo Aroztegui),Oddie (Sebastián Niño),6,MSI
+Buggax (Mateo Aroztegui),Pierre (Misael Di Ciancia),6,MSI
+Buggax (Mateo Aroztegui),Seiya (Édgar Bracamontes),6,MSI
+Buggax (Mateo Aroztegui),Slow (Eduardo Garcés),6,MSI
+Buggax (Mateo Aroztegui),Warangelus (Fabián Llanos),6,MSI
+Oddie (Sebastián Niño),Pierre (Misael Di Ciancia),6,MSI
+Oddie (Sebastián Niño),Slow (Eduardo Garcés),6,MSI
+Oddie (Sebastián Niño),Warangelus (Fabián Llanos),6,MSI
+Pierre (Misael Di Ciancia),Seiya (Édgar Bracamontes),6,MSI
+Pierre (Misael Di Ciancia),Warangelus (Fabián Llanos),6,MSI
+Seiya (Édgar Bracamontes),Slow (Eduardo Garcés),6,MSI
+Seiya (Édgar Bracamontes),Warangelus (Fabián Llanos),6,MSI
+Slow (Eduardo Garcés),Warangelus (Fabián Llanos),6,MSI
+Bigfafa (Seo Min-seok (서민석)),G4 (Nuttapong Menkasikan),6,MSI
+Bigfafa (Seo Min-seok (서민석)),jjun (Kwon Jun-seok (권준석)),6,MSI
+Bigfafa (Seo Min-seok (서민석)),Lloyd (Juckkirsts Kongubon),6,MSI
+Bigfafa (Seo Min-seok (서민석)),PoP (Ha Min-wook (하민욱)),6,MSI
+Bigfafa (Seo Min-seok (서민석)),Rockky (Atit Phaomuang),6,MSI
+G4 (Nuttapong Menkasikan),jjun (Kwon Jun-seok (권준석)),6,MSI
+G4 (Nuttapong Menkasikan),PoP (Ha Min-wook (하민욱)),6,MSI
+jjun (Kwon Jun-seok (권준석)),Lloyd (Juckkirsts Kongubon),6,MSI
+jjun (Kwon Jun-seok (권준석)),PoP (Ha Min-wook (하민욱)),6,MSI
+jjun (Kwon Jun-seok (권준석)),Rockky (Atit Phaomuang),6,MSI
+Lloyd (Juckkirsts Kongubon),PoP (Ha Min-wook (하민욱)),6,MSI
+PoP (Ha Min-wook (하민욱)),Rockky (Atit Phaomuang),6,MSI
+BigKoro (Đặng Ngọc Tài),Meliodas (Hoàng Tiến Nhật) (Hoàng Tiến Nhật),21,MSI
+BigKoro (Đặng Ngọc Tài),Naul (Võ Thành Luân),25,MSI
+BigKoro (Đặng Ngọc Tài),Palette (Nguyễn Hải Trung),25,MSI
+BigKoro (Đặng Ngọc Tài),Ren (Nguyễn Văn Trọng),25,MSI
+BigKoro (Đặng Ngọc Tài),Zeros (Phạm Minh Lộc),25,MSI
+Meliodas (Hoàng Tiến Nhật) (Hoàng Tiến Nhật),Naul (Võ Thành Luân),21,MSI
+Meliodas (Hoàng Tiến Nhật) (Hoàng Tiến Nhật),Palette (Nguyễn Hải Trung),21,MSI
+Meliodas (Hoàng Tiến Nhật) (Hoàng Tiến Nhật),Ren (Nguyễn Văn Trọng),21,MSI
+Meliodas (Hoàng Tiến Nhật) (Hoàng Tiến Nhật),Zeros (Phạm Minh Lộc),21,MSI
+Naul (Võ Thành Luân),Palette (Nguyễn Hải Trung),25,MSI
+Naul (Võ Thành Luân),Ren (Nguyễn Văn Trọng),25,MSI
+Naul (Võ Thành Luân),Zeros (Phạm Minh Lộc),25,MSI
+Palette (Nguyễn Hải Trung),Ren (Nguyễn Văn Trọng),25,MSI
+Palette (Nguyễn Hải Trung),Zeros (Phạm Minh Lộc),25,MSI
+Ren (Nguyễn Văn Trọng),Zeros (Phạm Minh Lộc),25,MSI
+Cain (Jang Nu-ri (장누리)),CoreJJ (Jo Yong-in (조용인)),20,MSI
+Cain (Jang Nu-ri (장누리)),Jensen (Nicolaj Jensen),20,MSI
+CoreJJ (Jo Yong-in (조용인)),"Doublelift (Yiliang ""Peter"" Peng)",20,MSI
+CoreJJ (Jo Yong-in (조용인)),Impact (Jeong Eon-young (정언영)),20,MSI
+CoreJJ (Jo Yong-in (조용인)),Jensen (Nicolaj Jensen),20,MSI
+CoreJJ (Jo Yong-in (조용인)),Xmithie (Jake Kevin Puchero),20,MSI
+"Doublelift (Yiliang ""Peter"" Peng)",Jensen (Nicolaj Jensen),20,MSI
+Impact (Jeong Eon-young (정언영)),Jensen (Nicolaj Jensen),20,MSI
+Jensen (Nicolaj Jensen),Xmithie (Jake Kevin Puchero),20,MSI
+AHaHaCiK (Kirill Skvortsov),BOSS (Vladislav Fomin) (Vladislav Fomin),15,MSI
+AHaHaCiK (Kirill Skvortsov),Gadget (Ilya Makavchuk),15,MSI
+AHaHaCiK (Kirill Skvortsov),Invi (Dmitrii Protasov),15,MSI
+AHaHaCiK (Kirill Skvortsov),Nomanz (Lev Yakshin),15,MSI
+AHaHaCiK (Kirill Skvortsov),SaNTaS (Aleksandr Lifashin),15,MSI
+BOSS (Vladislav Fomin) (Vladislav Fomin),Gadget (Ilya Makavchuk),15,MSI
+BOSS (Vladislav Fomin) (Vladislav Fomin),Invi (Dmitrii Protasov),15,MSI
+BOSS (Vladislav Fomin) (Vladislav Fomin),Nomanz (Lev Yakshin),15,MSI
+BOSS (Vladislav Fomin) (Vladislav Fomin),SaNTaS (Aleksandr Lifashin),15,MSI
+Gadget (Ilya Makavchuk),Invi (Dmitrii Protasov),15,MSI
+Gadget (Ilya Makavchuk),Nomanz (Lev Yakshin),15,MSI
+Gadget (Ilya Makavchuk),SaNTaS (Aleksandr Lifashin),15,MSI
+Invi (Dmitrii Protasov),Nomanz (Lev Yakshin),15,MSI
+Invi (Dmitrii Protasov),SaNTaS (Aleksandr Lifashin),15,MSI
+Nomanz (Lev Yakshin),SaNTaS (Aleksandr Lifashin),15,MSI
+Caps (Rasmus Winther),GrabbZ (Fabian Lohmann),18,MSI
+Caps (Rasmus Winther),Jankos (Marcin Jankowski),18,MSI
+Caps (Rasmus Winther),Mikyx (Mihael Mehle),18,MSI
+Caps (Rasmus Winther),Perkz (Luka Perković),18,MSI
+Caps (Rasmus Winther),Wunder (Martin Hansen),18,MSI
+GrabbZ (Fabian Lohmann),Jankos (Marcin Jankowski),18,MSI
+GrabbZ (Fabian Lohmann),Mikyx (Mihael Mehle),18,MSI
+GrabbZ (Fabian Lohmann),Perkz (Luka Perković),18,MSI
+GrabbZ (Fabian Lohmann),Wunder (Martin Hansen),18,MSI
+Jankos (Marcin Jankowski),Mikyx (Mihael Mehle),18,MSI
+Jankos (Marcin Jankowski),Perkz (Luka Perković),18,MSI
+Jankos (Marcin Jankowski),Wunder (Martin Hansen),18,MSI
+Mikyx (Mihael Mehle),Perkz (Luka Perković),18,MSI
+Mikyx (Mihael Mehle),Wunder (Martin Hansen),18,MSI
+Perkz (Luka Perković),Wunder (Martin Hansen),18,MSI
+Baolan (Wang Liu-Yi (王柳羿)),JackeyLove (Yu Wen-Bo (喻文波)),14,MSI
+Baolan (Wang Liu-Yi (王柳羿)),Karam (Kim Ga-ram (김가람)),14,MSI
+Baolan (Wang Liu-Yi (王柳羿)),ning (Gao Zhen-Ning (高振宁)),14,MSI
+Baolan (Wang Liu-Yi (王柳羿)),RooKie (Song Eui-jin (송의진)),14,MSI
+Baolan (Wang Liu-Yi (王柳羿)),TheShy (Kang Seung-lok (강승록)),14,MSI
+JackeyLove (Yu Wen-Bo (喻文波)),Karam (Kim Ga-ram (김가람)),14,MSI
+JackeyLove (Yu Wen-Bo (喻文波)),ning (Gao Zhen-Ning (高振宁)),14,MSI
+JackeyLove (Yu Wen-Bo (喻文波)),RooKie (Song Eui-jin (송의진)),14,MSI
+JackeyLove (Yu Wen-Bo (喻文波)),TheShy (Kang Seung-lok (강승록)),14,MSI
+Karam (Kim Ga-ram (김가람)),ning (Gao Zhen-Ning (高振宁)),14,MSI
+Karam (Kim Ga-ram (김가람)),RooKie (Song Eui-jin (송의진)),14,MSI
+Karam (Kim Ga-ram (김가람)),TheShy (Kang Seung-lok (강승록)),14,MSI
+ning (Gao Zhen-Ning (高振宁)),RooKie (Song Eui-jin (송의진)),14,MSI
+ning (Gao Zhen-Ning (高振宁)),TheShy (Kang Seung-lok (강승록)),14,MSI
+RooKie (Song Eui-jin (송의진)),TheShy (Kang Seung-lok (강승록)),14,MSI
+BigKoro (Đặng Ngọc Tài),XuHao (Bùi Hoàng Sơn Vương),4,MSI
+Naul (Võ Thành Luân),XuHao (Bùi Hoàng Sơn Vương),4,MSI
+Palette (Nguyễn Hải Trung),XuHao (Bùi Hoàng Sơn Vương),4,MSI
+Ren (Nguyễn Văn Trọng),XuHao (Bùi Hoàng Sơn Vương),4,MSI
+XuHao (Bùi Hoàng Sơn Vương),Zeros (Phạm Minh Lộc),4,MSI
+Clid (Kim Tae-min (김태민)),Faker (Lee Sang-hyeok (이상혁)),15,MSI
+Clid (Kim Tae-min (김태민)),Khan (Kim Dong-ha (김동하)),15,MSI
+Clid (Kim Tae-min (김태민)),Mata (Cho Se-hyeong (조세형)),15,MSI
+Clid (Kim Tae-min (김태민)),Teddy (Park Jin-seong (박진성)),15,MSI
+Clid (Kim Tae-min (김태민)),Zefa (Lee Jae-min (이재민)),15,MSI
+Faker (Lee Sang-hyeok (이상혁)),Khan (Kim Dong-ha (김동하)),15,MSI
+Faker (Lee Sang-hyeok (이상혁)),Mata (Cho Se-hyeong (조세형)),15,MSI
+Faker (Lee Sang-hyeok (이상혁)),Teddy (Park Jin-seong (박진성)),15,MSI
+Faker (Lee Sang-hyeok (이상혁)),Zefa (Lee Jae-min (이재민)),15,MSI
+Khan (Kim Dong-ha (김동하)),Mata (Cho Se-hyeong (조세형)),15,MSI
+Khan (Kim Dong-ha (김동하)),Teddy (Park Jin-seong (박진성)),15,MSI
+Khan (Kim Dong-ha (김동하)),Zefa (Lee Jae-min (이재민)),15,MSI
+Mata (Cho Se-hyeong (조세형)),Teddy (Park Jin-seong (박진성)),15,MSI
+Mata (Cho Se-hyeong (조세형)),Zefa (Lee Jae-min (이재민)),15,MSI
+Teddy (Park Jin-seong (박진성)),Zefa (Lee Jae-min (이재민)),15,MSI

@@ -1,0 +1,473 @@
+From,To,n_played,Region
+GreenTea (Tsai Shang-Ching (蔡尚精)),Kongyue (Hsiao Jen-Tso (蕭任佐)),62,PCL/PCS
+GreenTea (Tsai Shang-Ching (蔡尚精)),Uniboy (Chen Chang-Chu (陳昌駒)),58,PCL/PCS
+GreenTea (Tsai Shang-Ching (蔡尚精)),Wako (Tsou Wei-Yang (鄒惟洋)),62,PCL/PCS
+GreenTea (Tsai Shang-Ching (蔡尚精)),Ysera (Wang Tsung-Chih (汪宗志)),62,PCL/PCS
+GreenTea (Tsai Shang-Ching (蔡尚精)),Zero (Chung Chen-Hua) (Chung Chen-Hua (鍾震華)),62,PCL/PCS
+GreenTea (Tsai Shang-Ching (蔡尚精)),Ziv (Chen Yi) (Chen Yi (陳奕)),51,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),Uniboy (Chen Chang-Chu (陳昌駒)),60,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),Wako (Tsou Wei-Yang (鄒惟洋)),64,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),Ysera (Wang Tsung-Chih (汪宗志)),64,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),Zero (Chung Chen-Hua) (Chung Chen-Hua (鍾震華)),62,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),Ziv (Chen Yi) (Chen Yi (陳奕)),53,PCL/PCS
+Uniboy (Chen Chang-Chu (陳昌駒)),Wako (Tsou Wei-Yang (鄒惟洋)),60,PCL/PCS
+Uniboy (Chen Chang-Chu (陳昌駒)),Ysera (Wang Tsung-Chih (汪宗志)),60,PCL/PCS
+Uniboy (Chen Chang-Chu (陳昌駒)),Zero (Chung Chen-Hua) (Chung Chen-Hua (鍾震華)),58,PCL/PCS
+Uniboy (Chen Chang-Chu (陳昌駒)),Ziv (Chen Yi) (Chen Yi (陳奕)),49,PCL/PCS
+Wako (Tsou Wei-Yang (鄒惟洋)),Ysera (Wang Tsung-Chih (汪宗志)),64,PCL/PCS
+Wako (Tsou Wei-Yang (鄒惟洋)),Zero (Chung Chen-Hua) (Chung Chen-Hua (鍾震華)),62,PCL/PCS
+Wako (Tsou Wei-Yang (鄒惟洋)),Ziv (Chen Yi) (Chen Yi (陳奕)),53,PCL/PCS
+Ysera (Wang Tsung-Chih (汪宗志)),Zero (Chung Chen-Hua) (Chung Chen-Hua (鍾震華)),62,PCL/PCS
+Ysera (Wang Tsung-Chih (汪宗志)),Ziv (Chen Yi) (Chen Yi (陳奕)),53,PCL/PCS
+Zero (Chung Chen-Hua) (Chung Chen-Hua (鍾震華)),Ziv (Chen Yi) (Chen Yi (陳奕)),51,PCL/PCS
+Assassin (Zhou Yi-Xiang (周翼翔)),Atlen (Sung Ya-Lun (宋亞倫)),26,PCL/PCS
+Assassin (Zhou Yi-Xiang (周翼翔)),Catjug (Chen Yi-Jie (陈艺杰)),26,PCL/PCS
+Assassin (Zhou Yi-Xiang (周翼翔)),Kino (Chu Wu Hsin-Jung (朱吳欣榮)),26,PCL/PCS
+Assassin (Zhou Yi-Xiang (周翼翔)),Radiance (Hu Yuan) (Hu Yuan (胡原)),26,PCL/PCS
+Assassin (Zhou Yi-Xiang (周翼翔)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),26,PCL/PCS
+Assassin (Zhou Yi-Xiang (周翼翔)),Yuwan (Hsu Chi-Chun (徐麒鈞)),26,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Catjug (Chen Yi-Jie (陈艺杰)),27,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Kino (Chu Wu Hsin-Jung (朱吳欣榮)),27,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Radiance (Hu Yuan) (Hu Yuan (胡原)),27,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),26,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Yuwan (Hsu Chi-Chun (徐麒鈞)),27,PCL/PCS
+Catjug (Chen Yi-Jie (陈艺杰)),Kino (Chu Wu Hsin-Jung (朱吳欣榮)),27,PCL/PCS
+Catjug (Chen Yi-Jie (陈艺杰)),Radiance (Hu Yuan) (Hu Yuan (胡原)),27,PCL/PCS
+Catjug (Chen Yi-Jie (陈艺杰)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),26,PCL/PCS
+Catjug (Chen Yi-Jie (陈艺杰)),Yuwan (Hsu Chi-Chun (徐麒鈞)),27,PCL/PCS
+Kino (Chu Wu Hsin-Jung (朱吳欣榮)),Radiance (Hu Yuan) (Hu Yuan (胡原)),27,PCL/PCS
+Kino (Chu Wu Hsin-Jung (朱吳欣榮)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),26,PCL/PCS
+Kino (Chu Wu Hsin-Jung (朱吳欣榮)),Yuwan (Hsu Chi-Chun (徐麒鈞)),27,PCL/PCS
+Radiance (Hu Yuan) (Hu Yuan (胡原)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),26,PCL/PCS
+Radiance (Hu Yuan) (Hu Yuan (胡原)),Yuwan (Hsu Chi-Chun (徐麒鈞)),27,PCL/PCS
+Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),Yuwan (Hsu Chi-Chun (徐麒鈞)),26,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Chilly (Jonathan Chan (曾民森)),26,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Enso (Liang En-Shuo (梁恩碩)),68,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Hoki (Lim Tou Jye (林斗捷)),4,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),K2 (Law Chi Kit (羅智傑)),68,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Maoan (Chien Mao-An (簡茂安)),30,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Minji (Lu Po-Wei (呂柏緯)),38,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Paul (Sun Pu-Sheng (孫蒲生)),48,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Pocky (Kuo Chia-Ming (郭家銘)),1,PCL/PCS
+Chilly (Jonathan Chan (曾民森)),Enso (Liang En-Shuo (梁恩碩)),26,PCL/PCS
+Chilly (Jonathan Chan (曾民森)),Hoki (Lim Tou Jye (林斗捷)),4,PCL/PCS
+Chilly (Jonathan Chan (曾民森)),K2 (Law Chi Kit (羅智傑)),26,PCL/PCS
+Chilly (Jonathan Chan (曾民森)),Maoan (Chien Mao-An (簡茂安)),13,PCL/PCS
+Chilly (Jonathan Chan (曾民森)),Minji (Lu Po-Wei (呂柏緯)),13,PCL/PCS
+Chilly (Jonathan Chan (曾民森)),Paul (Sun Pu-Sheng (孫蒲生)),25,PCL/PCS
+Enso (Liang En-Shuo (梁恩碩)),Hoki (Lim Tou Jye (林斗捷)),4,PCL/PCS
+Enso (Liang En-Shuo (梁恩碩)),K2 (Law Chi Kit (羅智傑)),68,PCL/PCS
+Enso (Liang En-Shuo (梁恩碩)),Maoan (Chien Mao-An (簡茂安)),30,PCL/PCS
+Enso (Liang En-Shuo (梁恩碩)),Minji (Lu Po-Wei (呂柏緯)),38,PCL/PCS
+Enso (Liang En-Shuo (梁恩碩)),Paul (Sun Pu-Sheng (孫蒲生)),48,PCL/PCS
+Enso (Liang En-Shuo (梁恩碩)),Pocky (Kuo Chia-Ming (郭家銘)),1,PCL/PCS
+Hoki (Lim Tou Jye (林斗捷)),K2 (Law Chi Kit (羅智傑)),4,PCL/PCS
+Hoki (Lim Tou Jye (林斗捷)),Maoan (Chien Mao-An (簡茂安)),3,PCL/PCS
+Hoki (Lim Tou Jye (林斗捷)),Minji (Lu Po-Wei (呂柏緯)),1,PCL/PCS
+Hoki (Lim Tou Jye (林斗捷)),Paul (Sun Pu-Sheng (孫蒲生)),4,PCL/PCS
+K2 (Law Chi Kit (羅智傑)),Maoan (Chien Mao-An (簡茂安)),30,PCL/PCS
+K2 (Law Chi Kit (羅智傑)),Minji (Lu Po-Wei (呂柏緯)),38,PCL/PCS
+K2 (Law Chi Kit (羅智傑)),Paul (Sun Pu-Sheng (孫蒲生)),48,PCL/PCS
+K2 (Law Chi Kit (羅智傑)),Pocky (Kuo Chia-Ming (郭家銘)),1,PCL/PCS
+Maoan (Chien Mao-An (簡茂安)),Paul (Sun Pu-Sheng (孫蒲生)),30,PCL/PCS
+Minji (Lu Po-Wei (呂柏緯)),Paul (Sun Pu-Sheng (孫蒲生)),18,PCL/PCS
+Minji (Lu Po-Wei (呂柏緯)),Pocky (Kuo Chia-Ming (郭家銘)),1,PCL/PCS
+3z (Chen Han (陳翰)),Error (Sit Chong Fai (薛仲輝)),5,PCL/PCS
+3z (Chen Han (陳翰)),Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),25,PCL/PCS
+3z (Chen Han (陳翰)),JimieN (Tseng Hao-Chun (曾浩鈞)),21,PCL/PCS
+3z (Chen Han (陳翰)),Kabuu (Chan Chak Kin (陳澤鍵)),1,PCL/PCS
+3z (Chen Han (陳翰)),MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),26,PCL/PCS
+3z (Chen Han (陳翰)),Skywalk (Wong Chun Him (黃俊謙)),24,PCL/PCS
+3z (Chen Han (陳翰)),Wing (Lam Wing Chun (林永俊)),26,PCL/PCS
+Error (Sit Chong Fai (薛仲輝)),Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),4,PCL/PCS
+Error (Sit Chong Fai (薛仲輝)),Kabuu (Chan Chak Kin (陳澤鍵)),1,PCL/PCS
+Error (Sit Chong Fai (薛仲輝)),MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),5,PCL/PCS
+Error (Sit Chong Fai (薛仲輝)),Skywalk (Wong Chun Him (黃俊謙)),4,PCL/PCS
+Error (Sit Chong Fai (薛仲輝)),Wing (Lam Wing Chun (林永俊)),5,PCL/PCS
+Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),JimieN (Tseng Hao-Chun (曾浩鈞)),21,PCL/PCS
+Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),46,PCL/PCS
+Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),Skywalk (Wong Chun Him (黃俊謙)),45,PCL/PCS
+Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),Wing (Lam Wing Chun (林永俊)),33,PCL/PCS
+JimieN (Tseng Hao-Chun (曾浩鈞)),MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),21,PCL/PCS
+JimieN (Tseng Hao-Chun (曾浩鈞)),Skywalk (Wong Chun Him (黃俊謙)),20,PCL/PCS
+JimieN (Tseng Hao-Chun (曾浩鈞)),Wing (Lam Wing Chun (林永俊)),21,PCL/PCS
+Kabuu (Chan Chak Kin (陳澤鍵)),MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),1,PCL/PCS
+Kabuu (Chan Chak Kin (陳澤鍵)),Wing (Lam Wing Chun (林永俊)),1,PCL/PCS
+MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),Skywalk (Wong Chun Him (黃俊謙)),45,PCL/PCS
+MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),Wing (Lam Wing Chun (林永俊)),53,PCL/PCS
+Skywalk (Wong Chun Him (黃俊謙)),Wing (Lam Wing Chun (林永俊)),32,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Hana (Chen Chih-Hao (陳志豪)),50,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Keorb (Liao Ming-Yu (廖明昱)),4,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Lauva (Yuang Hsin-Yu (黃新宇)),2,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Lilv (Chen Chin-Han (陳縉翰)),52,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Nestea (Hsu Bao-Yuan (許寶遠)),51,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Ratis (Wong Yu-Fan (翁于梵)),52,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Rest (Hsu Shih-Chieh (徐士傑)),50,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Woody (Lin Hung-Yu (林弘裕)),48,PCL/PCS
+Hana (Chen Chih-Hao (陳志豪)),Keorb (Liao Ming-Yu (廖明昱)),4,PCL/PCS
+Hana (Chen Chih-Hao (陳志豪)),Lilv (Chen Chin-Han (陳縉翰)),70,PCL/PCS
+Hana (Chen Chih-Hao (陳志豪)),Nestea (Hsu Bao-Yuan (許寶遠)),51,PCL/PCS
+Hana (Chen Chih-Hao (陳志豪)),Ratis (Wong Yu-Fan (翁于梵)),50,PCL/PCS
+Hana (Chen Chih-Hao (陳志豪)),Rest (Hsu Shih-Chieh (徐士傑)),61,PCL/PCS
+Hana (Chen Chih-Hao (陳志豪)),Woody (Lin Hung-Yu (林弘裕)),66,PCL/PCS
+Keorb (Liao Ming-Yu (廖明昱)),Lilv (Chen Chin-Han (陳縉翰)),4,PCL/PCS
+Keorb (Liao Ming-Yu (廖明昱)),Nestea (Hsu Bao-Yuan (許寶遠)),3,PCL/PCS
+Keorb (Liao Ming-Yu (廖明昱)),Ratis (Wong Yu-Fan (翁于梵)),4,PCL/PCS
+Keorb (Liao Ming-Yu (廖明昱)),Rest (Hsu Shih-Chieh (徐士傑)),2,PCL/PCS
+Keorb (Liao Ming-Yu (廖明昱)),Woody (Lin Hung-Yu (林弘裕)),1,PCL/PCS
+Lauva (Yuang Hsin-Yu (黃新宇)),Lilv (Chen Chin-Han (陳縉翰)),2,PCL/PCS
+Lauva (Yuang Hsin-Yu (黃新宇)),Nestea (Hsu Bao-Yuan (許寶遠)),2,PCL/PCS
+Lauva (Yuang Hsin-Yu (黃新宇)),Ratis (Wong Yu-Fan (翁于梵)),2,PCL/PCS
+Lauva (Yuang Hsin-Yu (黃新宇)),Rest (Hsu Shih-Chieh (徐士傑)),2,PCL/PCS
+Lauva (Yuang Hsin-Yu (黃新宇)),Woody (Lin Hung-Yu (林弘裕)),2,PCL/PCS
+Lilv (Chen Chin-Han (陳縉翰)),Nestea (Hsu Bao-Yuan (許寶遠)),53,PCL/PCS
+Lilv (Chen Chin-Han (陳縉翰)),Ratis (Wong Yu-Fan (翁于梵)),52,PCL/PCS
+Lilv (Chen Chin-Han (陳縉翰)),Rest (Hsu Shih-Chieh (徐士傑)),63,PCL/PCS
+Lilv (Chen Chin-Han (陳縉翰)),Woody (Lin Hung-Yu (林弘裕)),68,PCL/PCS
+Nestea (Hsu Bao-Yuan (許寶遠)),Ratis (Wong Yu-Fan (翁于梵)),51,PCL/PCS
+Nestea (Hsu Bao-Yuan (許寶遠)),Rest (Hsu Shih-Chieh (徐士傑)),51,PCL/PCS
+Nestea (Hsu Bao-Yuan (許寶遠)),Woody (Lin Hung-Yu (林弘裕)),50,PCL/PCS
+Ratis (Wong Yu-Fan (翁于梵)),Rest (Hsu Shih-Chieh (徐士傑)),50,PCL/PCS
+Ratis (Wong Yu-Fan (翁于梵)),Woody (Lin Hung-Yu (林弘裕)),48,PCL/PCS
+Rest (Hsu Shih-Chieh (徐士傑)),Woody (Lin Hung-Yu (林弘裕)),61,PCL/PCS
+Cabbage (Akarawat Wangsawat),DoeDoii (Edrian Brancia),35,PCL/PCS
+Cabbage (Akarawat Wangsawat),Exosen (Eric Gubatan),17,PCL/PCS
+Cabbage (Akarawat Wangsawat),Hamezz (James Santos),17,PCL/PCS
+Cabbage (Akarawat Wangsawat),Kaigu (Jon Lance Hernandez),7,PCL/PCS
+Cabbage (Akarawat Wangsawat),Kurd (Kang Yeong-hwan (강영환)),10,PCL/PCS
+Cabbage (Akarawat Wangsawat),Rex (Kim Tae-yeon (김태연)),35,PCL/PCS
+DoeDoii (Edrian Brancia),Exosen (Eric Gubatan),19,PCL/PCS
+DoeDoii (Edrian Brancia),Hamezz (James Santos),19,PCL/PCS
+DoeDoii (Edrian Brancia),Kaigu (Jon Lance Hernandez),7,PCL/PCS
+DoeDoii (Edrian Brancia),Kurd (Kang Yeong-hwan (강영환)),12,PCL/PCS
+DoeDoii (Edrian Brancia),Rex (Kim Tae-yeon (김태연)),40,PCL/PCS
+Exosen (Eric Gubatan),Hamezz (James Santos),19,PCL/PCS
+Exosen (Eric Gubatan),Kaigu (Jon Lance Hernandez),7,PCL/PCS
+Exosen (Eric Gubatan),Kurd (Kang Yeong-hwan (강영환)),12,PCL/PCS
+Exosen (Eric Gubatan),Rex (Kim Tae-yeon (김태연)),19,PCL/PCS
+Hamezz (James Santos),Kaigu (Jon Lance Hernandez),7,PCL/PCS
+Hamezz (James Santos),Kurd (Kang Yeong-hwan (강영환)),12,PCL/PCS
+Hamezz (James Santos),Rex (Kim Tae-yeon (김태연)),19,PCL/PCS
+Kaigu (Jon Lance Hernandez),Rex (Kim Tae-yeon (김태연)),7,PCL/PCS
+Kurd (Kang Yeong-hwan (강영환)),Rex (Kim Tae-yeon (김태연)),12,PCL/PCS
+Bruce (Chiu Chih-Chun (邱致鈞)),Gemini (Huang Chu-Xuan (黃楚軒)),64,PCL/PCS
+Bruce (Chiu Chih-Chun (邱致鈞)),Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),64,PCL/PCS
+Bruce (Chiu Chih-Chun (邱致鈞)),Leo (Shu Kuan-Chih) (Shu Kuan-Chih (舒冠智)),29,PCL/PCS
+Bruce (Chiu Chih-Chun (邱致鈞)),Mission (Chen Hsiao-Hsien (陳孝銜)),64,PCL/PCS
+Bruce (Chiu Chih-Chun (邱致鈞)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),62,PCL/PCS
+Bruce (Chiu Chih-Chun (邱致鈞)),pk (Hsieh Yu-Ting (謝宇庭)),64,PCL/PCS
+Gemini (Huang Chu-Xuan (黃楚軒)),Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),85,PCL/PCS
+Gemini (Huang Chu-Xuan (黃楚軒)),Leo (Shu Kuan-Chih) (Shu Kuan-Chih (舒冠智)),29,PCL/PCS
+Gemini (Huang Chu-Xuan (黃楚軒)),Mission (Chen Hsiao-Hsien (陳孝銜)),67,PCL/PCS
+Gemini (Huang Chu-Xuan (黃楚軒)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),65,PCL/PCS
+Gemini (Huang Chu-Xuan (黃楚軒)),pk (Hsieh Yu-Ting (謝宇庭)),67,PCL/PCS
+Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),Leo (Shu Kuan-Chih) (Shu Kuan-Chih (舒冠智)),29,PCL/PCS
+Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),Mission (Chen Hsiao-Hsien (陳孝銜)),67,PCL/PCS
+Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),65,PCL/PCS
+Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),pk (Hsieh Yu-Ting (謝宇庭)),67,PCL/PCS
+Leo (Shu Kuan-Chih) (Shu Kuan-Chih (舒冠智)),Mission (Chen Hsiao-Hsien (陳孝銜)),29,PCL/PCS
+Leo (Shu Kuan-Chih) (Shu Kuan-Chih (舒冠智)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),29,PCL/PCS
+Leo (Shu Kuan-Chih) (Shu Kuan-Chih (舒冠智)),pk (Hsieh Yu-Ting (謝宇庭)),29,PCL/PCS
+Mission (Chen Hsiao-Hsien (陳孝銜)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),65,PCL/PCS
+Mission (Chen Hsiao-Hsien (陳孝銜)),pk (Hsieh Yu-Ting (謝宇庭)),67,PCL/PCS
+Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),pk (Hsieh Yu-Ting (謝宇庭)),65,PCL/PCS
+G4 (Nuttapong Menkasikan),MixCrosS (Korakot Atsarikon),22,PCL/PCS
+G4 (Nuttapong Menkasikan),PoP (Ha Min-wook (하민욱)),49,PCL/PCS
+G4 (Nuttapong Menkasikan),Rockky (Atit Phaomuang),49,PCL/PCS
+G4 (Nuttapong Menkasikan),Ryan (Lee Jun-seok (이준석)),49,PCL/PCS
+G4 (Nuttapong Menkasikan),WarL0cK (Pawat Ampaporn),47,PCL/PCS
+MixCrosS (Korakot Atsarikon),PoP (Ha Min-wook (하민욱)),22,PCL/PCS
+MixCrosS (Korakot Atsarikon),Rockky (Atit Phaomuang),22,PCL/PCS
+MixCrosS (Korakot Atsarikon),Ryan (Lee Jun-seok (이준석)),22,PCL/PCS
+MixCrosS (Korakot Atsarikon),WarL0cK (Pawat Ampaporn),20,PCL/PCS
+PoP (Ha Min-wook (하민욱)),Rockky (Atit Phaomuang),67,PCL/PCS
+PoP (Ha Min-wook (하민욱)),Ryan (Lee Jun-seok (이준석)),49,PCL/PCS
+PoP (Ha Min-wook (하민욱)),WarL0cK (Pawat Ampaporn),47,PCL/PCS
+Rockky (Atit Phaomuang),Ryan (Lee Jun-seok (이준석)),49,PCL/PCS
+Rockky (Atit Phaomuang),WarL0cK (Pawat Ampaporn),47,PCL/PCS
+Ryan (Lee Jun-seok (이준석)),WarL0cK (Pawat Ampaporn),47,PCL/PCS
+Crowe (Luqman Abdullah),Dennis (Lau Hoi Wing (劉凱穎)),11,PCL/PCS
+Crowe (Luqman Abdullah),Do1u1u (Tsai Chien-Cheng (蔡健成)),4,PCL/PCS
+Crowe (Luqman Abdullah),Epic (Wu Chun Hin (胡晉軒)),12,PCL/PCS
+Crowe (Luqman Abdullah),Gengar (Li Chung-Chieh (李仲傑)),3,PCL/PCS
+Crowe (Luqman Abdullah),Mexi (Martin Lew),15,PCL/PCS
+Crowe (Luqman Abdullah),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),15,PCL/PCS
+Crowe (Luqman Abdullah),Shinsekai (Tan Yew Ming (陈煜明)),15,PCL/PCS
+Dennis (Lau Hoi Wing (劉凱穎)),Epic (Wu Chun Hin (胡晉軒)),8,PCL/PCS
+Dennis (Lau Hoi Wing (劉凱穎)),Gengar (Li Chung-Chieh (李仲傑)),6,PCL/PCS
+Dennis (Lau Hoi Wing (劉凱穎)),Mexi (Martin Lew),14,PCL/PCS
+Dennis (Lau Hoi Wing (劉凱穎)),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),14,PCL/PCS
+Dennis (Lau Hoi Wing (劉凱穎)),Shinsekai (Tan Yew Ming (陈煜明)),14,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),Epic (Wu Chun Hin (胡晉軒)),4,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),Mexi (Martin Lew),4,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),4,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),Shinsekai (Tan Yew Ming (陈煜明)),4,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Mexi (Martin Lew),24,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),35,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Shinsekai (Tan Yew Ming (陈煜明)),35,PCL/PCS
+Gengar (Li Chung-Chieh (李仲傑)),Mexi (Martin Lew),6,PCL/PCS
+Gengar (Li Chung-Chieh (李仲傑)),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),6,PCL/PCS
+Gengar (Li Chung-Chieh (李仲傑)),Shinsekai (Tan Yew Ming (陈煜明)),6,PCL/PCS
+Mexi (Martin Lew),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),30,PCL/PCS
+Mexi (Martin Lew),Shinsekai (Tan Yew Ming (陈煜明)),30,PCL/PCS
+Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),Shinsekai (Tan Yew Ming (陈煜明)),41,PCL/PCS
+Bigfafa (Seo Min-seok (서민석)),caNdy (Kim Seung-ju) (Kim Seung-ju (김승주)),39,PCL/PCS
+Bigfafa (Seo Min-seok (서민석)),Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),70,PCL/PCS
+Bigfafa (Seo Min-seok (서민석)),Kaiwing (Ling Kai Wing (凌啟榮)),70,PCL/PCS
+Bigfafa (Seo Min-seok (서민석)),River (Kim Dong-woo) (Kim Dong-woo (김동우)),70,PCL/PCS
+Bigfafa (Seo Min-seok (서민석)),Saroo (Lee Jong-won (이종원)),70,PCL/PCS
+Bigfafa (Seo Min-seok (서민석)),Unified (Wong Chun Kit (黃俊杰)),70,PCL/PCS
+caNdy (Kim Seung-ju) (Kim Seung-ju (김승주)),Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),42,PCL/PCS
+caNdy (Kim Seung-ju) (Kim Seung-ju (김승주)),Kaiwing (Ling Kai Wing (凌啟榮)),42,PCL/PCS
+caNdy (Kim Seung-ju) (Kim Seung-ju (김승주)),River (Kim Dong-woo) (Kim Dong-woo (김동우)),42,PCL/PCS
+caNdy (Kim Seung-ju) (Kim Seung-ju (김승주)),Saroo (Lee Jong-won (이종원)),39,PCL/PCS
+caNdy (Kim Seung-ju) (Kim Seung-ju (김승주)),Unified (Wong Chun Kit (黃俊杰)),42,PCL/PCS
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),Kaiwing (Ling Kai Wing (凌啟榮)),91,PCL/PCS
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),River (Kim Dong-woo) (Kim Dong-woo (김동우)),91,PCL/PCS
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),Saroo (Lee Jong-won (이종원)),70,PCL/PCS
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),Unified (Wong Chun Kit (黃俊杰)),91,PCL/PCS
+Kaiwing (Ling Kai Wing (凌啟榮)),River (Kim Dong-woo) (Kim Dong-woo (김동우)),91,PCL/PCS
+Kaiwing (Ling Kai Wing (凌啟榮)),Saroo (Lee Jong-won (이종원)),70,PCL/PCS
+Kaiwing (Ling Kai Wing (凌啟榮)),Unified (Wong Chun Kit (黃俊杰)),91,PCL/PCS
+River (Kim Dong-woo) (Kim Dong-woo (김동우)),Saroo (Lee Jong-won (이종원)),70,PCL/PCS
+River (Kim Dong-woo) (Kim Dong-woo (김동우)),Unified (Wong Chun Kit (黃俊杰)),91,PCL/PCS
+Saroo (Lee Jong-won (이종원)),Unified (Wong Chun Kit (黃俊杰)),70,PCL/PCS
+Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),GreenTea (Tsai Shang-Ching (蔡尚精)),4,PCL/PCS
+Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),Kongyue (Hsiao Jen-Tso (蕭任佐)),4,PCL/PCS
+Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),Wako (Tsou Wei-Yang (鄒惟洋)),4,PCL/PCS
+Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),Ysera (Wang Tsung-Chih (汪宗志)),4,PCL/PCS
+Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),Zero (Chung Chen-Hua) (Chung Chen-Hua (鍾震華)),4,PCL/PCS
+Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),Ziv (Chen Yi) (Chen Yi (陳奕)),4,PCL/PCS
+Coldicee (Yu Min-Hsiang (游閔翔)),Driver (Shen Zong-Hua (沈宗樺)),3,PCL/PCS
+Driver (Shen Zong-Hua (沈宗樺)),Hana (Chen Chih-Hao (陳志豪)),10,PCL/PCS
+Driver (Shen Zong-Hua (沈宗樺)),Keorb (Liao Ming-Yu (廖明昱)),2,PCL/PCS
+Driver (Shen Zong-Hua (沈宗樺)),Lilv (Chen Chin-Han (陳縉翰)),10,PCL/PCS
+Driver (Shen Zong-Hua (沈宗樺)),Nestea (Hsu Bao-Yuan (許寶遠)),3,PCL/PCS
+Driver (Shen Zong-Hua (沈宗樺)),Ratis (Wong Yu-Fan (翁于梵)),3,PCL/PCS
+Driver (Shen Zong-Hua (沈宗樺)),Rest (Hsu Shih-Chieh (徐士傑)),1,PCL/PCS
+GreenTea (Tsai Shang-Ching (蔡尚精)),Leaky (Chang Tsu-Chia (張祖嘉)),11,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),Leaky (Chang Tsu-Chia (張祖嘉)),11,PCL/PCS
+Leaky (Chang Tsu-Chia (張祖嘉)),Uniboy (Chen Chang-Chu (陳昌駒)),11,PCL/PCS
+Leaky (Chang Tsu-Chia (張祖嘉)),Wako (Tsou Wei-Yang (鄒惟洋)),11,PCL/PCS
+Leaky (Chang Tsu-Chia (張祖嘉)),Ysera (Wang Tsung-Chih (汪宗志)),11,PCL/PCS
+Leaky (Chang Tsu-Chia (張祖嘉)),Zero (Chung Chen-Hua) (Chung Chen-Hua (鍾震華)),11,PCL/PCS
+Bush (Yu Ping-Kun (余秉昆)),Chen9 (Chen Yi-Bing (陈怡冰)),24,PCL/PCS
+Bush (Yu Ping-Kun (余秉昆)),WeiLun (Tsai Wei-Lun (蔡緯綸)),24,PCL/PCS
+Bush (Yu Ping-Kun (余秉昆)),World6 (Chen Yu-Tian (陈裕添)),12,PCL/PCS
+Bush (Yu Ping-Kun (余秉昆)),Xiaoya (Tseng Ling-Yeh (曾令曄)),24,PCL/PCS
+Bush (Yu Ping-Kun (余秉昆)),YourRiver (Li De-He (李德河)),12,PCL/PCS
+Bush (Yu Ping-Kun (余秉昆)),Yursan (Wang Sheng-Yu (王聖佑)),24,PCL/PCS
+Chen9 (Chen Yi-Bing (陈怡冰)),WeiLun (Tsai Wei-Lun (蔡緯綸)),24,PCL/PCS
+Chen9 (Chen Yi-Bing (陈怡冰)),World6 (Chen Yu-Tian (陈裕添)),12,PCL/PCS
+Chen9 (Chen Yi-Bing (陈怡冰)),Xiaoya (Tseng Ling-Yeh (曾令曄)),24,PCL/PCS
+Chen9 (Chen Yi-Bing (陈怡冰)),YourRiver (Li De-He (李德河)),12,PCL/PCS
+Chen9 (Chen Yi-Bing (陈怡冰)),Yursan (Wang Sheng-Yu (王聖佑)),24,PCL/PCS
+WeiLun (Tsai Wei-Lun (蔡緯綸)),World6 (Chen Yu-Tian (陈裕添)),12,PCL/PCS
+WeiLun (Tsai Wei-Lun (蔡緯綸)),Xiaoya (Tseng Ling-Yeh (曾令曄)),24,PCL/PCS
+WeiLun (Tsai Wei-Lun (蔡緯綸)),YourRiver (Li De-He (李德河)),12,PCL/PCS
+WeiLun (Tsai Wei-Lun (蔡緯綸)),Yursan (Wang Sheng-Yu (王聖佑)),24,PCL/PCS
+World6 (Chen Yu-Tian (陈裕添)),Xiaoya (Tseng Ling-Yeh (曾令曄)),12,PCL/PCS
+World6 (Chen Yu-Tian (陈裕添)),Yursan (Wang Sheng-Yu (王聖佑)),12,PCL/PCS
+Xiaoya (Tseng Ling-Yeh (曾令曄)),YourRiver (Li De-He (李德河)),12,PCL/PCS
+Xiaoya (Tseng Ling-Yeh (曾令曄)),Yursan (Wang Sheng-Yu (王聖佑)),24,PCL/PCS
+YourRiver (Li De-He (李德河)),Yursan (Wang Sheng-Yu (王聖佑)),12,PCL/PCS
+Axin (Huang Teng-Hsin (黃登鑫)),Azhi (Huang Shang-Chih (黃上鋕)),24,PCL/PCS
+Axin (Huang Teng-Hsin (黃登鑫)),Chilly (Jonathan Chan (曾民森)),1,PCL/PCS
+Axin (Huang Teng-Hsin (黃登鑫)),Do1u1u (Tsai Chien-Cheng (蔡健成)),23,PCL/PCS
+Axin (Huang Teng-Hsin (黃登鑫)),Enso (Liang En-Shuo (梁恩碩)),24,PCL/PCS
+Axin (Huang Teng-Hsin (黃登鑫)),K2 (Law Chi Kit (羅智傑)),24,PCL/PCS
+Axin (Huang Teng-Hsin (黃登鑫)),Maoan (Chien Mao-An (簡茂安)),18,PCL/PCS
+Axin (Huang Teng-Hsin (黃登鑫)),Paul (Sun Pu-Sheng (孫蒲生)),24,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Do1u1u (Tsai Chien-Cheng (蔡健成)),23,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),Enso (Liang En-Shuo (梁恩碩)),23,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),K2 (Law Chi Kit (羅智傑)),23,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),Maoan (Chien Mao-An (簡茂安)),17,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),Paul (Sun Pu-Sheng (孫蒲生)),23,PCL/PCS
+Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),Kartis (Wong Ka Lok (黃嘉樂)),21,PCL/PCS
+Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),Moonblack (Leung Chung Hong (梁頌康)),21,PCL/PCS
+Holo (Tsang Dek Lam) (Tsang Dek Lam (曾德霖)),Tak (Vong Tak Seng) (Vong Tak Seng (黃德誠)),13,PCL/PCS
+Kartis (Wong Ka Lok (黃嘉樂)),MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),21,PCL/PCS
+Kartis (Wong Ka Lok (黃嘉樂)),Moonblack (Leung Chung Hong (梁頌康)),21,PCL/PCS
+Kartis (Wong Ka Lok (黃嘉樂)),Skywalk (Wong Chun Him (黃俊謙)),21,PCL/PCS
+Kartis (Wong Ka Lok (黃嘉樂)),Tak (Vong Tak Seng) (Vong Tak Seng (黃德誠)),13,PCL/PCS
+Kartis (Wong Ka Lok (黃嘉樂)),Wing (Lam Wing Chun (林永俊)),8,PCL/PCS
+MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),Moonblack (Leung Chung Hong (梁頌康)),21,PCL/PCS
+MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),Tak (Vong Tak Seng) (Vong Tak Seng (黃德誠)),13,PCL/PCS
+Moonblack (Leung Chung Hong (梁頌康)),Skywalk (Wong Chun Him (黃俊謙)),21,PCL/PCS
+Moonblack (Leung Chung Hong (梁頌康)),Tak (Vong Tak Seng) (Vong Tak Seng (黃德誠)),13,PCL/PCS
+Moonblack (Leung Chung Hong (梁頌康)),Wing (Lam Wing Chun (林永俊)),8,PCL/PCS
+Skywalk (Wong Chun Him (黃俊謙)),Tak (Vong Tak Seng) (Vong Tak Seng (黃德誠)),13,PCL/PCS
+Cabbage (Akarawat Wangsawat),Dawn (Kyle Leird Somera) (Kyle Leird Somera),18,PCL/PCS
+Cabbage (Akarawat Wangsawat),Kanji (Ren Motomitsu),18,PCL/PCS
+Cabbage (Akarawat Wangsawat),Mocha (Kim Tae-gyeom) (Kim Tae-gyeom (김태겸)),18,PCL/PCS
+Cabbage (Akarawat Wangsawat),Tgee (Gerald Gianne Gelacio),12,PCL/PCS
+Dawn (Kyle Leird Somera) (Kyle Leird Somera),DoeDoii (Edrian Brancia),39,PCL/PCS
+Dawn (Kyle Leird Somera) (Kyle Leird Somera),Kanji (Ren Motomitsu),34,PCL/PCS
+Dawn (Kyle Leird Somera) (Kyle Leird Somera),Mocha (Kim Tae-gyeom) (Kim Tae-gyeom (김태겸)),21,PCL/PCS
+Dawn (Kyle Leird Somera) (Kyle Leird Somera),Rex (Kim Tae-yeon (김태연)),21,PCL/PCS
+Dawn (Kyle Leird Somera) (Kyle Leird Somera),Tgee (Gerald Gianne Gelacio),12,PCL/PCS
+DoeDoii (Edrian Brancia),Kanji (Ren Motomitsu),34,PCL/PCS
+DoeDoii (Edrian Brancia),Mocha (Kim Tae-gyeom) (Kim Tae-gyeom (김태겸)),21,PCL/PCS
+DoeDoii (Edrian Brancia),Tgee (Gerald Gianne Gelacio),12,PCL/PCS
+Kanji (Ren Motomitsu),Mocha (Kim Tae-gyeom) (Kim Tae-gyeom (김태겸)),21,PCL/PCS
+Kanji (Ren Motomitsu),Rex (Kim Tae-yeon (김태연)),21,PCL/PCS
+Kanji (Ren Motomitsu),Tgee (Gerald Gianne Gelacio),12,PCL/PCS
+Mocha (Kim Tae-gyeom) (Kim Tae-gyeom (김태겸)),Rex (Kim Tae-yeon (김태연)),21,PCL/PCS
+Mocha (Kim Tae-gyeom) (Kim Tae-gyeom (김태겸)),Tgee (Gerald Gianne Gelacio),12,PCL/PCS
+Rex (Kim Tae-yeon (김태연)),Tgee (Gerald Gianne Gelacio),12,PCL/PCS
+Bruce (Chiu Chih-Chun (邱致鈞)),Dreamer (Tseng Chien-Hung (曾建泓)),33,PCL/PCS
+Dreamer (Tseng Chien-Hung (曾建泓)),Gemini (Huang Chu-Xuan (黃楚軒)),36,PCL/PCS
+Dreamer (Tseng Chien-Hung (曾建泓)),Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),36,PCL/PCS
+Dreamer (Tseng Chien-Hung (曾建泓)),Mission (Chen Hsiao-Hsien (陳孝銜)),36,PCL/PCS
+Dreamer (Tseng Chien-Hung (曾建泓)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),36,PCL/PCS
+Dreamer (Tseng Chien-Hung (曾建泓)),pk (Hsieh Yu-Ting (謝宇庭)),36,PCL/PCS
+Coldenfeet (Pongsatorn Kornrat),Deul (Kim Deul (김들)),27,PCL/PCS
+Coldenfeet (Pongsatorn Kornrat),G4 (Nuttapong Menkasikan),27,PCL/PCS
+Coldenfeet (Pongsatorn Kornrat),PoP (Ha Min-wook (하민욱)),27,PCL/PCS
+Coldenfeet (Pongsatorn Kornrat),Rockky (Atit Phaomuang),27,PCL/PCS
+Coldenfeet (Pongsatorn Kornrat),Ryan (Lee Jun-seok (이준석)),27,PCL/PCS
+Coldenfeet (Pongsatorn Kornrat),WarL0cK (Pawat Ampaporn),27,PCL/PCS
+Deul (Kim Deul (김들)),G4 (Nuttapong Menkasikan),27,PCL/PCS
+Deul (Kim Deul (김들)),PoP (Ha Min-wook (하민욱)),27,PCL/PCS
+Deul (Kim Deul (김들)),Rockky (Atit Phaomuang),27,PCL/PCS
+Deul (Kim Deul (김들)),Ryan (Lee Jun-seok (이준석)),27,PCL/PCS
+Deul (Kim Deul (김들)),WarL0cK (Pawat Ampaporn),27,PCL/PCS
+Bigfafa (Seo Min-seok (서민석)),TANK (Park Dan-won (박단원)),31,PCL/PCS
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),TANK (Park Dan-won (박단원)),31,PCL/PCS
+Kaiwing (Ling Kai Wing (凌啟榮)),TANK (Park Dan-won (박단원)),31,PCL/PCS
+River (Kim Dong-woo) (Kim Dong-woo (김동우)),TANK (Park Dan-won (박단원)),31,PCL/PCS
+Saroo (Lee Jong-won (이종원)),TANK (Park Dan-won (박단원)),31,PCL/PCS
+TANK (Park Dan-won (박단원)),Unified (Wong Chun Kit (黃俊杰)),31,PCL/PCS
+BoxeR (Cheng Yu Kit) (Cheng Yu Kit),Epic (Wu Chun Hin (胡晉軒)),18,PCL/PCS
+BoxeR (Cheng Yu Kit) (Cheng Yu Kit),Jensen (Jensen Goh) (Jensen Goh (吳乾生)),13,PCL/PCS
+BoxeR (Cheng Yu Kit) (Cheng Yu Kit),Mexi (Martin Lew),7,PCL/PCS
+BoxeR (Cheng Yu Kit) (Cheng Yu Kit),OMO (Leonard Loh),13,PCL/PCS
+BoxeR (Cheng Yu Kit) (Cheng Yu Kit),Quake (Kenneth Chan Jun Jie),11,PCL/PCS
+BoxeR (Cheng Yu Kit) (Cheng Yu Kit),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),18,PCL/PCS
+BoxeR (Cheng Yu Kit) (Cheng Yu Kit),Shinsekai (Tan Yew Ming (陈煜明)),18,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Jensen (Jensen Goh) (Jensen Goh (吳乾生)),18,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Kusuo (Jordan Lum),5,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),OMO (Leonard Loh),18,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Quake (Kenneth Chan Jun Jie),11,PCL/PCS
+Jensen (Jensen Goh) (Jensen Goh (吳乾生)),Kusuo (Jordan Lum),5,PCL/PCS
+Jensen (Jensen Goh) (Jensen Goh (吳乾生)),Mexi (Martin Lew),12,PCL/PCS
+Jensen (Jensen Goh) (Jensen Goh (吳乾生)),OMO (Leonard Loh),18,PCL/PCS
+Jensen (Jensen Goh) (Jensen Goh (吳乾生)),Quake (Kenneth Chan Jun Jie),6,PCL/PCS
+Jensen (Jensen Goh) (Jensen Goh (吳乾生)),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),18,PCL/PCS
+Jensen (Jensen Goh) (Jensen Goh (吳乾生)),Shinsekai (Tan Yew Ming (陈煜明)),18,PCL/PCS
+Kusuo (Jordan Lum),Mexi (Martin Lew),5,PCL/PCS
+Kusuo (Jordan Lum),OMO (Leonard Loh),5,PCL/PCS
+Kusuo (Jordan Lum),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),5,PCL/PCS
+Kusuo (Jordan Lum),Shinsekai (Tan Yew Ming (陈煜明)),5,PCL/PCS
+Mexi (Martin Lew),OMO (Leonard Loh),12,PCL/PCS
+OMO (Leonard Loh),Quake (Kenneth Chan Jun Jie),6,PCL/PCS
+OMO (Leonard Loh),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),18,PCL/PCS
+OMO (Leonard Loh),Shinsekai (Tan Yew Ming (陈煜明)),18,PCL/PCS
+Quake (Kenneth Chan Jun Jie),Raven (Kenneth Goh Kai Yang) (Kenneth Goh Kai Yang),11,PCL/PCS
+Quake (Kenneth Chan Jun Jie),Shinsekai (Tan Yew Ming (陈煜明)),11,PCL/PCS
+Axin (Huang Teng-Hsin (黃登鑫)),Minji (Lu Po-Wei (呂柏緯)),6,PCL/PCS
+Do1u1u (Tsai Chien-Cheng (蔡健成)),Minji (Lu Po-Wei (呂柏緯)),6,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Dreamer (Tseng Chien-Hung (曾建泓)),3,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Gemini (Huang Chu-Xuan (黃楚軒)),21,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),21,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Mission (Chen Hsiao-Hsien (陳孝銜)),3,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Mountain (Xue Zhao-Hong) (Xue Zhao-Hong (薛兆鴻)),3,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),pk (Hsieh Yu-Ting (謝宇庭)),3,PCL/PCS
+Blaze (Jia Xiang) (Jia Xiang),QaspieL (Eric Sia Sze Pin),5,PCL/PCS
+Blaze (Jia Xiang) (Jia Xiang),Shera (Winston Tai Yi Sheng),23,PCL/PCS
+Blaze (Jia Xiang) (Jia Xiang),Smerv (Mervyn Yee Xuan Wen),23,PCL/PCS
+Blaze (Jia Xiang) (Jia Xiang),TOPKING (Kim Yeon-su (김연수)),23,PCL/PCS
+QaspieL (Eric Sia Sze Pin),Shera (Winston Tai Yi Sheng),5,PCL/PCS
+QaspieL (Eric Sia Sze Pin),Smerv (Mervyn Yee Xuan Wen),5,PCL/PCS
+QaspieL (Eric Sia Sze Pin),TOPKING (Kim Yeon-su (김연수)),5,PCL/PCS
+Shera (Winston Tai Yi Sheng),Smerv (Mervyn Yee Xuan Wen),23,PCL/PCS
+Shera (Winston Tai Yi Sheng),TOPKING (Kim Yeon-su (김연수)),23,PCL/PCS
+Smerv (Mervyn Yee Xuan Wen),TOPKING (Kim Yeon-su (김연수)),23,PCL/PCS
+Speltz (Jay Tabarangao),yjy (David Emmanuel D. Tapang),3,PCL/PCS
+3z (Chen Han (陳翰)),AN (Chou Chun-An (周俊諳)),19,PCL/PCS
+3z (Chen Han (陳翰)),Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),19,PCL/PCS
+3z (Chen Han (陳翰)),Zihan (Shan Zi-Qi (单子起)),19,PCL/PCS
+3z (Chen Han (陳翰)),Kiy1n9 (Dai Yi-Peng (戴伊鹏)),19,PCL/PCS
+AN (Chou Chun-An (周俊諳)),Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),19,PCL/PCS
+AN (Chou Chun-An (周俊諳)),Zihan (Shan Zi-Qi (单子起)),19,PCL/PCS
+AN (Chou Chun-An (周俊諳)),Kiy1n9 (Dai Yi-Peng (戴伊鹏)),19,PCL/PCS
+Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),Zihan (Shan Zi-Qi (单子起)),19,PCL/PCS
+Apex (Hsieh Chia-Wei) (Hsieh Chia-Wei (謝家維)),Kiy1n9 (Dai Yi-Peng (戴伊鹏)),19,PCL/PCS
+Zihan (Shan Zi-Qi (单子起)),Kiy1n9 (Dai Yi-Peng (戴伊鹏)),19,PCL/PCS
+Azhi (Huang Shang-Chih (黃上鋕)),Eren (Khor Yih Jiet) (Khor Yih Jiet),18,PCL/PCS
+Enso (Liang En-Shuo (梁恩碩)),Eren (Khor Yih Jiet) (Khor Yih Jiet),18,PCL/PCS
+Eren (Khor Yih Jiet) (Khor Yih Jiet),K2 (Law Chi Kit (羅智傑)),18,PCL/PCS
+Eren (Khor Yih Jiet) (Khor Yih Jiet),Minji (Lu Po-Wei (呂柏緯)),18,PCL/PCS
+Doggo (Chiu Tzu-Chuan (邱梓銓)),HuSha (Huang Zi-Wei (黃梓維)),18,PCL/PCS
+Doggo (Chiu Tzu-Chuan (邱梓銓)),Husky (Huang Chin-Cheng (黃錦誠)),8,PCL/PCS
+Doggo (Chiu Tzu-Chuan (邱梓銓)),Kino (Chu Wu Hsin-Jung (朱吳欣榮)),18,PCL/PCS
+Doggo (Chiu Tzu-Chuan (邱梓銓)),Liang (Wu Liang-Te (吳亮德)),17,PCL/PCS
+Doggo (Chiu Tzu-Chuan (邱梓銓)),Maoan (Chien Mao-An (簡茂安)),10,PCL/PCS
+Doggo (Chiu Tzu-Chuan (邱梓銓)),pk (Hsieh Yu-Ting (謝宇庭)),1,PCL/PCS
+HuSha (Huang Zi-Wei (黃梓維)),Husky (Huang Chin-Cheng (黃錦誠)),8,PCL/PCS
+HuSha (Huang Zi-Wei (黃梓維)),Kino (Chu Wu Hsin-Jung (朱吳欣榮)),18,PCL/PCS
+HuSha (Huang Zi-Wei (黃梓維)),Liang (Wu Liang-Te (吳亮德)),17,PCL/PCS
+HuSha (Huang Zi-Wei (黃梓維)),Maoan (Chien Mao-An (簡茂安)),10,PCL/PCS
+HuSha (Huang Zi-Wei (黃梓維)),pk (Hsieh Yu-Ting (謝宇庭)),1,PCL/PCS
+Husky (Huang Chin-Cheng (黃錦誠)),Kino (Chu Wu Hsin-Jung (朱吳欣榮)),8,PCL/PCS
+Husky (Huang Chin-Cheng (黃錦誠)),Liang (Wu Liang-Te (吳亮德)),8,PCL/PCS
+Kino (Chu Wu Hsin-Jung (朱吳欣榮)),Liang (Wu Liang-Te (吳亮德)),17,PCL/PCS
+Kino (Chu Wu Hsin-Jung (朱吳欣榮)),Maoan (Chien Mao-An (簡茂安)),10,PCL/PCS
+Kino (Chu Wu Hsin-Jung (朱吳欣榮)),pk (Hsieh Yu-Ting (謝宇庭)),1,PCL/PCS
+Liang (Wu Liang-Te (吳亮德)),Maoan (Chien Mao-An (簡茂安)),9,PCL/PCS
+Maoan (Chien Mao-An (簡茂安)),pk (Hsieh Yu-Ting (謝宇庭)),1,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),PoP (Ha Min-wook (하민욱)),18,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Rockky (Atit Phaomuang),18,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Ruby (Lee Sol-min (이솔민)),18,PCL/PCS
+Epic (Wu Chun Hin (胡晉軒)),Wako (Tsou Wei-Yang (鄒惟洋)),18,PCL/PCS
+PoP (Ha Min-wook (하민욱)),Ruby (Lee Sol-min (이솔민)),18,PCL/PCS
+PoP (Ha Min-wook (하민욱)),Wako (Tsou Wei-Yang (鄒惟洋)),18,PCL/PCS
+Rockky (Atit Phaomuang),Ruby (Lee Sol-min (이솔민)),18,PCL/PCS
+Rockky (Atit Phaomuang),Wako (Tsou Wei-Yang (鄒惟洋)),18,PCL/PCS
+Ruby (Lee Sol-min (이솔민)),Wako (Tsou Wei-Yang (鄒惟洋)),18,PCL/PCS
+B1ven (Wu Hao-Wei (吳浩瑋)),Kongyue (Hsiao Jen-Tso (蕭任佐)),8,PCL/PCS
+B1ven (Wu Hao-Wei (吳浩瑋)),MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),19,PCL/PCS
+B1ven (Wu Hao-Wei (吳浩瑋)),Patience (Liu Hsuan (劉軒)),11,PCL/PCS
+B1ven (Wu Hao-Wei (吳浩瑋)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),19,PCL/PCS
+B1ven (Wu Hao-Wei (吳浩瑋)),Wing (Lam Wing Chun (林永俊)),19,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),8,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),8,PCL/PCS
+Kongyue (Hsiao Jen-Tso (蕭任佐)),Wing (Lam Wing Chun (林永俊)),8,PCL/PCS
+MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),Patience (Liu Hsuan (劉軒)),11,PCL/PCS
+MnM (Wong Ka Chun) (Wong Ka Chun (王嘉駿)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),19,PCL/PCS
+Patience (Liu Hsuan (劉軒)),Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),11,PCL/PCS
+Patience (Liu Hsuan (劉軒)),Wing (Lam Wing Chun (林永俊)),11,PCL/PCS
+Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷)),Wing (Lam Wing Chun (林永俊)),19,PCL/PCS
+Blaze (Jia Xiang) (Jia Xiang),CYH (Chen Yi-Hui (陈艺辉)),18,PCL/PCS
+CYH (Chen Yi-Hui (陈艺辉)),Shera (Winston Tai Yi Sheng),18,PCL/PCS
+CYH (Chen Yi-Hui (陈艺辉)),Smerv (Mervyn Yee Xuan Wen),18,PCL/PCS
+CYH (Chen Yi-Hui (陈艺辉)),TOPKING (Kim Yeon-su (김연수)),18,PCL/PCS
+Driver (Shen Zong-Hua (沈宗樺)),Mission (Chen Hsiao-Hsien (陳孝銜)),7,PCL/PCS
+Driver (Shen Zong-Hua (沈宗樺)),Woody (Lin Hung-Yu (林弘裕)),7,PCL/PCS
+Hana (Chen Chih-Hao (陳志豪)),Mission (Chen Hsiao-Hsien (陳孝銜)),18,PCL/PCS
+Lilv (Chen Chin-Han (陳縉翰)),Mission (Chen Hsiao-Hsien (陳孝銜)),18,PCL/PCS
+Mission (Chen Hsiao-Hsien (陳孝銜)),Rest (Hsu Shih-Chieh (徐士傑)),11,PCL/PCS
+Mission (Chen Hsiao-Hsien (陳孝銜)),Woody (Lin Hung-Yu (林弘裕)),18,PCL/PCS
+Cresho (Jan Edward Hortizuela),Dawn (Kyle Leird Somera) (Kyle Leird Somera),13,PCL/PCS
+Cresho (Jan Edward Hortizuela),DoeDoii (Edrian Brancia),13,PCL/PCS
+Cresho (Jan Edward Hortizuela),Kanji (Ren Motomitsu),8,PCL/PCS
+Cresho (Jan Edward Hortizuela),Speltz (Jay Tabarangao),13,PCL/PCS
+Cresho (Jan Edward Hortizuela),Xyliath (Jhon Mike Tungol),10,PCL/PCS
+Dawn (Kyle Leird Somera) (Kyle Leird Somera),Speltz (Jay Tabarangao),18,PCL/PCS
+Dawn (Kyle Leird Somera) (Kyle Leird Somera),Xyliath (Jhon Mike Tungol),10,PCL/PCS
+DoeDoii (Edrian Brancia),Speltz (Jay Tabarangao),18,PCL/PCS
+DoeDoii (Edrian Brancia),Xyliath (Jhon Mike Tungol),10,PCL/PCS
+Kanji (Ren Motomitsu),Speltz (Jay Tabarangao),13,PCL/PCS
+Kanji (Ren Motomitsu),Xyliath (Jhon Mike Tungol),5,PCL/PCS
+Speltz (Jay Tabarangao),Xyliath (Jhon Mike Tungol),10,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),JimieN (Tseng Hao-Chun (曾浩鈞)),18,PCL/PCS
+Atlen (Sung Ya-Lun (宋亞倫)),Likai (Liao Li-Kai (廖俐凱)),18,PCL/PCS
+Gemini (Huang Chu-Xuan (黃楚軒)),JimieN (Tseng Hao-Chun (曾浩鈞)),18,PCL/PCS
+Gemini (Huang Chu-Xuan (黃楚軒)),Likai (Liao Li-Kai (廖俐凱)),18,PCL/PCS
+JimieN (Tseng Hao-Chun (曾浩鈞)),Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),18,PCL/PCS
+JimieN (Tseng Hao-Chun (曾浩鈞)),Likai (Liao Li-Kai (廖俐凱)),18,PCL/PCS
+Koala (Lin Chih-Chiang) (Lin Chih-Chiang (林志強)),Likai (Liao Li-Kai (廖俐凱)),18,PCL/PCS
+Hanabi (Su Chia-Hsiang) (Su Chia-Hsiang (蘇嘉祥)),Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),18,PCL/PCS
+Kaiwing (Ling Kai Wing (凌啟榮)),Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),18,PCL/PCS
+Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),River (Kim Dong-woo) (Kim Dong-woo (김동우)),18,PCL/PCS
+Maple (Huang Yi-Tang) (Huang Yi-Tang (黃熠棠)),Unified (Wong Chun Kit (黃俊杰)),18,PCL/PCS

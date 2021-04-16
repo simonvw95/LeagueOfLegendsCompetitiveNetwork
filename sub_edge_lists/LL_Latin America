@@ -1,0 +1,644 @@
+From,To,n_played,Region
+Grell (Jesús Loya),Halier (Gabriel Negreiros),3,LL/Latin America
+Grell (Jesús Loya),Jaeby (Jung Jae-hun (정재훈)),3,LL/Latin America
+Grell (Jesús Loya),Kiefer (Nicolás Rivero),29,LL/Latin America
+Grell (Jesús Loya),Mora (Jake Hammond),6,LL/Latin America
+Grell (Jesús Loya),Pancake (Manuel Scala) (Manuel Scala),16,LL/Latin America
+Grell (Jesús Loya),Ruin (Kim Hyeong-min (김형민)),8,LL/Latin America
+Grell (Jesús Loya),WADID (Kim Bae-in (김배인)),12,LL/Latin America
+Grell (Jesús Loya),Zothve (Cristóbal Arróspide),4,LL/Latin America
+Halier (Gabriel Negreiros),Kiefer (Nicolás Rivero),3,LL/Latin America
+Halier (Gabriel Negreiros),Pancake (Manuel Scala) (Manuel Scala),3,LL/Latin America
+Halier (Gabriel Negreiros),Ruin (Kim Hyeong-min (김형민)),2,LL/Latin America
+Halier (Gabriel Negreiros),WADID (Kim Bae-in (김배인)),3,LL/Latin America
+Halier (Gabriel Negreiros),Zothve (Cristóbal Arróspide),1,LL/Latin America
+Jaeby (Jung Jae-hun (정재훈)),Kiefer (Nicolás Rivero),3,LL/Latin America
+Jaeby (Jung Jae-hun (정재훈)),Pancake (Manuel Scala) (Manuel Scala),3,LL/Latin America
+Jaeby (Jung Jae-hun (정재훈)),Ruin (Kim Hyeong-min (김형민)),2,LL/Latin America
+Jaeby (Jung Jae-hun (정재훈)),WADID (Kim Bae-in (김배인)),3,LL/Latin America
+Jaeby (Jung Jae-hun (정재훈)),Zothve (Cristóbal Arróspide),1,LL/Latin America
+Kiefer (Nicolás Rivero),Mora (Jake Hammond),6,LL/Latin America
+Kiefer (Nicolás Rivero),Pancake (Manuel Scala) (Manuel Scala),13,LL/Latin America
+Kiefer (Nicolás Rivero),Ruin (Kim Hyeong-min (김형민)),8,LL/Latin America
+Kiefer (Nicolás Rivero),WADID (Kim Bae-in (김배인)),12,LL/Latin America
+Kiefer (Nicolás Rivero),Zothve (Cristóbal Arróspide),4,LL/Latin America
+Mora (Jake Hammond),Pancake (Manuel Scala) (Manuel Scala),6,LL/Latin America
+Mora (Jake Hammond),Ruin (Kim Hyeong-min (김형민)),4,LL/Latin America
+Mora (Jake Hammond),WADID (Kim Bae-in (김배인)),6,LL/Latin America
+Mora (Jake Hammond),Zothve (Cristóbal Arróspide),2,LL/Latin America
+Pancake (Manuel Scala) (Manuel Scala),Ruin (Kim Hyeong-min (김형민)),8,LL/Latin America
+Pancake (Manuel Scala) (Manuel Scala),WADID (Kim Bae-in (김배인)),12,LL/Latin America
+Pancake (Manuel Scala) (Manuel Scala),Zothve (Cristóbal Arróspide),4,LL/Latin America
+Ruin (Kim Hyeong-min (김형민)),WADID (Kim Bae-in (김배인)),8,LL/Latin America
+WADID (Kim Bae-in (김배인)),Zothve (Cristóbal Arróspide),4,LL/Latin America
+Acce (Emmanuel Juárez),Bvoy (Ju Yeong-hoon (주영훈)),12,LL/Latin America
+Acce (Emmanuel Juárez),Gastruks (Gastón Núñez),12,LL/Latin America
+Acce (Emmanuel Juárez),Leza (Francisco Jara),123,LL/Latin America
+Acce (Emmanuel Juárez),Mightybear (Kim Min-su (김민수)),12,LL/Latin America
+Acce (Emmanuel Juárez),Fallen (Carlos Calderón),12,LL/Latin America
+Bvoy (Ju Yeong-hoon (주영훈)),Gastruks (Gastón Núñez),12,LL/Latin America
+Bvoy (Ju Yeong-hoon (주영훈)),Leza (Francisco Jara),12,LL/Latin America
+Bvoy (Ju Yeong-hoon (주영훈)),Mightybear (Kim Min-su (김민수)),12,LL/Latin America
+Bvoy (Ju Yeong-hoon (주영훈)),Fallen (Carlos Calderón),12,LL/Latin America
+Gastruks (Gastón Núñez),Leza (Francisco Jara),12,LL/Latin America
+Gastruks (Gastón Núñez),Mightybear (Kim Min-su (김민수)),12,LL/Latin America
+Gastruks (Gastón Núñez),Fallen (Carlos Calderón),12,LL/Latin America
+Leza (Francisco Jara),Mightybear (Kim Min-su (김민수)),12,LL/Latin America
+Leza (Francisco Jara),Fallen (Carlos Calderón),12,LL/Latin America
+Mightybear (Kim Min-su (김민수)),Fallen (Carlos Calderón),12,LL/Latin America
+Baula (Alejandro Serrano),Bugi (Lee Seong-yeop (이성엽)),12,LL/Latin America
+Baula (Alejandro Serrano),Dye (Gerson Castaño),45,LL/Latin America
+Baula (Alejandro Serrano),Erry (Terry Park (박상준)),12,LL/Latin America
+Baula (Alejandro Serrano),Jauny (Jauny Vargas),12,LL/Latin America
+Baula (Alejandro Serrano),TopLop (Nicolás Marinoni),12,LL/Latin America
+Bugi (Lee Seong-yeop (이성엽)),Dye (Gerson Castaño),12,LL/Latin America
+Bugi (Lee Seong-yeop (이성엽)),Erry (Terry Park (박상준)),12,LL/Latin America
+Bugi (Lee Seong-yeop (이성엽)),Jauny (Jauny Vargas),12,LL/Latin America
+Bugi (Lee Seong-yeop (이성엽)),TopLop (Nicolás Marinoni),12,LL/Latin America
+Dye (Gerson Castaño),Erry (Terry Park (박상준)),12,LL/Latin America
+Dye (Gerson Castaño),Jauny (Jauny Vargas),40,LL/Latin America
+Dye (Gerson Castaño),TopLop (Nicolás Marinoni),40,LL/Latin America
+Erry (Terry Park (박상준)),Jauny (Jauny Vargas),12,LL/Latin America
+Erry (Terry Park (박상준)),TopLop (Nicolás Marinoni),12,LL/Latin America
+Jauny (Jauny Vargas),TopLop (Nicolás Marinoni),40,LL/Latin America
+Ackerman (Gabriel Aparicio) (Gabriel Aparicio),Buggax (Mateo Aroztegui),12,LL/Latin America
+Ackerman (Gabriel Aparicio) (Gabriel Aparicio),SolidSnake (Diego Vallejo),12,LL/Latin America
+Ackerman (Gabriel Aparicio) (Gabriel Aparicio),Von (Gabriel Barbosa) (Gabriel Barbosa),12,LL/Latin America
+Ackerman (Gabriel Aparicio) (Gabriel Aparicio),WHITELOTUS (Matías Musso),12,LL/Latin America
+Ackerman (Gabriel Aparicio) (Gabriel Aparicio),cody (Sebastián Quispe),12,LL/Latin America
+Buggax (Mateo Aroztegui),SolidSnake (Diego Vallejo),12,LL/Latin America
+Buggax (Mateo Aroztegui),Von (Gabriel Barbosa) (Gabriel Barbosa),12,LL/Latin America
+Buggax (Mateo Aroztegui),WHITELOTUS (Matías Musso),12,LL/Latin America
+Buggax (Mateo Aroztegui),cody (Sebastián Quispe),12,LL/Latin America
+SolidSnake (Diego Vallejo),Von (Gabriel Barbosa) (Gabriel Barbosa),12,LL/Latin America
+SolidSnake (Diego Vallejo),WHITELOTUS (Matías Musso),52,LL/Latin America
+SolidSnake (Diego Vallejo),cody (Sebastián Quispe),12,LL/Latin America
+Von (Gabriel Barbosa) (Gabriel Barbosa),WHITELOTUS (Matías Musso),12,LL/Latin America
+Von (Gabriel Barbosa) (Gabriel Barbosa),cody (Sebastián Quispe),12,LL/Latin America
+WHITELOTUS (Matías Musso),cody (Sebastián Quispe),12,LL/Latin America
+Seiya (Édgar Bracamontes),Shu Hari (Diego Placencia),9,LL/Latin America
+Seiya (Édgar Bracamontes),Style (Ignacio Pezoa) (Ignacio Pezoa),6,LL/Latin America
+Seiya (Édgar Bracamontes),Tierwulf (Sebastián Mateluna),6,LL/Latin America
+Seiya (Édgar Bracamontes),Warangelus (Fabián Llanos),122,LL/Latin America
+Seiya (Édgar Bracamontes),Yeti (Rodrigo del Castillo),93,LL/Latin America
+Seiya (Édgar Bracamontes),Zerito (Tomas Colangelo),12,LL/Latin America
+Shu Hari (Diego Placencia),Style (Ignacio Pezoa) (Ignacio Pezoa),3,LL/Latin America
+Shu Hari (Diego Placencia),Tierwulf (Sebastián Mateluna),6,LL/Latin America
+Shu Hari (Diego Placencia),Warangelus (Fabián Llanos),9,LL/Latin America
+Shu Hari (Diego Placencia),Yeti (Rodrigo del Castillo),9,LL/Latin America
+Shu Hari (Diego Placencia),Zerito (Tomas Colangelo),9,LL/Latin America
+Style (Ignacio Pezoa) (Ignacio Pezoa),Warangelus (Fabián Llanos),3,LL/Latin America
+Style (Ignacio Pezoa) (Ignacio Pezoa),Yeti (Rodrigo del Castillo),6,LL/Latin America
+Style (Ignacio Pezoa) (Ignacio Pezoa),Zerito (Tomas Colangelo),6,LL/Latin America
+Tierwulf (Sebastián Mateluna),Warangelus (Fabián Llanos),6,LL/Latin America
+Tierwulf (Sebastián Mateluna),Yeti (Rodrigo del Castillo),6,LL/Latin America
+Tierwulf (Sebastián Mateluna),Zerito (Tomas Colangelo),6,LL/Latin America
+Warangelus (Fabián Llanos),Yeti (Rodrigo del Castillo),88,LL/Latin America
+Warangelus (Fabián Llanos),Zerito (Tomas Colangelo),9,LL/Latin America
+Yeti (Rodrigo del Castillo),Zerito (Tomas Colangelo),12,LL/Latin America
+Cotopaco (Sergio Silva),Duivel (Gary Almonacid),6,LL/Latin America
+Cotopaco (Sergio Silva),Gavotto (Omar Gavotto),2,LL/Latin America
+Cotopaco (Sergio Silva),IceBox (Bastián Almonacid),10,LL/Latin America
+Cotopaco (Sergio Silva),KRESHTDOO (Nicolás Díaz),10,LL/Latin America
+Cotopaco (Sergio Silva),MisterG (Lautaro Ulla),12,LL/Latin America
+Cotopaco (Sergio Silva),Nipphu (Franco Funes),2,LL/Latin America
+Cotopaco (Sergio Silva),QQmore (Diego Apablaza),12,LL/Latin America
+Cotopaco (Sergio Silva),Serenity (Jeong Min-seok (정민석)),6,LL/Latin America
+Duivel (Gary Almonacid),Gavotto (Omar Gavotto),2,LL/Latin America
+Duivel (Gary Almonacid),IceBox (Bastián Almonacid),4,LL/Latin America
+Duivel (Gary Almonacid),KRESHTDOO (Nicolás Díaz),4,LL/Latin America
+Duivel (Gary Almonacid),MisterG (Lautaro Ulla),6,LL/Latin America
+Duivel (Gary Almonacid),Nipphu (Franco Funes),2,LL/Latin America
+Duivel (Gary Almonacid),QQmore (Diego Apablaza),6,LL/Latin America
+Gavotto (Omar Gavotto),MisterG (Lautaro Ulla),2,LL/Latin America
+Gavotto (Omar Gavotto),Nipphu (Franco Funes),2,LL/Latin America
+Gavotto (Omar Gavotto),QQmore (Diego Apablaza),18,LL/Latin America
+IceBox (Bastián Almonacid),KRESHTDOO (Nicolás Díaz),52,LL/Latin America
+IceBox (Bastián Almonacid),MisterG (Lautaro Ulla),52,LL/Latin America
+IceBox (Bastián Almonacid),QQmore (Diego Apablaza),10,LL/Latin America
+IceBox (Bastián Almonacid),Serenity (Jeong Min-seok (정민석)),6,LL/Latin America
+KRESHTDOO (Nicolás Díaz),MisterG (Lautaro Ulla),52,LL/Latin America
+KRESHTDOO (Nicolás Díaz),QQmore (Diego Apablaza),10,LL/Latin America
+KRESHTDOO (Nicolás Díaz),Serenity (Jeong Min-seok (정민석)),6,LL/Latin America
+MisterG (Lautaro Ulla),Nipphu (Franco Funes),2,LL/Latin America
+MisterG (Lautaro Ulla),QQmore (Diego Apablaza),12,LL/Latin America
+MisterG (Lautaro Ulla),Serenity (Jeong Min-seok (정민석)),6,LL/Latin America
+Nipphu (Franco Funes),QQmore (Diego Apablaza),27,LL/Latin America
+QQmore (Diego Apablaza),Serenity (Jeong Min-seok (정민석)),6,LL/Latin America
+Aloned (Tomás Díaz),Ceo (Lorenzo Tévez),12,LL/Latin America
+Aloned (Tomás Díaz),Oddie (Sebastián Niño),8,LL/Latin America
+Aloned (Tomás Díaz),Rey (Jeon Ji-won (전지원)),12,LL/Latin America
+Aloned (Tomás Díaz),Shadow (Facundo Cuello) (Facundo Cuello),68,LL/Latin America
+Aloned (Tomás Díaz),Skin (Eduardo Saldaña),42,LL/Latin America
+Aloned (Tomás Díaz),Xypherz (Santiago de León),4,LL/Latin America
+Ceo (Lorenzo Tévez),Oddie (Sebastián Niño),8,LL/Latin America
+Ceo (Lorenzo Tévez),Rey (Jeon Ji-won (전지원)),12,LL/Latin America
+Ceo (Lorenzo Tévez),Shadow (Facundo Cuello) (Facundo Cuello),12,LL/Latin America
+Ceo (Lorenzo Tévez),Skin (Eduardo Saldaña),12,LL/Latin America
+Ceo (Lorenzo Tévez),Xypherz (Santiago de León),4,LL/Latin America
+Oddie (Sebastián Niño),Rey (Jeon Ji-won (전지원)),8,LL/Latin America
+Oddie (Sebastián Niño),Shadow (Facundo Cuello) (Facundo Cuello),8,LL/Latin America
+Oddie (Sebastián Niño),Skin (Eduardo Saldaña),8,LL/Latin America
+Rey (Jeon Ji-won (전지원)),Shadow (Facundo Cuello) (Facundo Cuello),12,LL/Latin America
+Rey (Jeon Ji-won (전지원)),Skin (Eduardo Saldaña),12,LL/Latin America
+Rey (Jeon Ji-won (전지원)),Xypherz (Santiago de León),4,LL/Latin America
+Shadow (Facundo Cuello) (Facundo Cuello),Skin (Eduardo Saldaña),66,LL/Latin America
+Shadow (Facundo Cuello) (Facundo Cuello),Xypherz (Santiago de León),4,LL/Latin America
+Skin (Eduardo Saldaña),Xypherz (Santiago de León),4,LL/Latin America
+Exorant (Daniel Hume Podosu),Horus (Facundo Utrero),12,LL/Latin America
+Exorant (Daniel Hume Podosu),JackPoT (Park Jin-soo) (Park Jin-soo (박진수)),12,LL/Latin America
+Exorant (Daniel Hume Podosu),Nottingham (Alan Spikerman),12,LL/Latin America
+Exorant (Daniel Hume Podosu),Rainbow (Kim Soo-gi) (Kim Soo-gi (김수기)),12,LL/Latin America
+Exorant (Daniel Hume Podosu),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),12,LL/Latin America
+Horus (Facundo Utrero),JackPoT (Park Jin-soo) (Park Jin-soo (박진수)),12,LL/Latin America
+Horus (Facundo Utrero),Nottingham (Alan Spikerman),12,LL/Latin America
+Horus (Facundo Utrero),Rainbow (Kim Soo-gi) (Kim Soo-gi (김수기)),12,LL/Latin America
+Horus (Facundo Utrero),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),12,LL/Latin America
+JackPoT (Park Jin-soo) (Park Jin-soo (박진수)),Nottingham (Alan Spikerman),12,LL/Latin America
+JackPoT (Park Jin-soo) (Park Jin-soo (박진수)),Rainbow (Kim Soo-gi) (Kim Soo-gi (김수기)),12,LL/Latin America
+JackPoT (Park Jin-soo) (Park Jin-soo (박진수)),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),12,LL/Latin America
+Nottingham (Alan Spikerman),Rainbow (Kim Soo-gi) (Kim Soo-gi (김수기)),12,LL/Latin America
+Nottingham (Alan Spikerman),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),12,LL/Latin America
+Rainbow (Kim Soo-gi) (Kim Soo-gi (김수기)),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),12,LL/Latin America
+Alive (Noh Jin-wook (노진욱)),Grell (Jesús Loya),17,LL/Latin America
+Alive (Noh Jin-wook (노진욱)),Jisu (Park Jin-cheol (박진철)),43,LL/Latin America
+Alive (Noh Jin-wook (노진욱)),Kiefer (Nicolás Rivero),18,LL/Latin America
+Alive (Noh Jin-wook (노진욱)),Newbie (Leandro Marcos),43,LL/Latin America
+Alive (Noh Jin-wook (노진욱)),VicaL (Kim Sun-mook (김선묵)),43,LL/Latin America
+Grell (Jesús Loya),Jisu (Park Jin-cheol (박진철)),20,LL/Latin America
+Grell (Jesús Loya),Newbie (Leandro Marcos),20,LL/Latin America
+Grell (Jesús Loya),VicaL (Kim Sun-mook (김선묵)),20,LL/Latin America
+Jisu (Park Jin-cheol (박진철)),Kiefer (Nicolás Rivero),20,LL/Latin America
+Jisu (Park Jin-cheol (박진철)),Newbie (Leandro Marcos),46,LL/Latin America
+Jisu (Park Jin-cheol (박진철)),VicaL (Kim Sun-mook (김선묵)),46,LL/Latin America
+Kiefer (Nicolás Rivero),Newbie (Leandro Marcos),20,LL/Latin America
+Kiefer (Nicolás Rivero),VicaL (Kim Sun-mook (김선묵)),20,LL/Latin America
+Newbie (Leandro Marcos),VicaL (Kim Sun-mook (김선묵)),46,LL/Latin America
+IceBox (Bastián Almonacid),N N (Lucas Leiva),5,LL/Latin America
+IceBox (Bastián Almonacid),Tyr (Hector Godínez),23,LL/Latin America
+IceBox (Bastián Almonacid),cody (Sebastián Quispe),42,LL/Latin America
+KRESHTDOO (Nicolás Díaz),N N (Lucas Leiva),5,LL/Latin America
+KRESHTDOO (Nicolás Díaz),Tyr (Hector Godínez),23,LL/Latin America
+KRESHTDOO (Nicolás Díaz),cody (Sebastián Quispe),42,LL/Latin America
+MisterG (Lautaro Ulla),N N (Lucas Leiva),5,LL/Latin America
+MisterG (Lautaro Ulla),Tyr (Hector Godínez),23,LL/Latin America
+MisterG (Lautaro Ulla),cody (Sebastián Quispe),42,LL/Latin America
+N N (Lucas Leiva),Tyr (Hector Godínez),5,LL/Latin America
+N N (Lucas Leiva),cody (Sebastián Quispe),5,LL/Latin America
+Tyr (Hector Godínez),cody (Sebastián Quispe),23,LL/Latin America
+Jirall (Daniel del Castillo),Oddie (Sebastián Niño),52,LL/Latin America
+Jirall (Daniel del Castillo),Seiya (Édgar Bracamontes),52,LL/Latin America
+Jirall (Daniel del Castillo),Slow (Eduardo Garcés),52,LL/Latin America
+Jirall (Daniel del Castillo),Warangelus (Fabián Llanos),52,LL/Latin America
+Jirall (Daniel del Castillo),Yeti (Rodrigo del Castillo),52,LL/Latin America
+Oddie (Sebastián Niño),Seiya (Édgar Bracamontes),115,LL/Latin America
+Oddie (Sebastián Niño),Slow (Eduardo Garcés),115,LL/Latin America
+Oddie (Sebastián Niño),Warangelus (Fabián Llanos),113,LL/Latin America
+Oddie (Sebastián Niño),Yeti (Rodrigo del Castillo),81,LL/Latin America
+Seiya (Édgar Bracamontes),Slow (Eduardo Garcés),115,LL/Latin America
+Slow (Eduardo Garcés),Warangelus (Fabián Llanos),113,LL/Latin America
+Slow (Eduardo Garcés),Yeti (Rodrigo del Castillo),81,LL/Latin America
+Acce (Emmanuel Juárez),Aloned (Tomás Díaz),30,LL/Latin America
+Acce (Emmanuel Juárez),Josedeodo (Brandon Joel Villegas),54,LL/Latin America
+Acce (Emmanuel Juárez),Shadow (Facundo Cuello) (Facundo Cuello),54,LL/Latin America
+Acce (Emmanuel Juárez),Skin (Eduardo Saldaña),54,LL/Latin America
+Aloned (Tomás Díaz),Josedeodo (Brandon Joel Villegas),77,LL/Latin America
+Aloned (Tomás Díaz),Leza (Francisco Jara),30,LL/Latin America
+Josedeodo (Brandon Joel Villegas),Leza (Francisco Jara),54,LL/Latin America
+Josedeodo (Brandon Joel Villegas),Shadow (Facundo Cuello) (Facundo Cuello),80,LL/Latin America
+Josedeodo (Brandon Joel Villegas),Skin (Eduardo Saldaña),54,LL/Latin America
+Leza (Francisco Jara),Shadow (Facundo Cuello) (Facundo Cuello),54,LL/Latin America
+Leza (Francisco Jara),Skin (Eduardo Saldaña),54,LL/Latin America
+Alive (Noh Jin-wook (노진욱)),Pancake (Manuel Scala) (Manuel Scala),26,LL/Latin America
+Jisu (Park Jin-cheol (박진철)),Pancake (Manuel Scala) (Manuel Scala),27,LL/Latin America
+Newbie (Leandro Marcos),Pancake (Manuel Scala) (Manuel Scala),30,LL/Latin America
+Pancake (Manuel Scala) (Manuel Scala),VicaL (Kim Sun-mook (김선묵)),27,LL/Latin America
+IceBox (Bastián Almonacid),Xypherz (Santiago de León),18,LL/Latin America
+KRESHTDOO (Nicolás Díaz),Xypherz (Santiago de León),18,LL/Latin America
+MisterG (Lautaro Ulla),Xypherz (Santiago de León),18,LL/Latin America
+Tyr (Hector Godínez),Xypherz (Santiago de León),18,LL/Latin America
+Xypherz (Santiago de León),cody (Sebastián Quispe),18,LL/Latin America
+Baula (Alejandro Serrano),Dragonminkim (Kim Yong-min (김용민)),13,LL/Latin America
+Baula (Alejandro Serrano),Emp (Benjamín Ramírez),28,LL/Latin America
+Baula (Alejandro Serrano),Fengx (Jose Ricalday),1,LL/Latin America
+Baula (Alejandro Serrano),Nobody (Nicolás Ale) (Nicolás Ale),57,LL/Latin America
+Baula (Alejandro Serrano),Wikko (Andrés Legarda),14,LL/Latin America
+Baula (Alejandro Serrano),Zerito (Tomas Colangelo),20,LL/Latin America
+Dragonminkim (Kim Yong-min (김용민)),Emp (Benjamín Ramírez),13,LL/Latin America
+Dragonminkim (Kim Yong-min (김용민)),Nobody (Nicolás Ale) (Nicolás Ale),13,LL/Latin America
+Dragonminkim (Kim Yong-min (김용민)),Wikko (Andrés Legarda),13,LL/Latin America
+Dragonminkim (Kim Yong-min (김용민)),Zerito (Tomas Colangelo),13,LL/Latin America
+Emp (Benjamín Ramírez),Fengx (Jose Ricalday),1,LL/Latin America
+Emp (Benjamín Ramírez),Nobody (Nicolás Ale) (Nicolás Ale),26,LL/Latin America
+Emp (Benjamín Ramírez),Wikko (Andrés Legarda),14,LL/Latin America
+Emp (Benjamín Ramírez),Zerito (Tomas Colangelo),20,LL/Latin America
+Fengx (Jose Ricalday),Nobody (Nicolás Ale) (Nicolás Ale),1,LL/Latin America
+Fengx (Jose Ricalday),Wikko (Andrés Legarda),1,LL/Latin America
+Fengx (Jose Ricalday),Zerito (Tomas Colangelo),1,LL/Latin America
+Nobody (Nicolás Ale) (Nicolás Ale),Wikko (Andrés Legarda),14,LL/Latin America
+Nobody (Nicolás Ale) (Nicolás Ale),Zerito (Tomas Colangelo),18,LL/Latin America
+Wikko (Andrés Legarda),Zerito (Tomas Colangelo),14,LL/Latin America
+Cotopaco (Sergio Silva),Enatsu (Gonzalo Peredo Álvarez),18,LL/Latin America
+Cotopaco (Sergio Silva),Genthix (Mariano Polonsky),40,LL/Latin America
+Cotopaco (Sergio Silva),Pillo (José Martínez),2,LL/Latin America
+Cotopaco (Sergio Silva),SolidSnake (Diego Vallejo),93,LL/Latin America
+Cotopaco (Sergio Silva),Straight (Roberto Guallichico),51,LL/Latin America
+Cotopaco (Sergio Silva),WHITELOTUS (Matías Musso),40,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),Genthix (Mariano Polonsky),18,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),Pillo (José Martínez),2,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),SolidSnake (Diego Vallejo),18,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),Straight (Roberto Guallichico),35,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),WHITELOTUS (Matías Musso),18,LL/Latin America
+Genthix (Mariano Polonsky),Pillo (José Martínez),2,LL/Latin America
+Genthix (Mariano Polonsky),SolidSnake (Diego Vallejo),40,LL/Latin America
+Genthix (Mariano Polonsky),Straight (Roberto Guallichico),38,LL/Latin America
+Genthix (Mariano Polonsky),WHITELOTUS (Matías Musso),40,LL/Latin America
+Pillo (José Martínez),SolidSnake (Diego Vallejo),2,LL/Latin America
+Pillo (José Martínez),WHITELOTUS (Matías Musso),2,LL/Latin America
+SolidSnake (Diego Vallejo),Straight (Roberto Guallichico),51,LL/Latin America
+Straight (Roberto Guallichico),WHITELOTUS (Matías Musso),38,LL/Latin America
+Crecre (Gabriel Grimaldi),Dye (Gerson Castaño),14,LL/Latin America
+Crecre (Gabriel Grimaldi),Gavotto (Omar Gavotto),14,LL/Latin America
+Crecre (Gabriel Grimaldi),Jauny (Jauny Vargas),14,LL/Latin America
+Crecre (Gabriel Grimaldi),QQmore (Diego Apablaza),14,LL/Latin America
+Crecre (Gabriel Grimaldi),TopLop (Nicolás Marinoni),14,LL/Latin America
+Dye (Gerson Castaño),Gavotto (Omar Gavotto),16,LL/Latin America
+Dye (Gerson Castaño),QQmore (Diego Apablaza),28,LL/Latin America
+Gavotto (Omar Gavotto),Jauny (Jauny Vargas),16,LL/Latin America
+Gavotto (Omar Gavotto),TopLop (Nicolás Marinoni),16,LL/Latin America
+Jauny (Jauny Vargas),QQmore (Diego Apablaza),28,LL/Latin America
+QQmore (Diego Apablaza),TopLop (Nicolás Marinoni),78,LL/Latin America
+Acce (Emmanuel Juárez),MarioMe (Mario Reyes),9,LL/Latin America
+Josedeodo (Brandon Joel Villegas),MarioMe (Mario Reyes),2,LL/Latin America
+Leza (Francisco Jara),MarioMe (Mario Reyes),9,LL/Latin America
+MarioMe (Mario Reyes),Shadow (Facundo Cuello) (Facundo Cuello),2,LL/Latin America
+MarioMe (Mario Reyes),Skin (Eduardo Saldaña),2,LL/Latin America
+Ares (Didier Linarez) (Didier Linarez),Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),14,LL/Latin America
+Ares (Didier Linarez) (Didier Linarez),Mayhem (Samuel García) (Samuel García),14,LL/Latin America
+Ares (Didier Linarez) (Didier Linarez),Renyu (Renato Gallegos),14,LL/Latin America
+Ares (Didier Linarez) (Didier Linarez),Shu Hari (Diego Placencia),14,LL/Latin America
+Ares (Didier Linarez) (Didier Linarez),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),14,LL/Latin America
+Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),Mayhem (Samuel García) (Samuel García),14,LL/Latin America
+Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),Renyu (Renato Gallegos),14,LL/Latin America
+Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),Shu Hari (Diego Placencia),14,LL/Latin America
+Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),14,LL/Latin America
+Mayhem (Samuel García) (Samuel García),Renyu (Renato Gallegos),14,LL/Latin America
+Mayhem (Samuel García) (Samuel García),Shu Hari (Diego Placencia),14,LL/Latin America
+Mayhem (Samuel García) (Samuel García),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),14,LL/Latin America
+Renyu (Renato Gallegos),Shu Hari (Diego Placencia),14,LL/Latin America
+Renyu (Renato Gallegos),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),14,LL/Latin America
+Shu Hari (Diego Placencia),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),29,LL/Latin America
+Alive (Noh Jin-wook (노진욱)),Plugo (Joaquín Pérez),23,LL/Latin America
+Jisu (Park Jin-cheol (박진철)),Plugo (Joaquín Pérez),23,LL/Latin America
+Newbie (Leandro Marcos),Plugo (Joaquín Pérez),77,LL/Latin America
+Pancake (Manuel Scala) (Manuel Scala),Plugo (Joaquín Pérez),26,LL/Latin America
+Plugo (Joaquín Pérez),VicaL (Kim Sun-mook (김선묵)),23,LL/Latin America
+Cotopaco (Sergio Silva),Soren (Carlos Ibarra) (Carlos Ibarra),75,LL/Latin America
+Genthix (Mariano Polonsky),Soren (Carlos Ibarra) (Carlos Ibarra),22,LL/Latin America
+SolidSnake (Diego Vallejo),Soren (Carlos Ibarra) (Carlos Ibarra),75,LL/Latin America
+Soren (Carlos Ibarra) (Carlos Ibarra),Straight (Roberto Guallichico),35,LL/Latin America
+Soren (Carlos Ibarra) (Carlos Ibarra),WHITELOTUS (Matías Musso),22,LL/Latin America
+Acce (Emmanuel Juárez),Renyu (Renato Gallegos),22,LL/Latin America
+Josedeodo (Brandon Joel Villegas),Renyu (Renato Gallegos),22,LL/Latin America
+Leza (Francisco Jara),Renyu (Renato Gallegos),22,LL/Latin America
+Renyu (Renato Gallegos),Shadow (Facundo Cuello) (Facundo Cuello),22,LL/Latin America
+Renyu (Renato Gallegos),Skin (Eduardo Saldaña),22,LL/Latin America
+Feitan (Felipe Marín),IceBox (Bastián Almonacid),19,LL/Latin America
+Feitan (Felipe Marín),KRESHTDOO (Nicolás Díaz),19,LL/Latin America
+Feitan (Felipe Marín),MisterG (Lautaro Ulla),19,LL/Latin America
+Feitan (Felipe Marín),cody (Sebastián Quispe),19,LL/Latin America
+Feitan (Felipe Marín),koughi (Victor Yever),19,LL/Latin America
+IceBox (Bastián Almonacid),koughi (Victor Yever),19,LL/Latin America
+KRESHTDOO (Nicolás Díaz),koughi (Victor Yever),19,LL/Latin America
+MisterG (Lautaro Ulla),koughi (Victor Yever),19,LL/Latin America
+cody (Sebastián Quispe),koughi (Victor Yever),19,LL/Latin America
+Baula (Alejandro Serrano),Benoty (Martín Bourre),4,LL/Latin America
+Baula (Alejandro Serrano),Onur (Rodrigo Dalmagro),10,LL/Latin America
+Baula (Alejandro Serrano),Xypherz (Santiago de León),27,LL/Latin America
+Baula (Alejandro Serrano),Zeicro (Juan Fierro),2,LL/Latin America
+Baula (Alejandro Serrano),Zelt (Jairo Urbina),10,LL/Latin America
+Benoty (Martín Bourre),Emp (Benjamín Ramírez),4,LL/Latin America
+Benoty (Martín Bourre),Nobody (Nicolás Ale) (Nicolás Ale),4,LL/Latin America
+Benoty (Martín Bourre),Xypherz (Santiago de León),4,LL/Latin America
+Benoty (Martín Bourre),Zerito (Tomas Colangelo),3,LL/Latin America
+Emp (Benjamín Ramírez),Onur (Rodrigo Dalmagro),36,LL/Latin America
+Emp (Benjamín Ramírez),Xypherz (Santiago de León),12,LL/Latin America
+Emp (Benjamín Ramírez),Zeicro (Juan Fierro),2,LL/Latin America
+Emp (Benjamín Ramírez),Zelt (Jairo Urbina),10,LL/Latin America
+Nobody (Nicolás Ale) (Nicolás Ale),Onur (Rodrigo Dalmagro),8,LL/Latin America
+Nobody (Nicolás Ale) (Nicolás Ale),Xypherz (Santiago de León),24,LL/Latin America
+Nobody (Nicolás Ale) (Nicolás Ale),Zelt (Jairo Urbina),8,LL/Latin America
+Onur (Rodrigo Dalmagro),Xypherz (Santiago de León),8,LL/Latin America
+Onur (Rodrigo Dalmagro),Zeicro (Juan Fierro),2,LL/Latin America
+Onur (Rodrigo Dalmagro),Zelt (Jairo Urbina),10,LL/Latin America
+Onur (Rodrigo Dalmagro),Zerito (Tomas Colangelo),3,LL/Latin America
+Xypherz (Santiago de León),Zelt (Jairo Urbina),8,LL/Latin America
+Xypherz (Santiago de León),Zerito (Tomas Colangelo),4,LL/Latin America
+Zeicro (Juan Fierro),Zelt (Jairo Urbina),2,LL/Latin America
+Zeicro (Juan Fierro),Zerito (Tomas Colangelo),2,LL/Latin America
+Zelt (Jairo Urbina),Zerito (Tomas Colangelo),3,LL/Latin America
+BetaTwinz (Dario Betancourt),Dye (Gerson Castaño),6,LL/Latin America
+BetaTwinz (Dario Betancourt),Jauny (Jauny Vargas),6,LL/Latin America
+BetaTwinz (Dario Betancourt),Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),6,LL/Latin America
+BetaTwinz (Dario Betancourt),QQmore (Diego Apablaza),6,LL/Latin America
+BetaTwinz (Dario Betancourt),TopLop (Nicolás Marinoni),6,LL/Latin America
+Dye (Gerson Castaño),Kindless (Benjamin Fuenzalida),4,LL/Latin America
+Dye (Gerson Castaño),Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),8,LL/Latin America
+Dye (Gerson Castaño),MadBlade (Steven Araya),8,LL/Latin America
+Gavotto (Omar Gavotto),MadBlade (Steven Araya),2,LL/Latin America
+Jauny (Jauny Vargas),Kindless (Benjamin Fuenzalida),4,LL/Latin America
+Jauny (Jauny Vargas),Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),8,LL/Latin America
+Jauny (Jauny Vargas),MadBlade (Steven Araya),8,LL/Latin America
+Kindless (Benjamin Fuenzalida),MadBlade (Steven Araya),4,LL/Latin America
+Kindless (Benjamin Fuenzalida),QQmore (Diego Apablaza),29,LL/Latin America
+Kindless (Benjamin Fuenzalida),TopLop (Nicolás Marinoni),29,LL/Latin America
+Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),MadBlade (Steven Araya),2,LL/Latin America
+Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),QQmore (Diego Apablaza),8,LL/Latin America
+Kz (Nicolás Gutiérrez) (Nicolás Gutiérrez),TopLop (Nicolás Marinoni),8,LL/Latin America
+MadBlade (Steven Araya),QQmore (Diego Apablaza),8,LL/Latin America
+MadBlade (Steven Araya),TopLop (Nicolás Marinoni),8,LL/Latin America
+Aquasonic (Tadeo Forestieri),Crecre (Gabriel Grimaldi),3,LL/Latin America
+Aquasonic (Tadeo Forestieri),Drinker (Lee Seung-hoo (이승후)),16,LL/Latin America
+Aquasonic (Tadeo Forestieri),Focus (Choi Ji-hun (최지훈)),16,LL/Latin America
+Aquasonic (Tadeo Forestieri),Frozen (Kim Tae-il) (Kim Tae-il (김태일)),16,LL/Latin America
+Aquasonic (Tadeo Forestieri),Monsieur (Harvey Betancourt),2,LL/Latin America
+Aquasonic (Tadeo Forestieri),Shu Hari (Diego Placencia),13,LL/Latin America
+Aquasonic (Tadeo Forestieri),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),14,LL/Latin America
+Crecre (Gabriel Grimaldi),Drinker (Lee Seung-hoo (이승후)),4,LL/Latin America
+Crecre (Gabriel Grimaldi),Focus (Choi Ji-hun (최지훈)),3,LL/Latin America
+Crecre (Gabriel Grimaldi),Frozen (Kim Tae-il) (Kim Tae-il (김태일)),3,LL/Latin America
+Crecre (Gabriel Grimaldi),Monsieur (Harvey Betancourt),2,LL/Latin America
+Crecre (Gabriel Grimaldi),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),1,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Focus (Choi Ji-hun (최지훈)),18,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Frozen (Kim Tae-il) (Kim Tae-il (김태일)),16,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Monsieur (Harvey Betancourt),2,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Shu Hari (Diego Placencia),15,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),16,LL/Latin America
+Focus (Choi Ji-hun (최지훈)),Frozen (Kim Tae-il) (Kim Tae-il (김태일)),16,LL/Latin America
+Focus (Choi Ji-hun (최지훈)),Monsieur (Harvey Betancourt),2,LL/Latin America
+Focus (Choi Ji-hun (최지훈)),Shu Hari (Diego Placencia),15,LL/Latin America
+Focus (Choi Ji-hun (최지훈)),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),16,LL/Latin America
+Frozen (Kim Tae-il) (Kim Tae-il (김태일)),Monsieur (Harvey Betancourt),2,LL/Latin America
+Frozen (Kim Tae-il) (Kim Tae-il (김태일)),Shu Hari (Diego Placencia),13,LL/Latin America
+Frozen (Kim Tae-il) (Kim Tae-il (김태일)),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),14,LL/Latin America
+Newbie (Leandro Marcos),Hyun (Kim Dong-hyeon) (Kim Dong-hyeon (김동현)),23,LL/Latin America
+Newbie (Leandro Marcos),Parang (Lee Sang-won (이상원)),54,LL/Latin America
+Newbie (Leandro Marcos),Stardust (Son Seok-hee) (Son Seok-hee (손석희)),54,LL/Latin America
+Newbie (Leandro Marcos),Zeicro (Juan Fierro),51,LL/Latin America
+Hyun (Kim Dong-hyeon) (Kim Dong-hyeon (김동현)),Parang (Lee Sang-won (이상원)),23,LL/Latin America
+Hyun (Kim Dong-hyeon) (Kim Dong-hyeon (김동현)),Plugo (Joaquín Pérez),23,LL/Latin America
+Hyun (Kim Dong-hyeon) (Kim Dong-hyeon (김동현)),Stardust (Son Seok-hee) (Son Seok-hee (손석희)),23,LL/Latin America
+Hyun (Kim Dong-hyeon) (Kim Dong-hyeon (김동현)),Zeicro (Juan Fierro),22,LL/Latin America
+Parang (Lee Sang-won (이상원)),Plugo (Joaquín Pérez),54,LL/Latin America
+Parang (Lee Sang-won (이상원)),Stardust (Son Seok-hee) (Son Seok-hee (손석희)),54,LL/Latin America
+Parang (Lee Sang-won (이상원)),Zeicro (Juan Fierro),51,LL/Latin America
+Plugo (Joaquín Pérez),Stardust (Son Seok-hee) (Son Seok-hee (손석희)),54,LL/Latin America
+Plugo (Joaquín Pérez),Zeicro (Juan Fierro),51,LL/Latin America
+Stardust (Son Seok-hee) (Son Seok-hee (손석희)),Zeicro (Juan Fierro),51,LL/Latin America
+Aloned (Tomás Díaz),Bvoy (Ju Yeong-hoon (주영훈)),19,LL/Latin America
+Aloned (Tomás Díaz),Emp (Benjamín Ramírez),26,LL/Latin America
+Aloned (Tomás Díaz),Onur (Rodrigo Dalmagro),26,LL/Latin America
+Bvoy (Ju Yeong-hoon (주영훈)),Emp (Benjamín Ramírez),19,LL/Latin America
+Bvoy (Ju Yeong-hoon (주영훈)),Josedeodo (Brandon Joel Villegas),19,LL/Latin America
+Bvoy (Ju Yeong-hoon (주영훈)),Onur (Rodrigo Dalmagro),19,LL/Latin America
+Bvoy (Ju Yeong-hoon (주영훈)),Shadow (Facundo Cuello) (Facundo Cuello),19,LL/Latin America
+Emp (Benjamín Ramírez),Josedeodo (Brandon Joel Villegas),26,LL/Latin America
+Emp (Benjamín Ramírez),Shadow (Facundo Cuello) (Facundo Cuello),26,LL/Latin America
+Josedeodo (Brandon Joel Villegas),Onur (Rodrigo Dalmagro),26,LL/Latin America
+Onur (Rodrigo Dalmagro),Shadow (Facundo Cuello) (Facundo Cuello),26,LL/Latin America
+Arce (Diego Arce Chang),Cotopaco (Sergio Silva),48,LL/Latin America
+Arce (Diego Arce Chang),Relic (José Pombo),36,LL/Latin America
+Arce (Diego Arce Chang),Renyu (Renato Gallegos),47,LL/Latin America
+Arce (Diego Arce Chang),SolidSnake (Diego Vallejo),48,LL/Latin America
+Arce (Diego Arce Chang),Soren (Carlos Ibarra) (Carlos Ibarra),48,LL/Latin America
+Arce (Diego Arce Chang),Straight (Roberto Guallichico),13,LL/Latin America
+Cotopaco (Sergio Silva),Relic (José Pombo),41,LL/Latin America
+Cotopaco (Sergio Silva),Renyu (Renato Gallegos),52,LL/Latin America
+Relic (José Pombo),Renyu (Renato Gallegos),40,LL/Latin America
+Relic (José Pombo),SolidSnake (Diego Vallejo),41,LL/Latin America
+Relic (José Pombo),Soren (Carlos Ibarra) (Carlos Ibarra),41,LL/Latin America
+Renyu (Renato Gallegos),SolidSnake (Diego Vallejo),52,LL/Latin America
+Renyu (Renato Gallegos),Soren (Carlos Ibarra) (Carlos Ibarra),52,LL/Latin America
+Renyu (Renato Gallegos),Straight (Roberto Guallichico),13,LL/Latin America
+Buggax (Mateo Aroztegui),Oddie (Sebastián Niño),62,LL/Latin America
+Buggax (Mateo Aroztegui),Seiya (Édgar Bracamontes),62,LL/Latin America
+Buggax (Mateo Aroztegui),Slow (Eduardo Garcés),62,LL/Latin America
+Buggax (Mateo Aroztegui),Warangelus (Fabián Llanos),61,LL/Latin America
+Buggax (Mateo Aroztegui),Yeti (Rodrigo del Castillo),28,LL/Latin America
+Acce (Emmanuel Juárez),Dye (Gerson Castaño),57,LL/Latin America
+Acce (Emmanuel Juárez),Nobody (Nicolás Ale) (Nicolás Ale),55,LL/Latin America
+Acce (Emmanuel Juárez),Spooky (Miroslav Gochev) (Miroslav Gochev),12,LL/Latin America
+Acce (Emmanuel Juárez),Tulz (Marco Villani),7,LL/Latin America
+Dye (Gerson Castaño),Leza (Francisco Jara),57,LL/Latin America
+Dye (Gerson Castaño),Nobody (Nicolás Ale) (Nicolás Ale),55,LL/Latin America
+Dye (Gerson Castaño),Spooky (Miroslav Gochev) (Miroslav Gochev),12,LL/Latin America
+Dye (Gerson Castaño),Tulz (Marco Villani),7,LL/Latin America
+Leza (Francisco Jara),Nobody (Nicolás Ale) (Nicolás Ale),55,LL/Latin America
+Leza (Francisco Jara),Spooky (Miroslav Gochev) (Miroslav Gochev),12,LL/Latin America
+Leza (Francisco Jara),Tulz (Marco Villani),7,LL/Latin America
+Nobody (Nicolás Ale) (Nicolás Ale),Spooky (Miroslav Gochev) (Miroslav Gochev),12,LL/Latin America
+Nobody (Nicolás Ale) (Nicolás Ale),Tulz (Marco Villani),7,LL/Latin America
+Spooky (Miroslav Gochev) (Miroslav Gochev),Tulz (Marco Villani),7,LL/Latin America
+Baula (Alejandro Serrano),Drinker (Lee Seung-hoo (이승후)),15,LL/Latin America
+Baula (Alejandro Serrano),Feiz (Seo Dae-gil (서대길)),12,LL/Latin America
+Baula (Alejandro Serrano),MANTARRAYA (Juan Abdón),28,LL/Latin America
+Baula (Alejandro Serrano),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),28,LL/Latin America
+Crecre (Gabriel Grimaldi),Feiz (Seo Dae-gil (서대길)),1,LL/Latin America
+Crecre (Gabriel Grimaldi),MANTARRAYA (Juan Abdón),2,LL/Latin America
+Crecre (Gabriel Grimaldi),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),2,LL/Latin America
+Crecre (Gabriel Grimaldi),Xypherz (Santiago de León),1,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Feiz (Seo Dae-gil (서대길)),13,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),MANTARRAYA (Juan Abdón),16,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),16,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Xypherz (Santiago de León),16,LL/Latin America
+Feiz (Seo Dae-gil (서대길)),MANTARRAYA (Juan Abdón),13,LL/Latin America
+Feiz (Seo Dae-gil (서대길)),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),13,LL/Latin America
+Feiz (Seo Dae-gil (서대길)),Xypherz (Santiago de León),13,LL/Latin America
+MANTARRAYA (Juan Abdón),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),30,LL/Latin America
+MANTARRAYA (Juan Abdón),Xypherz (Santiago de León),16,LL/Latin America
+Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),Xypherz (Santiago de León),16,LL/Latin America
+Newbie (Leandro Marcos),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),6,LL/Latin America
+Hyun (Kim Dong-hyeon) (Kim Dong-hyeon (김동현)),Pancake (Manuel Scala) (Manuel Scala),1,LL/Latin America
+Pancake (Manuel Scala) (Manuel Scala),Parang (Lee Sang-won (이상원)),3,LL/Latin America
+Pancake (Manuel Scala) (Manuel Scala),Stardust (Son Seok-hee) (Son Seok-hee (손석희)),3,LL/Latin America
+Pancake (Manuel Scala) (Manuel Scala),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),2,LL/Latin America
+Parang (Lee Sang-won (이상원)),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),6,LL/Latin America
+Plugo (Joaquín Pérez),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),6,LL/Latin America
+Stardust (Son Seok-hee) (Son Seok-hee (손석희)),Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),6,LL/Latin America
+Unforgiven (Maximiliano Utrero) (Maximiliano Utrero),Zeicro (Juan Fierro),4,LL/Latin America
+Aloned (Tomás Díaz),Manu (Manuel Villa),7,LL/Latin America
+Emp (Benjamín Ramírez),Manu (Manuel Villa),7,LL/Latin America
+Josedeodo (Brandon Joel Villegas),Manu (Manuel Villa),7,LL/Latin America
+Manu (Manuel Villa),Onur (Rodrigo Dalmagro),7,LL/Latin America
+Manu (Manuel Villa),Shadow (Facundo Cuello) (Facundo Cuello),7,LL/Latin America
+Relic (José Pombo),Straight (Roberto Guallichico),8,LL/Latin America
+Buggax (Mateo Aroztegui),KouZZe (Nicolás Jara),1,LL/Latin America
+KouZZe (Nicolás Jara),Oddie (Sebastián Niño),1,LL/Latin America
+KouZZe (Nicolás Jara),Seiya (Édgar Bracamontes),1,LL/Latin America
+KouZZe (Nicolás Jara),Slow (Eduardo Garcés),1,LL/Latin America
+KouZZe (Nicolás Jara),Yeti (Rodrigo del Castillo),1,LL/Latin America
+Arfyss (Nicolás López),Coma (Hong Hee-bum) (Hong Hee-bum (홍희범)),7,LL/Latin America
+Arfyss (Nicolás López),Limitationss (Alvin Alvarez),7,LL/Latin America
+Arfyss (Nicolás López),Troy (Kim Joon-yeong (김준영)),7,LL/Latin America
+Arfyss (Nicolás López),Vamir (Floris Tuijn),7,LL/Latin America
+Arfyss (Nicolás López),Zelt (Jairo Urbina),7,LL/Latin America
+Coma (Hong Hee-bum) (Hong Hee-bum (홍희범)),Limitationss (Alvin Alvarez),26,LL/Latin America
+Coma (Hong Hee-bum) (Hong Hee-bum (홍희범)),Nipphu (Franco Funes),19,LL/Latin America
+Coma (Hong Hee-bum) (Hong Hee-bum (홍희범)),Troy (Kim Joon-yeong (김준영)),26,LL/Latin America
+Coma (Hong Hee-bum) (Hong Hee-bum (홍희범)),Vamir (Floris Tuijn),26,LL/Latin America
+Coma (Hong Hee-bum) (Hong Hee-bum (홍희범)),Zelt (Jairo Urbina),26,LL/Latin America
+Limitationss (Alvin Alvarez),Nipphu (Franco Funes),19,LL/Latin America
+Limitationss (Alvin Alvarez),Troy (Kim Joon-yeong (김준영)),26,LL/Latin America
+Limitationss (Alvin Alvarez),Vamir (Floris Tuijn),26,LL/Latin America
+Limitationss (Alvin Alvarez),Zelt (Jairo Urbina),26,LL/Latin America
+Nipphu (Franco Funes),Troy (Kim Joon-yeong (김준영)),19,LL/Latin America
+Nipphu (Franco Funes),Vamir (Floris Tuijn),19,LL/Latin America
+Nipphu (Franco Funes),Zelt (Jairo Urbina),19,LL/Latin America
+Troy (Kim Joon-yeong (김준영)),Vamir (Floris Tuijn),26,LL/Latin America
+Troy (Kim Joon-yeong (김준영)),Zelt (Jairo Urbina),26,LL/Latin America
+Vamir (Floris Tuijn),Zelt (Jairo Urbina),26,LL/Latin America
+Akunma (Miguel Aylas),Kindless (Benjamin Fuenzalida),25,LL/Latin America
+Akunma (Miguel Aylas),QQmore (Diego Apablaza),25,LL/Latin America
+Akunma (Miguel Aylas),Shmebu (Agustín Valetti),25,LL/Latin America
+Akunma (Miguel Aylas),TopLop (Nicolás Marinoni),25,LL/Latin America
+Akunma (Miguel Aylas),Ukkyr (Markus Leuemberger),25,LL/Latin America
+Kindless (Benjamin Fuenzalida),Shmebu (Agustín Valetti),25,LL/Latin America
+Kindless (Benjamin Fuenzalida),Ukkyr (Markus Leuemberger),25,LL/Latin America
+QQmore (Diego Apablaza),Shmebu (Agustín Valetti),50,LL/Latin America
+QQmore (Diego Apablaza),Ukkyr (Markus Leuemberger),50,LL/Latin America
+Shmebu (Agustín Valetti),TopLop (Nicolás Marinoni),50,LL/Latin America
+Shmebu (Agustín Valetti),Ukkyr (Markus Leuemberger),50,LL/Latin America
+TopLop (Nicolás Marinoni),Ukkyr (Markus Leuemberger),50,LL/Latin America
+Acce (Emmanuel Juárez),Genthix (Mariano Polonsky),10,LL/Latin America
+Acce (Emmanuel Juárez),Xypherz (Santiago de León),12,LL/Latin America
+Dye (Gerson Castaño),Genthix (Mariano Polonsky),10,LL/Latin America
+Dye (Gerson Castaño),MarioMe (Mario Reyes),7,LL/Latin America
+Dye (Gerson Castaño),Xypherz (Santiago de León),12,LL/Latin America
+Genthix (Mariano Polonsky),Leza (Francisco Jara),10,LL/Latin America
+Genthix (Mariano Polonsky),Nobody (Nicolás Ale) (Nicolás Ale),10,LL/Latin America
+Genthix (Mariano Polonsky),Xypherz (Santiago de León),10,LL/Latin America
+Leza (Francisco Jara),Xypherz (Santiago de León),12,LL/Latin America
+MarioMe (Mario Reyes),Nobody (Nicolás Ale) (Nicolás Ale),7,LL/Latin America
+MarioMe (Mario Reyes),Spooky (Miroslav Gochev) (Miroslav Gochev),5,LL/Latin America
+MarioMe (Mario Reyes),Xypherz (Santiago de León),2,LL/Latin America
+Baula (Alejandro Serrano),Blossom (Park Beom-chan (박범찬)),13,LL/Latin America
+Baula (Alejandro Serrano),Fix (Nicolás Sayago),16,LL/Latin America
+Baula (Alejandro Serrano),Fix Ma (Ma Jae-bum (마재범)),2,LL/Latin America
+Baula (Alejandro Serrano),Minibestia (Jesús Andrés Coll),11,LL/Latin America
+Blossom (Park Beom-chan (박범찬)),Crecre (Gabriel Grimaldi),1,LL/Latin America
+Blossom (Park Beom-chan (박범찬)),Fix (Nicolás Sayago),14,LL/Latin America
+Blossom (Park Beom-chan (박범찬)),Fix Ma (Ma Jae-bum (마재범)),2,LL/Latin America
+Blossom (Park Beom-chan (박범찬)),MANTARRAYA (Juan Abdón),14,LL/Latin America
+Blossom (Park Beom-chan (박범찬)),Minibestia (Jesús Andrés Coll),12,LL/Latin America
+Blossom (Park Beom-chan (박범찬)),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),14,LL/Latin America
+Crecre (Gabriel Grimaldi),Fix (Nicolás Sayago),1,LL/Latin America
+Crecre (Gabriel Grimaldi),Minibestia (Jesús Andrés Coll),1,LL/Latin America
+Drinker (Lee Seung-hoo (이승후)),Fix (Nicolás Sayago),3,LL/Latin America
+Fix (Nicolás Sayago),Fix Ma (Ma Jae-bum (마재범)),2,LL/Latin America
+Fix (Nicolás Sayago),MANTARRAYA (Juan Abdón),17,LL/Latin America
+Fix (Nicolás Sayago),Minibestia (Jesús Andrés Coll),12,LL/Latin America
+Fix (Nicolás Sayago),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),17,LL/Latin America
+Fix (Nicolás Sayago),Xypherz (Santiago de León),3,LL/Latin America
+Fix Ma (Ma Jae-bum (마재범)),MANTARRAYA (Juan Abdón),2,LL/Latin America
+Fix Ma (Ma Jae-bum (마재범)),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),2,LL/Latin America
+MANTARRAYA (Juan Abdón),Minibestia (Jesús Andrés Coll),12,LL/Latin America
+Minibestia (Jesús Andrés Coll),Sky (Kim Ha-neul) (Kim Ha-neul (김하늘)),12,LL/Latin America
+Hoglet (Kim Gwang-hyeop (김광협)),Newbie (Leandro Marcos),25,LL/Latin America
+Hoglet (Kim Gwang-hyeop (김광협)),Parang (Lee Sang-won (이상원)),25,LL/Latin America
+Hoglet (Kim Gwang-hyeop (김광협)),Plugo (Joaquín Pérez),25,LL/Latin America
+Hoglet (Kim Gwang-hyeop (김광협)),Stardust (Son Seok-hee) (Son Seok-hee (손석희)),25,LL/Latin America
+Hoglet (Kim Gwang-hyeop (김광협)),Zeicro (Juan Fierro),25,LL/Latin America
+Choisix (Steven Cordero),Cotopaco (Sergio Silva),5,LL/Latin America
+Choisix (Steven Cordero),Relic (José Pombo),5,LL/Latin America
+Choisix (Steven Cordero),Renyu (Renato Gallegos),5,LL/Latin America
+Choisix (Steven Cordero),SolidSnake (Diego Vallejo),5,LL/Latin America
+Choisix (Steven Cordero),Soren (Carlos Ibarra) (Carlos Ibarra),5,LL/Latin America
+Buggax (Mateo Aroztegui),Pierre (Misael Di Ciancia),34,LL/Latin America
+Oddie (Sebastián Niño),Pierre (Misael Di Ciancia),34,LL/Latin America
+Pierre (Misael Di Ciancia),Seiya (Édgar Bracamontes),34,LL/Latin America
+Pierre (Misael Di Ciancia),Slow (Eduardo Garcés),34,LL/Latin America
+Pierre (Misael Di Ciancia),Warangelus (Fabián Llanos),34,LL/Latin America
+Manu (Manuel Villa),Nipphu (Franco Funes),25,LL/Latin America
+Manu (Manuel Villa),QQmore (Diego Apablaza),25,LL/Latin America
+Manu (Manuel Villa),Shmebu (Agustín Valetti),25,LL/Latin America
+Manu (Manuel Villa),TopLop (Nicolás Marinoni),25,LL/Latin America
+Manu (Manuel Villa),Ukkyr (Markus Leuemberger),25,LL/Latin America
+Nipphu (Franco Funes),Shmebu (Agustín Valetti),25,LL/Latin America
+Nipphu (Franco Funes),TopLop (Nicolás Marinoni),25,LL/Latin America
+Nipphu (Franco Funes),Ukkyr (Markus Leuemberger),25,LL/Latin America
+Acce (Emmanuel Juárez),Baula (Alejandro Serrano),33,LL/Latin America
+Acce (Emmanuel Juárez),Grell (Jesús Loya),33,LL/Latin America
+Baula (Alejandro Serrano),Grell (Jesús Loya),33,LL/Latin America
+Baula (Alejandro Serrano),Leza (Francisco Jara),33,LL/Latin America
+Dye (Gerson Castaño),Grell (Jesús Loya),33,LL/Latin America
+Grell (Jesús Loya),Leza (Francisco Jara),33,LL/Latin America
+Grell (Jesús Loya),Nobody (Nicolás Ale) (Nicolás Ale),31,LL/Latin America
+DCStar (Carlos Méndez Mayoral),Enatsu (Gonzalo Peredo Álvarez),15,LL/Latin America
+DCStar (Carlos Méndez Mayoral),Itsi (Ignacio García),21,LL/Latin America
+DCStar (Carlos Méndez Mayoral),Kindless (Benjamin Fuenzalida),21,LL/Latin America
+DCStar (Carlos Méndez Mayoral),Straight (Roberto Guallichico),21,LL/Latin America
+DCStar (Carlos Méndez Mayoral),Xuradel (Luis Escobar),21,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),Itsi (Ignacio García),19,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),Kindless (Benjamin Fuenzalida),19,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),Xuradel (Luis Escobar),19,LL/Latin America
+Itsi (Ignacio García),Kindless (Benjamin Fuenzalida),25,LL/Latin America
+Itsi (Ignacio García),Straight (Roberto Guallichico),25,LL/Latin America
+Itsi (Ignacio García),Xuradel (Luis Escobar),25,LL/Latin America
+Kindless (Benjamin Fuenzalida),Straight (Roberto Guallichico),25,LL/Latin America
+Kindless (Benjamin Fuenzalida),Xuradel (Luis Escobar),25,LL/Latin America
+Straight (Roberto Guallichico),Xuradel (Luis Escobar),25,LL/Latin America
+Akunma (Miguel Aylas),Aloned (Tomás Díaz),21,LL/Latin America
+Akunma (Miguel Aylas),Gralou (Emanuel Trasande),21,LL/Latin America
+Akunma (Miguel Aylas),Josedeodo (Brandon Joel Villegas),21,LL/Latin America
+Akunma (Miguel Aylas),Otto (Otávio Rodrigues) (Otávio Rodrigues),21,LL/Latin America
+Akunma (Miguel Aylas),Zeypher (Esteban Guzmán),21,LL/Latin America
+Aloned (Tomás Díaz),Gralou (Emanuel Trasande),21,LL/Latin America
+Aloned (Tomás Díaz),Otto (Otávio Rodrigues) (Otávio Rodrigues),21,LL/Latin America
+Aloned (Tomás Díaz),Zeypher (Esteban Guzmán),21,LL/Latin America
+Gralou (Emanuel Trasande),Josedeodo (Brandon Joel Villegas),21,LL/Latin America
+Gralou (Emanuel Trasande),Otto (Otávio Rodrigues) (Otávio Rodrigues),21,LL/Latin America
+Gralou (Emanuel Trasande),Zeypher (Esteban Guzmán),21,LL/Latin America
+Josedeodo (Brandon Joel Villegas),Otto (Otávio Rodrigues) (Otávio Rodrigues),21,LL/Latin America
+Josedeodo (Brandon Joel Villegas),Zeypher (Esteban Guzmán),21,LL/Latin America
+Otto (Otávio Rodrigues) (Otávio Rodrigues),Zeypher (Esteban Guzmán),21,LL/Latin America
+Fix (Nicolás Sayago),Froststrike (Lucas Valverde),21,LL/Latin America
+Fix (Nicolás Sayago),Nate (Damian Rea),21,LL/Latin America
+Fix (Nicolás Sayago),Revehaza (Luis López),21,LL/Latin America
+Fix (Nicolás Sayago),Shadow (Facundo Cuello) (Facundo Cuello),21,LL/Latin America
+Fix (Nicolás Sayago),Zelt (Jairo Urbina),21,LL/Latin America
+Froststrike (Lucas Valverde),Nate (Damian Rea),21,LL/Latin America
+Froststrike (Lucas Valverde),Revehaza (Luis López),21,LL/Latin America
+Froststrike (Lucas Valverde),Shadow (Facundo Cuello) (Facundo Cuello),21,LL/Latin America
+Froststrike (Lucas Valverde),Zelt (Jairo Urbina),21,LL/Latin America
+Nate (Damian Rea),Revehaza (Luis López),21,LL/Latin America
+Nate (Damian Rea),Shadow (Facundo Cuello) (Facundo Cuello),21,LL/Latin America
+Nate (Damian Rea),Zelt (Jairo Urbina),21,LL/Latin America
+Revehaza (Luis López),Shadow (Facundo Cuello) (Facundo Cuello),21,LL/Latin America
+Revehaza (Luis López),Zelt (Jairo Urbina),21,LL/Latin America
+Shadow (Facundo Cuello) (Facundo Cuello),Zelt (Jairo Urbina),21,LL/Latin America
+Acce (Emmanuel Juárez),Limitationss (Alvin Alvarez),2,LL/Latin America
+Baula (Alejandro Serrano),Limitationss (Alvin Alvarez),2,LL/Latin America
+Dye (Gerson Castaño),Limitationss (Alvin Alvarez),2,LL/Latin America
+Grell (Jesús Loya),Limitationss (Alvin Alvarez),2,LL/Latin America
+Leza (Francisco Jara),Limitationss (Alvin Alvarez),2,LL/Latin America
+DCStar (Carlos Méndez Mayoral),Minibestia (Jesús Andrés Coll),6,LL/Latin America
+Enatsu (Gonzalo Peredo Álvarez),Minibestia (Jesús Andrés Coll),10,LL/Latin America
+Itsi (Ignacio García),Minibestia (Jesús Andrés Coll),10,LL/Latin America
+Kindless (Benjamin Fuenzalida),Minibestia (Jesús Andrés Coll),10,LL/Latin America
+Minibestia (Jesús Andrés Coll),Straight (Roberto Guallichico),10,LL/Latin America
+Minibestia (Jesús Andrés Coll),Xuradel (Luis Escobar),10,LL/Latin America
+Chomi (José Miguel Díaz),Hobbler (Felipe Tobón),4,LL/Latin America
+Chomi (José Miguel Díaz),Julaxe (Julián Escobar),4,LL/Latin America
+Chomi (José Miguel Díaz),Madoka (José Melquiades),4,LL/Latin America
+Chomi (José Miguel Díaz),Sander (Alejandro Martinez),4,LL/Latin America
+Chomi (José Miguel Díaz),Suppa (Alejandro Restrepo),4,LL/Latin America
+Hobbler (Felipe Tobón),Julaxe (Julián Escobar),4,LL/Latin America
+Hobbler (Felipe Tobón),Madoka (José Melquiades),4,LL/Latin America
+Hobbler (Felipe Tobón),Sander (Alejandro Martinez),4,LL/Latin America
+Hobbler (Felipe Tobón),Suppa (Alejandro Restrepo),4,LL/Latin America
+Julaxe (Julián Escobar),Madoka (José Melquiades),4,LL/Latin America
+Julaxe (Julián Escobar),Sander (Alejandro Martinez),4,LL/Latin America
+Julaxe (Julián Escobar),Suppa (Alejandro Restrepo),4,LL/Latin America
+Madoka (José Melquiades),Sander (Alejandro Martinez),4,LL/Latin America
+Madoka (José Melquiades),Suppa (Alejandro Restrepo),4,LL/Latin America
+Sander (Alejandro Martinez),Suppa (Alejandro Restrepo),4,LL/Latin America
