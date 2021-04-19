@@ -14,25 +14,25 @@ Considering an undirected Graph G:
 ## Descriptive statistics
 Descriptive statistics of the graph
 
-Region | Nodes | Edges | Density | Days Active
------------- | ------------- | ------------- | ------------- | -------------
-LJL/Japan |211 | 1155 | 0.0521 | 2259
-LL/Latin America |138 | 643 | 0.0680 | 803
-LPL/China |1073 | 8109 | 0.0141 | 2984
-OPL/Oceania |382 | 2223 | 0.0305 | 2032
-LCS/North America |568 | 4642 | 0.0288 | 2975
-LEC/Europe |805 | 4614 | 0.0143 | 2973
-LMS/Taiwan + Hong Kong + Macao |394 | 2628 | 0.0339 | 1718
-LST/Southeast Asia |78 | 209 | 0.0696 | 399
-LCK/South Korea |649 | 4397 | 0.0209 | 2829
-TCL/Turkey |586 | 4160 | 0.0243 | 2259
-PCL/PCS |126 | 474 | 0.0602 | 397
-CBLOL/Brazil |406 | 3670 | 0.0446 | 2532
-VCS/Vietnam |182 | 1441 | 0.0875 | 1706
-LCL/Russia |198 | 1010 | 0.0518 | 1902
-WORLDS |608 | 2146 | 0.0116 | NA
-MSI |251 | 757 | 0.0241 | NA
-All |4966 | 39620 | 0.0032 | NA
+Region | Nodes | Edges | Density | Triangles | Average Clustering Coefficient | Days Active
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+LJL/Japan | 211 | 1155 | 0.0521 | 2116 | 0.68 | 2259
+LL/Latin America | 138 | 643 | 0.0680 | 1126 | 0.74 | 803
+LPL/China | 1073 | 8109 | 0.0141 | 20885 | 0.59 | 2984
+OPL/Oceania | 382 | 2223 | 0.0305 | 3592 | 0.59 | 2032
+LCS/North America | 568 | 4642 | 0.0288 | 12187 | 0.62 | 2975
+LEC/Europe | 805 | 4614 | 0.0143 | 9309 | 0.69 | 2973 
+LMS/Taiwan + Hong Kong + Macao | 394 | 2628 | 0.0339 | 8138 | 0.70 | 1718
+LST/Southeast Asia | 78 | 209 | 0.0696 | 255 | 0.88 | 399
+LCK/South Korea | 649 | 4397 | 0.0209 | 9403 | 0.62 | 2829
+TCL/Turkey | 586 | 4160 | 0.0243 | 8571 | 0.62 | 2259
+PCL/PCS | 126 | 474 | 0.0602 | 837 | 0.83 | 397
+CBLOL/Brazil | 406 | 3670 | 0.0446 | 16853 | 0.66 | 2532
+VCS/Vietnam | 182 | 1441 | 0.0875 | 3504 | 0.58 | 1706
+LCL/Russia | 198 | 1010 | 0.0518 | 1620 | 0.67 | 1902
+WORLDS | 608 | 2146 | 0.0116 | 3245 | 0.84 | NA
+MSI | 251 | 757 | 0.0241 | 1095 | 0.91 | NA
+All | 4966 | 39620 | 0.0032 | 100483 | 0.59 | NA
 
 ## Visual Inspection
 
@@ -79,6 +79,4 @@ MSI | 3.33 | 7 | 2.3 (Mata (Cho Se-hyeong (조세형))) | 4.22 (ShiauC (Liu Chia
 ALL | 4.39 | 11 | 3.15 (GBM (Lee Chang-seok (이창석))) | 7.27 (Azure (Noel Christopher Cuadra) (Noel Christopher Cuadra))
 
 
-### Clustering coefficient
-
-### Triangles
+<img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/distance_distribution.png" alt="Test" width="512" height="512">
