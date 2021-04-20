@@ -82,3 +82,27 @@ ALL | 4.39 | 11 | 3.15 (GBM (Lee Chang-seok (이창석))) | 7.27 (Azure (Noel Ch
 
 
 <img src="https://github.com/simonvw95/LeagueOfLegendsCompetitiveNetwork/blob/main/images/distance_distribution.png" alt="Test" width="512" height="512">
+
+
+### Node Centrality Measures
+
+Region | Closeness Centrality & Node | Betweenness Centrality & Node |
+------------ | ------------- | -------------
+LJL/Japan | 0.5 (Paz (Shirou Sasaki (佐々木 志郎))) | 0.1 (Cogcog (Ryohei Matsuda)) | 
+LL/Latin America | 0.47 (Baula (Alejandro Serrano)) | 0.12 (Unforgiven (Maximiliano Utrero) (Maximiliano Utrero)) | 
+LPL/China | 0.4 (Amazing (Liu Shi-Yu) (Liu Shi-Yu (刘时雨))) | 0.03 (y4 (Wang Nong-Mo (王弄墨))) | 
+OPL/Oceania | 0.44 (Pabu (Jackson Pavone)) | 0.05 (Sybol (Lachlan Civil)) | 
+LCS/North America | 0.48 (KEITHMCBRIEF (Yuri Jew)) | 0.04 (Cris (Cristian Rosales)) | 
+LEC/Europe | 0.35 (Kikis (Mateusz Szkudlarek)) | 0.05 (Werlyb (Jorge Casanovas)) | 
+LMS/Taiwan + Hong Kong + Macao | 0.42 (SkuLL (Ng Kwok Man (吳國玟))) | 0.06 (Kenny (Macao Esports) ()) | 
+LCK/South Korea | 0.4 (SoHwan (Kim Jun-yeong (김준영))) | 0.04 (Smeb (Song Kyung-ho (송경호))) | 
+TCL/Turkey | 0.47 (HolyPhoenix (Anıl Işık)) | 0.06 (HolyPhoenix (Anıl Işık)) | 
+PCL/PCS | 0.26 (Rock (Tsai Chung-Ting) (Tsai Chung-Ting (蔡忠廷))) | 0.13 (Maoan (Chien Mao-An (簡茂安))) | 
+CBLOL/Brazil | 0.5 (ziriguidun (Pedro Vilarinho)) | 0.05 (Zuao (João Vitor Morais)) | 
+VCS/Vietnam | 0.54 (Zin (Nguyễn Tuấn Thọ)) | 0.09 (Eric (Vietnamese Player) ()) | 
+LCL/Russia | 0.48 (NoNHoly (Aleksandr Ovchinikov)) | 0.12 (dayruin (Boris Sherbakov)) | 
+WORLDS | 0.19 (Faker (Lee Sang-hyeok (이상혁))) | 0.09 (Uzi (Jian Zi-Hao) (Jian Zi-Hao (简自豪))) | 
+MSI | 0.08 (Mata (Cho Se-hyeong (조세형))) | 0.02 (Mata (Cho Se-hyeong (조세형))) | 
+All | TBD | TBD |
+
+*some measure values will be updated, incorrect data was spotted*
