@@ -32,8 +32,10 @@ VCS/Vietnam | 182 | 1441 | 0.0875 | 3504 | 0.58 | 1706
 LCL/Russia | 198 | 1010 | 0.0518 | 1620 | 0.67 | 1902
 WORLDS | 608 | 2146 | 0.0116 | 3245 | 0.84 | NA
 MSI | 251 | 757 | 0.0241 | 1095 | 0.91 | NA
-All | 4947 | 42231 | 0.0035 | TBD | TBD | NA
+All | 4947 | 42231 | 0.0035 | 100483\* | 0.59 | NA
 
+
+\* The number of triangles in the row 'All' are not equivalent to the sum of the triangles of the other rows. In the visualizations and other analyses, the full Graph (All) is a MultiGraph, where more than one edge can occur between two nodes. However, counting triangles for MultiGraphs is not particularly easy, therefore the triangle calculation was done on a Graph instance of the 'All' network. This may be updated later as there is a [method](https://www.researchgate.net/publication/258114016_When_a_Graph_is_not_so_Simple_Counting_Triangles_in_Multigraph_Streams) for triangle calculation for Graphs 
 ## Visual Inspection
 
 ### LCK & LPL & LEC & LCS
