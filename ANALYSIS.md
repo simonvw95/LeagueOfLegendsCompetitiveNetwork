@@ -60,6 +60,7 @@ All | 4940 | 42124 | 0.0035 | 100219 | 0.59 | NA
 Not factoring in weights, applied to the largest connected component.
 
 Region | Average Distance | Diameter (Longest Distance) | Shortest Average Distance & Node | Longest Average Distance & Node
+------------ | ------------- | ------------- | ------------ | ------------- | 
 LJL/Japan | 2.68 | 5 | 1.93 (Paz (Shirou Sasaki (佐々木 志郎))) | 3.45 (Dicey (Daisuke Ashida))
 LL/Latin America | 2.78 | 5 | 2.01 (Baula (Alejandro Serrano)) | 3.5 (Jirall (Daniel del Castillo))
 LPL/China | 3.27 | 8 | 2.47 (Amazing (Liu Shi-Yu) (Liu Shi-Yu (刘时雨))) | 5.29 (QRen (Ren Qiang (任强)))
