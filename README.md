@@ -52,7 +52,7 @@ The edge list was meant for undirected networks, the existence of a connection s
 Of the 42,000 edges, only a handful of players in that edge didn't have a gamer tag, this affected 107 edges to be exact. Though their first and last names are still usable.
 
 ## final_meta_data.csv
-The final_meta_data csv file contains roughly 18,000 lines and six columns. The meta data of every league and tournament was gathered and joined in to a single csv file. The entries in some columns were standardized in order to remove duplicate entries (e.g. adc/ADC/carry/bot were rewritten to Ad Carry). Duplicate entries may still appear due to missing data, inconsistent team naming or multiple roles/teams per player. The format of the meta_data.csv file is as follows, including a few example rows:
+The final_meta_data csv file contains roughly 17,500 lines and six columns. The meta data of every league and tournament was gathered and joined in to a single csv file. The entries in some columns were standardized in order to remove duplicate entries (e.g. adc/ADC/carry/bot were rewritten to Ad Carry). Duplicate entries may still appear due to missing data, inconsistent team naming or multiple roles/teams per player. The format of the meta_data.csv file is as follows, including a few example rows:
 
 gamer_tag | full_name | role | residency | country | team |
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
@@ -62,7 +62,7 @@ brTT | Felipe Gonçalves | Ad Carry | Brazil | brazil | paiN Gaming
 LEP | Pedro Luiz Marcari | Top | Brazil | brazil |  KaBuM! Orange
 
 ## final_teams_data.csv
-The final_teams_data csv file is in a wide format, it contains all of the named teams as columns. The rows are the members of that team that **actively** played together, as mentioned in the 2nd paragraph. As a result of the wide variety of teams, including teams that have simply renamed, the number of teams is very large. The resulting dataframe/table that can be created from this file contains 1529 teams with a maximum of 50 players per team.
+The final_teams_data csv file is in a wide format, it contains all of the named teams as columns. The rows are the members of that team that **actively** played together, as mentioned in the 2nd paragraph. As a result of the wide variety of teams, including teams that have simply renamed, the number of teams is very large. The resulting dataframe/table that can be created from this file contains 1525 teams with a maximum of 50 players per team.
 
 CNB | KaBuM | kStars | etc.
 ------------ | ------------- | ------------- | -------------
