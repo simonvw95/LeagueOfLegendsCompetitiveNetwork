@@ -906,6 +906,14 @@ sorted(G.degree, key = lambda x: x[1], reverse = True)[0:20]
 # of these two players
 names.append('Badgamelol ()')
 names.append('西西 ()')
+# these players below don't have a last name and messed up the webscraping process
+# creating connections where no connections were present
+names.append('Eric (Vietnamese Player) ()')
+names.append('Kenny (Macao Esports) ()')
+names.append('La Ast ()')
+names.append('Tenphet ()')
+names.append('Ycc (YouthCrew Esports) ()')
+names.append('yasupenber ()')
 
 lowest_degree_list = sorted(G.degree, key = lambda x: x[1], reverse = False)[0:20]
 # inspect nodes with the lowest degree, theoretically there should not be any nodes with
@@ -919,10 +927,10 @@ for i in lowest_degree_list:
 
 # clean the edge list
 indices = []
-for i in range(len(edge_list)):
-    for j in names:
-        if edge_list['From'][i] == j or edge_list['To'][i] == j:
-            indices.append(i)
+for i in names:
+    for j in range(len(edge_list)):
+        if edge_list['From'][j] == i or edge_list['To'][j] == i:
+            indices.append(j)
 
 edge_list = edge_list.drop(indices)
 edge_list = edge_list.reset_index(drop = True)
@@ -931,14 +939,26 @@ edge_list.to_csv(path_or_buf = path + '/final_main_files/' + 'league_2012_2021_e
     
 # clean the meta data
 indices_meta = []
-for i in range(len(meta_data)):
-    for j in names:
-        if meta_data['gamer_tag'][i] == j:
-            indices_meta.append(i)
+# string splitting and partitioning for names won't work for all names
+# so we drop the rows where players have no full name
+meta_data.fillna('', inplace = True)
+
+for i in names:
+    full_name = i.partition('(')[-1][:-1]
+    full_name = " ".join(full_name.split())
+    gamer_tag = i.split('(')[0]
+    gamer_tag = " ".join(gamer_tag.split())
+    
+    for j in range(len(meta_data)):
+        if meta_data['gamer_tag'][j] == gamer_tag and meta_data['full_name'][j] == full_name:
+            indices_meta.append(j)
+            
+        if meta_data['full_name'][j] == '':
+            indices_meta.append(j)
         
 
 
-meta_data = meta_data.drop(indices_meta)
+meta_data = meta_data.drop(list(set(indices_meta)))
 meta_data = meta_data.reset_index(drop = True)
 meta_data.to_csv(path_or_buf = path + '/final_main_files/' + 'final_meta_data.csv', index = False)
    
@@ -948,14 +968,15 @@ new_teams_data = pd.DataFrame(columns = teams_data.columns)
 for i in teams_data.columns:
     for j in range(len(teams_data[i])):
         for name in names:
-            if teams_data[i][j] == j:
+            if teams_data[i][j] == name:
                 teams_data.loc[j, i] = numpy.nan
 
             
     new_teams_data[i] = pd.Series(teams_data[i].dropna().reset_index(drop = True))
     
 new_teams_data = new_teams_data.reset_index(drop = True)
-
+# drop teams that have NO teammembers
+new_teams_data = new_teams_data.dropna(axis = 1, how = 'all')
 
 new_teams_data.to_csv(path_or_buf = path + '/final_main_files/' + 'final_teams_data.csv', index = False)
 
@@ -999,7 +1020,7 @@ for key in csv_collection:
     
 len_cnt == len(edge_list)
 
-# no we can save the individual edge lists
+# now we can save the individual edge lists
 for key in csv_collection:
     name_file = key.replace('/', '_')
     csv_collection[key].to_csv(path + 'sub_edge_lists/' + name_file, index = False)
@@ -1014,7 +1035,15 @@ for i in range(len(edge_list)):
         cnt += 1
         
 
-# 
+path = 'C:/Users/Simon/OneDrive/Documents/GitHub/LeagueTeamsNetwork/final_main_files/'
+# count the number of players that have no last name
+edge_list = pd.read_csv(path + '/final_main_files/' + 'league_2012_2021_edge_list.csv')
+meta_data = pd.read_csv(path + '/final_main_files/' + 'final_meta_data.csv')
+teams_data = pd.read_csv(path + '/final_main_files/' + 'final_teams_data.csv')
+cnt = 0
+for i in range(len(meta_data)):
+    if meta_data['full_name'][i] == numpy.nan:
+        cnt += 1
         
 
 
